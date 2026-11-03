@@ -1,6 +1,7 @@
 
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,10 +9,15 @@
     <title>AIToday | AI, Cybersecurity & Technology</title>
 
     <meta name="description"
-          content="Explore Artificial Intelligence, Cybersecurity,
-          Cyberattacks and emerging technologies with AIToday.">
+        content="Explore Artificial Intelligence, Cybersecurity, Cyberattacks and emerging technologies with AIToday.">
+
+    <meta name="keywords"
+        content="AI, Artificial Intelligence, Cybersecurity, Cyberattacks, Technology, Machine Learning">
+
+    <meta name="author" content="AIToday">
 
     <style>
+
         * {
             margin: 0;
             padding: 0;
@@ -20,14 +26,17 @@
 
         html {
             scroll-behavior: smooth;
+            scroll-padding-top: 85px;
         }
 
         body {
             font-family: Arial, sans-serif;
             background: #0b1120;
             color: #f8fafc;
-            line-height: 1.6;
+            line-height: 1.7;
         }
+
+        /* HEADER */
 
         header {
             background: #111c30;
@@ -38,34 +47,55 @@
             flex-wrap: wrap;
             gap: 15px;
             border-bottom: 1px solid #263449;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
         }
 
         .logo {
             font-size: 27px;
             font-weight: bold;
             color: #38bdf8;
+            text-decoration: none;
+        }
+
+        .logo:hover {
+            color: #7dd3fc;
+        }
+
+        nav {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
         }
 
         nav a {
             color: #e2e8f0;
             text-decoration: none;
-            margin-left: 20px;
-            font-size: 14px;
+            padding: 9px 13px;
+            border-radius: 6px;
+            font-size: 15px;
+            transition: 0.3s;
         }
 
-        nav a:hover {
-            color: #38bdf8;
+        nav a:hover,
+        nav a:focus {
+            background: #0284c7;
+            color: white;
         }
+
+        /* HERO */
 
         .hero {
             text-align: center;
-            padding: 100px 20px;
+            padding: 110px 20px;
             background: linear-gradient(135deg, #101c36, #123b58);
         }
 
         .hero h1 {
             font-size: 46px;
             margin-bottom: 15px;
+            line-height: 1.3;
         }
 
         .hero h1 span {
@@ -75,27 +105,39 @@
         .hero p {
             color: #cbd5e1;
             max-width: 650px;
-            margin: 0 auto 25px;
+            margin: 0 auto 30px;
+            font-size: 17px;
         }
 
         .hero a {
             display: inline-block;
             background: #0284c7;
             color: white;
-            padding: 12px 25px;
+            padding: 13px 27px;
             border-radius: 6px;
             text-decoration: none;
+            font-weight: bold;
+            transition: 0.3s;
         }
 
+        .hero a:hover {
+            background: #0369a1;
+            transform: translateY(-3px);
+        }
+
+        /* GENERAL SECTIONS */
+
         section {
-            padding: 65px 8%;
+            padding: 70px 8%;
         }
 
         .section-title {
             font-size: 30px;
-            margin-bottom: 30px;
+            margin-bottom: 35px;
             text-align: center;
         }
+
+        /* CATEGORIES */
 
         .categories {
             display: grid;
@@ -104,16 +146,17 @@
             gap: 20px;
         }
 
-        .category, .article {
+        .category {
             background: #172338;
             padding: 25px;
             border-radius: 10px;
             border: 1px solid #293a52;
-            transition: transform 0.2s;
+            transition: 0.3s;
         }
 
-        .category:hover, .article:hover {
+        .category:hover {
             transform: translateY(-5px);
+            border-color: #38bdf8;
         }
 
         .category h3 {
@@ -121,10 +164,12 @@
             margin-bottom: 10px;
         }
 
-        .category p, .article p {
+        .category p {
             color: #cbd5e1;
             font-size: 14px;
         }
+
+        /* ARTICLES */
 
         .articles {
             display: grid;
@@ -133,17 +178,50 @@
             gap: 20px;
         }
 
+        .article {
+            background: #172338;
+            padding: 25px;
+            border-radius: 10px;
+            border: 1px solid #293a52;
+            transition: 0.3s;
+        }
+
+        .article:hover {
+            transform: translateY(-5px);
+            border-color: #38bdf8;
+        }
+
         .article h3 {
             margin-bottom: 12px;
             color: #38bdf8;
         }
 
+        .article p {
+            color: #cbd5e1;
+            font-size: 14px;
+        }
+
         .article a {
             display: inline-block;
-            margin-top: 15px;
+            margin-top: 18px;
             color: #7dd3fc;
             text-decoration: none;
+            font-weight: bold;
         }
+
+        .article a:hover {
+            color: white;
+            text-decoration: underline;
+        }
+
+        .coming-soon {
+            display: inline-block;
+            margin-top: 18px;
+            color: #94a3b8;
+            font-size: 13px;
+        }
+
+        /* ABOUT */
 
         #about {
             text-align: center;
@@ -151,16 +229,22 @@
         }
 
         #about p {
-            max-width: 700px;
+            max-width: 750px;
             margin: auto;
             color: #cbd5e1;
         }
 
+        /* FOOTER */
+
         footer {
             text-align: center;
-            padding: 25px;
+            padding: 30px 15px;
             background: #080e19;
             color: #94a3b8;
+        }
+
+        footer p {
+            margin: 6px 0;
         }
 
         footer a {
@@ -168,150 +252,292 @@
             text-decoration: none;
         }
 
+        footer a:hover {
+            text-decoration: underline;
+        }
+
+        /* BACK TO TOP */
+
+        .back-top {
+            display: inline-block;
+            margin-top: 12px;
+            padding: 8px 15px;
+            background: #172338;
+            border-radius: 6px;
+        }
+
+        /* MOBILE RESPONSIVE */
+
         @media (max-width: 600px) {
+
             header {
                 justify-content: center;
+                padding: 15px;
             }
 
             nav {
-                text-align: center;
+                justify-content: center;
             }
 
             nav a {
-                display: inline-block;
-                margin: 5px 8px;
+                font-size: 13px;
+                padding: 7px 9px;
+            }
+
+            .hero {
+                padding: 75px 18px;
             }
 
             .hero h1 {
                 font-size: 34px;
             }
+
+            .hero p {
+                font-size: 15px;
+            }
+
+            section {
+                padding: 50px 6%;
+            }
+
+            .section-title {
+                font-size: 25px;
+            }
         }
+
     </style>
 </head>
 
 <body>
 
-    <header>
-        <div class="logo">⚡ AIToday</div>
+    <!-- HEADER -->
 
-        <nav>
-            <a href="#home">Home</a>
+    <header>
+
+        <a href="index.html" class="logo">
+            ⚡ AIToday
+        </a>
+
+        <nav aria-label="Main navigation">
+
+            <a href="index.html">Home</a>
+
             <a href="#categories">Categories</a>
+
             <a href="#articles">Articles</a>
+
             <a href="#about">About</a>
+
         </nav>
+
     </header>
 
+
+    <!-- HERO SECTION -->
+
     <section class="hero" id="home">
-        <h1>Understand Technology.<br>
+
+        <h1>
+            Understand Technology.
+            <br>
             <span>Explore Tomorrow.</span>
         </h1>
 
         <p>
             Your destination for Artificial Intelligence,
             Cybersecurity, Cyberattacks and Emerging Technologies.
+
             Learn something new about technology every day.
         </p>
 
-        <a href="#articles">Explore Articles →</a>
+        <a href="#articles">
+            Explore Articles →
+        </a>
+
     </section>
 
+
+    <!-- CATEGORIES -->
+
     <section id="categories">
-        <h2 class="section-title">Explore Categories</h2>
+
+        <h2 class="section-title">
+            Explore Categories
+        </h2>
 
         <div class="categories">
 
             <div class="category">
+
                 <h3>🤖 Artificial Intelligence</h3>
+
                 <p>
-                    Discover AI, Machine Learning, Deep Learning
-                    and the latest AI tools.
+                    Discover AI, Machine Learning,
+                    Deep Learning and the latest AI tools.
                 </p>
+
             </div>
 
+
             <div class="category">
+
                 <h3>🔐 Cybersecurity</h3>
+
                 <p>
-                    Learn about ethical hacking, online safety,
-                    network security and privacy.
+                    Learn about ethical hacking,
+                    online safety, network security and privacy.
                 </p>
+
             </div>
 
+
             <div class="category">
+
                 <h3>🛡️ Cyberattacks</h3>
+
                 <p>
-                    Explore phishing, ransomware, data breaches
-                    and real-world cyber threats.
+                    Explore phishing, ransomware,
+                    data breaches and real-world cyber threats.
                 </p>
+
             </div>
 
+
             <div class="category">
+
                 <h3>💡 Emerging Technology</h3>
+
                 <p>
                     Explore robotics, cloud computing,
                     blockchain and future innovations.
                 </p>
+
             </div>
 
         </div>
+
     </section>
 
+
+    <!-- LATEST ARTICLES -->
+
     <section id="articles">
-        <h2 class="section-title">Latest Articles</h2>
+
+        <h2 class="section-title">
+            Latest Articles
+        </h2>
 
         <div class="articles">
 
             <div class="article">
-                <h3>What Is Artificial Intelligence?</h3>
+
+                <h3>
+                    What Is Artificial Intelligence?
+                </h3>
+
                 <p>
-                    Understand how AI works, its applications
-                    and how it is transforming our world.
+                    Understand how AI works,
+                    its applications and how it is
+                    transforming our world.
                 </p>
-               <a href="what-is-ai.html">Read More →</a>
+
+                <a href="what-is-ai.html">
+                    Read Article →
+                </a>
+
             </div>
 
-            <div class="article">
-                <h3>What Is a Cyberattack?</h3>
-                <p>
-                    Learn about different types of cyberattacks
-                    and how to protect yourself.
-                </p>
-                <a href="#">Read More →</a>
-            </div>
 
             <div class="article">
-                <h3>AI in Cybersecurity</h3>
+
+                <h3>
+                    What Is a Cyberattack?
+                </h3>
+
+                <p>
+                    Learn about different types of
+                    cyberattacks and how to protect yourself.
+                </p>
+
+                <span class="coming-soon">
+                    Article coming soon
+                </span>
+
+            </div>
+
+
+            <div class="article">
+
+                <h3>
+                    AI in Cybersecurity
+                </h3>
+
                 <p>
                     Discover how artificial intelligence
                     helps identify and prevent cyber threats.
                 </p>
-                <a href="#">Read More →</a>
+
+                <span class="coming-soon">
+                    Article coming soon
+                </span>
+
             </div>
 
         </div>
+
     </section>
 
+
+    <!-- ABOUT -->
+
     <section id="about">
-        <h2 class="section-title">About AIToday</h2>
+
+        <h2 class="section-title">
+            About AIToday
+        </h2>
 
         <p>
             AIToday is a technology blog created to make
             complex technology simple and accessible.
+
             We share informative articles, practical tutorials
             and insights about Artificial Intelligence,
             Cybersecurity and the technologies shaping our future.
         </p>
+
     </section>
 
+
+    <!-- FOOTER -->
+
     <footer>
-        <p>© 2026 AIToday. All Rights Reserved.</p>
-        <p>Understand Technology. Explore Tomorrow.</p>
+
         <p>
-            <a href="https://github.com/swathi25-git/AITODAY">
-                Visit our GitHub
+            <strong>⚡ AIToday</strong>
+        </p>
+
+        <p>
+            © 2026 AIToday. All Rights Reserved.
+        </p>
+
+        <p>
+            Understand Technology. Explore Tomorrow.
+        </p>
+
+        <p>
+            <a href="https://github.com/swathi25-git/AITODAY"
+               target="_blank"
+               rel="noopener noreferrer">
+                Visit our GitHub →
             </a>
         </p>
+
+        <a href="#home" class="back-top">
+            ↑ Back to Top
+        </a>
+
     </footer>
 
 </body>
+
 </html>
