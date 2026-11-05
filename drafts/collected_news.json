@@ -1,0 +1,704 @@
+[
+    {
+        "id": "ebef47c413e7a9e7a43039e682fec229c019cff8be72d22d9f9ef486321ef254",
+        "category": "Artificial Intelligence",
+        "title": "Axiom Math wants to keep AI slop out of mathematics",
+        "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
+        "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+        "published": "Thu, 05 Nov 2026 16:16:45 +0000",
+        "collected_at": "2026-11-05T17:32:03.705987+00:00"
+    },
+    {
+        "id": "9c6e67cc65141fc07bcb20be35a11b5623ac481a7e0fd06586e5a1f56ff43515",
+        "category": "Artificial Intelligence",
+        "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+        "summary": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
+        "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+        "published": "Thu, 05 Nov 2026 15:19:05 +0000",
+        "collected_at": "2026-11-05T17:32:03.706003+00:00"
+    },
+    {
+        "id": "e79288c48dc9eade2335d1a82596ffc515c39a4ed6ed42c55e0453f67f0b7141",
+        "category": "Artificial Intelligence",
+        "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
+        "summary": "Aina's ring can also take calls and help you dictate notes on your Mac.",
+        "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
+        "published": "Thu, 05 Nov 2026 14:42:00 +0000",
+        "collected_at": "2026-11-05T17:32:03.706008+00:00"
+    },
+    {
+        "id": "f5a829f9a8eba31c4c2583ae9f164a70aacfd391e0541987634f3583705cdc6c",
+        "category": "Artificial Intelligence",
+        "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
+        "summary": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
+        "url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
+        "published": "Thu, 05 Nov 2026 14:00:00 +0000",
+        "collected_at": "2026-11-05T17:32:03.706012+00:00"
+    },
+    {
+        "id": "44f488c59aa9e3a6dd20daed5bc63eb4281e1d4156f7c3483038dcbd17f075fb",
+        "category": "Artificial Intelligence",
+        "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
+        "summary": "Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems.",
+        "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+        "published": "Thu, 05 Nov 2026 13:00:00 +0000",
+        "collected_at": "2026-11-05T17:32:03.706016+00:00"
+    },
+    {
+        "id": "86c146bd7f606cc4b783b8c7ac4c74fb97735fd15a266681c65e77bbe7f082fd",
+        "category": "Artificial Intelligence",
+        "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+        "summary": "Agility arrives on the Nasdaq today as the first publicly-traded pure-play humanoid robotics company.",
+        "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
+        "published": "Thu, 05 Nov 2026 12:00:00 +0000",
+        "collected_at": "2026-11-05T17:32:03.706020+00:00"
+    },
+    {
+        "id": "ad1030df5ce46710e212924e1881d256e4d0201ba8e5545b371146cfeca6d709",
+        "category": "Artificial Intelligence",
+        "title": "Apple is reportedly cutting budgets for its internal AI usage",
+        "summary": "The tokenmaxxing frenzy has been short-lived as bills for said tokens came due, and companies decided that token rationing might be a more fiscally sensible approach.",
+        "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+        "published": "Thu, 05 Nov 2026 01:26:22 +0000",
+        "collected_at": "2026-11-05T17:32:03.706025+00:00"
+    },
+    {
+        "id": "0ee5115bb8658d796c95200a9f773c7d7377372cc8247f67ff7a72f62497ec2c",
+        "category": "Artificial Intelligence",
+        "title": "After the midterms, a bigger clash over data centers could be coming",
+        "summary": "Data center opposition crossed party lines in Tuesday’s midterms.",
+        "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+        "published": "Thu, 05 Nov 2026 01:02:14 +0000",
+        "collected_at": "2026-11-05T17:32:03.706033+00:00"
+    },
+    {
+        "id": "7aa63af445bdd3ac983f6235430a0cfe2fb71446b8627a70dd23a832aa4ed640",
+        "category": "Artificial Intelligence",
+        "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+        "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
+        "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+        "published": "Wed, 04 Nov 2026 22:45:09 +0000",
+        "collected_at": "2026-11-05T17:32:03.706038+00:00"
+    },
+    {
+        "id": "c1e93e47438d89a0794e104ba33c0c4da7c1d41587d887c2a209155b69b0ee54",
+        "category": "Artificial Intelligence",
+        "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+        "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
+        "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+        "published": "Wed, 04 Nov 2026 22:13:16 +0000",
+        "collected_at": "2026-11-05T17:32:03.706042+00:00"
+    },
+    {
+        "id": "b314cbc6665b0c27cf4d1fcf1f0e476da31a81272d041f87f6eec352ddbd95f5",
+        "category": "Artificial Intelligence",
+        "title": "Almost no one uses AI agents to book their Uber, company says",
+        "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
+        "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+        "published": "Wed, 04 Nov 2026 21:56:01 +0000",
+        "collected_at": "2026-11-05T17:32:03.706046+00:00"
+    },
+    {
+        "id": "bd044bc53c19f14dcbd41f3ba93999dccade4ddff8d1afe30da0d2a797797546",
+        "category": "Artificial Intelligence",
+        "title": "OpenAI is already trying to shape the 2028 election",
+        "summary": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
+        "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+        "published": "Wed, 04 Nov 2026 21:25:44 +0000",
+        "collected_at": "2026-11-05T17:32:03.706050+00:00"
+    },
+    {
+        "id": "8d6f6c8bc49c9de3c6add4d3a1c688648607f9368cde926a66546b901ff70817",
+        "category": "Artificial Intelligence",
+        "title": "Meta acquires AI coding startup Conductor",
+        "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
+        "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+        "published": "Wed, 04 Nov 2026 21:10:56 +0000",
+        "collected_at": "2026-11-05T17:32:03.706054+00:00"
+    },
+    {
+        "id": "5112f3d519822a572a0230ce7a1fdd5ffb10d5fdb4797c91ad2cbeed304d986a",
+        "category": "Artificial Intelligence",
+        "title": "Open source AI is booming. Hugging Face explains who profits.",
+        "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up?&#160; On this episode of [&#8230;]",
+        "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+        "published": "Wed, 04 Nov 2026 19:30:04 +0000",
+        "collected_at": "2026-11-05T17:32:03.706058+00:00"
+    },
+    {
+        "id": "e582a56b9edebbe87a5f72e6d974b7b6fbf0cd13b51f53cab5ec1f543264f559",
+        "category": "Artificial Intelligence",
+        "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+        "summary": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
+        "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+        "published": "Wed, 04 Nov 2026 19:29:52 +0000",
+        "collected_at": "2026-11-05T17:32:03.706061+00:00"
+    },
+    {
+        "id": "b2dc36e13c44a6e4145d7cabe8c3c4ab038300f5b5f6ade39f1ba464cf3d211f",
+        "category": "Artificial Intelligence",
+        "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s&#8230;",
+        "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+        "published": "Thu, 05 Nov 2026 13:10:00 +0000",
+        "collected_at": "2026-11-05T17:32:03.826513+00:00"
+    },
+    {
+        "id": "f39511c21758bca1f0750b8e85c1e2df6459c1f2393f853132f49c5cc479cc7b",
+        "category": "Artificial Intelligence",
+        "title": "A new bill could change how the US builds energy infrastructure",
+        "summary": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week’s momentous midterms, the Senate is set to vote on the Bipartisan American Affordability and Jobs Act (BAAJA) on November 9. It’s a plan that could finally&#8230;",
+        "url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
+        "published": "Thu, 05 Nov 2026 10:00:00 +0000",
+        "collected_at": "2026-11-05T17:32:03.826525+00:00"
+    },
+    {
+        "id": "988e33cedf7304f8cc6daa3bca7ce4310206732ac6fae95fe6e10cfdcaf7af00",
+        "category": "Artificial Intelligence",
+        "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+        "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican incumbent,&#8230;",
+        "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+        "published": "Wed, 04 Nov 2026 18:50:55 +0000",
+        "collected_at": "2026-11-05T17:32:03.826530+00:00"
+    },
+    {
+        "id": "3175c1089424d0e5872208905f0af71fb8ab2c9c8cf42fe20dd4c327a0aa5584",
+        "category": "Artificial Intelligence",
+        "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+        "summary": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Join science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado for a conversation exploring possible paths to keep your mind going, including gradual&#8230;",
+        "url": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+        "published": "Wed, 04 Nov 2026 18:21:40 +0000",
+        "collected_at": "2026-11-05T17:32:03.826536+00:00"
+    },
+    {
+        "id": "5f784a9688e007719af6ee3977b42cab41ea226099f889f0477545da83a60600",
+        "category": "Artificial Intelligence",
+        "title": "What’s next for US energy policy after the midterm elections?",
+        "summary": "I’ve been locked in to my various screens since results from midterm elections started to roll in last night. And it didn’t take long to see the beginning of the blue wave: Democrats took control of both the US House of Representatives and the Senate, a dramatic swing from Donald Trump’s victory two years ago.&#160;&#160;&#8230;",
+        "url": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
+        "published": "Wed, 04 Nov 2026 17:08:00 +0000",
+        "collected_at": "2026-11-05T17:32:03.826541+00:00"
+    },
+    {
+        "id": "34220bbe6836f3c322f24281c2aaf418e8e27a34c029db3edac28d11604d3dd5",
+        "category": "Artificial Intelligence",
+        "title": "The Download: blended meat, restored sight, and the agentic web",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These startups hope “blended” food will cut our appetite for red meat&#160; In the fall of 2025, Jeff Dodge served hungry students steaming marinara sauce and meatballs. The students loved them:&#8230;",
+        "url": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
+        "published": "Wed, 04 Nov 2026 13:10:00 +0000",
+        "collected_at": "2026-11-05T17:32:03.826544+00:00"
+    },
+    {
+        "id": "6c941b016a2f37ccdc4efb7664c6f334594e6fb2d795442db79ed5cd105e9f8c",
+        "category": "Artificial Intelligence",
+        "title": "Securing the agentic enterprise with data lineage",
+        "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either handoff. When it’s&#8230;",
+        "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+        "published": "Wed, 04 Nov 2026 13:00:00 +0000",
+        "collected_at": "2026-11-05T17:32:03.826548+00:00"
+    },
+    {
+        "id": "95be758dada6d32046c03938d4d619e2b55cbe27d53554ae6fa9b24c8251b5be",
+        "category": "Artificial Intelligence",
+        "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to&#8230;",
+        "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
+        "published": "Tue, 03 Nov 2026 13:10:00 +0000",
+        "collected_at": "2026-11-05T17:32:03.826552+00:00"
+    },
+    {
+        "id": "e6e258092e928f0d256b4e64dbf57ded6531b9872c41f539873c241a99f33956",
+        "category": "Artificial Intelligence",
+        "title": "How “reverse game theory” could keep AI agents in check",
+        "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that rogue agents don’t break the law,&#8230;",
+        "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+        "published": "Tue, 03 Nov 2026 10:43:41 +0000",
+        "collected_at": "2026-11-05T17:32:03.826555+00:00"
+    },
+    {
+        "id": "b7492bd5cea1d25b75401839cffa88cf38020f9ce073410cd06af8790091a844",
+        "category": "Artificial Intelligence",
+        "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been calling artificial intelligence as “Super Intelligence.” That&#8230;",
+        "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+        "published": "Tue, 03 Nov 2026 04:18:47 +0000",
+        "collected_at": "2026-11-05T17:32:03.826559+00:00"
+    },
+    {
+        "id": "7d3fdba5d29111d07393b9b4821508f0e85459682d17d6d0be86b19a5b543c18",
+        "category": "Cybersecurity",
+        "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
+        "summary": "How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across several systems. A trusted setting can be used to lock people out. Even a simple file copy can reach places it shouldn't. And while new tools are helping find security holes faster, some important systems are still taking months, sometimes over a year, to get patched. Not exactly a",
+        "url": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
+        "published": "Thu, 05 Nov 2026 20:11:10 +0530",
+        "collected_at": "2026-11-05T17:32:04.034268+00:00"
+    },
+    {
+        "id": "1bd927d85a48e504f33cd65a2cd454e30790d84dea6d5061ff3bd44a3e24c63f",
+        "category": "Cybersecurity",
+        "title": "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out",
+        "summary": "A critical finding can move through several security tools and still leave the organization exposed.&nbsp;\n\nThe vulnerability has a severity score, and a ticket has reached the queue. Progress then depends on information the finding may lack: who owns the system, whether attackers can reach it, what protection exists, and how a change could affect the business.&nbsp;\n\nEach missing detail creates",
+        "url": "https://thehackernews.com/2026/11/is-your-exposure-management-platform.html",
+        "published": "Thu, 05 Nov 2026 17:55:00 +0530",
+        "collected_at": "2026-11-05T17:32:04.034281+00:00"
+    },
+    {
+        "id": "c7e59b0d46842b6392615ae8f870defc69cc778ca3c5e1bf2b92f9b8687982db",
+        "category": "Cybersecurity",
+        "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
+        "summary": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API costs.\n\n\"Our prototype identified and analyzed 2,308 candidate Linux kernel findings, dynamically reproduced 1,724 vulnerabilities, and produced 948 local privilege escalation (LPE)",
+        "url": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
+        "published": "Thu, 05 Nov 2026 17:38:54 +0530",
+        "collected_at": "2026-11-05T17:32:04.034285+00:00"
+    },
+    {
+        "id": "e5838da8e52e7046a05b357e5da4f04dd287a1dd02a3cff4de8c7a1daa5f7108",
+        "category": "Cybersecurity",
+        "title": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026",
+        "summary": "October 2026 brought another wave of cyber threats targeting US businesses, with attackers exploiting trusted platforms, legitimate authentication processes, and everyday business workflows. For enterprises, these campaigns raise the stakes beyond individual security incidents, increasing the risk of financial losses, data breaches, and costly operational disruption.\n\nBelow, we examine five",
+        "url": "https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html",
+        "published": "Thu, 05 Nov 2026 15:36:19 +0530",
+        "collected_at": "2026-11-05T17:32:04.034289+00:00"
+    },
+    {
+        "id": "51d9a5c499abff0e34a6d8c5d40c1f697dfec8bcab862694f25b66a834caf406",
+        "category": "Cybersecurity",
+        "title": "Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content",
+        "summary": "Apple has revealed that it plans to start checking public iCloud links for harmful content starting with iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3.\n\nThe change specifically applies to scenarios where users share iCloud content, such as photos in iCloud Photos or files in iCloud Drive, by sharing a link and making it accessible to \"Anyone with the link.\"\n\nWhen users choose this option,",
+        "url": "https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html",
+        "published": "Thu, 05 Nov 2026 14:43:28 +0530",
+        "collected_at": "2026-11-05T17:32:04.034293+00:00"
+    },
+    {
+        "id": "9fb3d806b5214e2e6b9d7b6386be32010e75f4f0af5ac76eda6f7f5366db62fe",
+        "category": "Cybersecurity",
+        "title": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
+        "summary": "The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is targeting organizations in the Banking, Financial Services, and Insurance (BFSI) sectors in the country.\n\nDescribing the threat as active and ongoing, the activity involves the use of publicly-available AI-driven offensive security tools",
+        "url": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
+        "published": "Thu, 05 Nov 2026 14:12:03 +0530",
+        "collected_at": "2026-11-05T17:32:04.034297+00:00"
+    },
+    {
+        "id": "d2b8633e1a6f94d63a714a7c774e62f3ce67b640ffe8efe14658a60ce189320f",
+        "category": "Cybersecurity",
+        "title": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
+        "summary": "Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found.\n\nThe exploit lets anyone who can reach a switch's web management interface run commands on it without logging in. Zyxel has released new firmware for 10 GS1900 models that closes the hole.\n\nThe earlier fix is the 2.90",
+        "url": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
+        "published": "Thu, 05 Nov 2026 12:36:33 +0530",
+        "collected_at": "2026-11-05T17:32:04.034300+00:00"
+    },
+    {
+        "id": "16bf85bfb533fefee48b85fb3436fc4224373d29f54088a639e6c46ed49226e2",
+        "category": "Cybersecurity",
+        "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
+        "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation.\n\nThe vulnerability in question is CVE-2024-27834 (CVSS score: 5.5), a case of improper authentication that could allow an attacker with",
+        "url": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
+        "published": "Thu, 05 Nov 2026 10:47:04 +0530",
+        "collected_at": "2026-11-05T17:32:04.034304+00:00"
+    },
+    {
+        "id": "f72f567cab23b3cbd0eca3dc95c3b83530969869c99b07b72e968b0c88758eef",
+        "category": "Cybersecurity",
+        "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
+        "summary": "A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own.\n\nThe attacker's code then runs as root, according to advisories that&nbsp;Debian,&nbsp;Ubuntu, and&nbsp;APT's developers&nbsp;published on November 4. The attack needs APT to retry failed downloads, which it does by default from Debian 12 and",
+        "url": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
+        "published": "Wed, 04 Nov 2026 22:30:46 +0530",
+        "collected_at": "2026-11-05T17:32:04.034308+00:00"
+    },
+    {
+        "id": "28cc7a562c85ad38a67f6487f871048cf5375f76437b5e0e668667d887e03163",
+        "category": "Cybersecurity",
+        "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
+        "summary": "SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it said will not be patched.\n\nDetails of the security flaws, which affect SonicWall GMS 9.5.2 and earlier versions, are below -\n\n\n  CVE-2026-109593 (CVSS score: 9.1) - An unauthenticated file read vulnerability that could allow an attacker with network access to read internal GMS files,",
+        "url": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
+        "published": "Wed, 04 Nov 2026 22:30:38 +0530",
+        "collected_at": "2026-11-05T17:32:04.034312+00:00"
+    },
+    {
+        "id": "049f0818282ab399258fe338eda08df3b5ffb7673952dd110dd5bec4ca24ead8",
+        "category": "Cybersecurity",
+        "title": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
+        "summary": "Cybersecurity researchers have disclosed details of an OpenAI Codex jailbreak bundle that's designed to modify an artificial intelligence (AI) agent's trusted instructions to insert advertisements for a third-party AI gateway.\n\nThe phenomenon has been codenamed prompt adware by Check Point Research.\n\nCalled Haiou (meaning Seagull in Chinese), the jailbreak modifies OpenAI Codex's configuration",
+        "url": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
+        "published": "Wed, 04 Nov 2026 21:36:43 +0530",
+        "collected_at": "2026-11-05T17:32:04.034316+00:00"
+    },
+    {
+        "id": "f4b7ff866caa5870696391c3e909a8ced18118ed8f39c23d3ca0496f20627acd",
+        "category": "Cybersecurity",
+        "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
+        "summary": "The Russia-linked threat actor known as APT29 is presumed to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Ukrainian web analytics service called Plerdy SEO Tracker.\n\n\"The injected JavaScript code collects browser and device attributes,\" Sekoia researchers Amaury-Jacques Garçon and",
+        "url": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
+        "published": "Wed, 04 Nov 2026 19:57:52 +0530",
+        "collected_at": "2026-11-05T17:32:04.034322+00:00"
+    },
+    {
+        "id": "eeeb8b0c17d40904542056018dd25d547186eacdabf3d70973c067d56f264505",
+        "category": "Cybersecurity",
+        "title": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
+        "summary": "A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if the app processes uploads using ImageMagick. The Rails project disclosed the flaw in&nbsp;an advisory&nbsp;and fixed it in versions 8.1.4.1 and 8.0.5.2.\n\nThe flaw is in Active Storage, the part of Rails that handles file uploads. Some apps store",
+        "url": "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html",
+        "published": "Wed, 04 Nov 2026 17:37:04 +0530",
+        "collected_at": "2026-11-05T17:32:04.034325+00:00"
+    },
+    {
+        "id": "a60c29c498ad06a8e5ba45bd928d3edee22489e728f52dd05496a46e8d98fb8f",
+        "category": "Cybersecurity",
+        "title": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
+        "summary": "Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs on the same host, including dom0.\n\nDom0 is the VM that, by default, has full permissions and manages the others. Patches are out, and there is no known mitigation, the Xen Project said in an&nbsp;advisory&nbsp;on November 3.\n\nAll Xen versions from 4.6 onward are vulnerable,",
+        "url": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html",
+        "published": "Wed, 04 Nov 2026 17:16:27 +0530",
+        "collected_at": "2026-11-05T17:32:04.034329+00:00"
+    },
+    {
+        "id": "6cb0374f8d770396a4dc38d23b8e714655519285038a740c8458b51638a425e4",
+        "category": "Cybersecurity",
+        "title": "Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It",
+        "summary": "Nearly every agent security pitch now ends on the same promise: the product stops the bad action in real time. The promise holds for one kind of agent, the kind whose traffic passes through a gateway the enterprise owns. Most agents never touch one.\n\nOne recent case shows what that gap looks like in practice. An employee asked an AI assistant to trigger a mass-email automation. The automation",
+        "url": "https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html",
+        "published": "Wed, 04 Nov 2026 17:04:20 +0530",
+        "collected_at": "2026-11-05T17:32:04.034333+00:00"
+    },
+    {
+        "id": "56bfa02295d43c2b62b107af81a04439a8e53e070ab8c14641b60e3440cab996",
+        "category": "Cybersecurity",
+        "title": "Hackers backdoor Linux servers using trojanized CWP web server",
+        "summary": "A new Linux malware called CWPdoor is being distributed through a trojanized version of cwpsrv, the web server behind the Control Web Panel (CWP) management interface. [...]",
+        "url": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
+        "published": "Thu, 05 Nov 2026 11:24:26 -0500",
+        "collected_at": "2026-11-05T17:32:04.274239+00:00"
+    },
+    {
+        "id": "83e08e4c6c08d1c089a1400c2a33b4d67acb931246e176d78707441e58b22b5b",
+        "category": "Cybersecurity",
+        "title": "DigiCert data breach exposes customer information, identity documents",
+        "summary": "DigiCert warns it suffered a data breach after a server migration mistakenly exposed an internal business system to the internet, allowing unauthorized access to customer information and identity documents. [...]",
+        "url": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
+        "published": "Thu, 05 Nov 2026 11:12:46 -0500",
+        "collected_at": "2026-11-05T17:32:04.274251+00:00"
+    },
+    {
+        "id": "a51c8636f9bc2a09ed87861c7529f65c51fd638458976ccbcc960791501b95ba",
+        "category": "Cybersecurity",
+        "title": "Closing the Identity Gap at the Service Desk",
+        "summary": "Attackers target IT service desks to bypass MFA by impersonating employees and convincing staff to reset passwords or register new authentication devices. Specops Software explains why traditional identity verification methods are no longer sufficient and how organizations can secure account recovery against social engineering risks. [...]",
+        "url": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/",
+        "published": "Thu, 05 Nov 2026 10:00:10 -0500",
+        "collected_at": "2026-11-05T17:32:04.274256+00:00"
+    },
+    {
+        "id": "acb97fdd6b827dc758c157afc40f346fb8f42eaca7454c51282c25f6ef8569eb",
+        "category": "Cybersecurity",
+        "title": "GhostMap Android flaw lets malicious app trigger persistent boot loop",
+        "summary": "Attackers can force Android devices into a continuous boot loop using a specially crafted app that requires no permissions and only needs to be installed. [...]",
+        "url": "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/",
+        "published": "Thu, 05 Nov 2026 04:18:29 -0500",
+        "collected_at": "2026-11-05T17:32:04.274260+00:00"
+    },
+    {
+        "id": "05d712189c6125345f94caeca3141774217a5cd773a527a4fa52389d14e248e8",
+        "category": "Cybersecurity",
+        "title": "Vercel rolls out new protection against stolen session cookie attacks",
+        "summary": "Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]",
+        "url": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
+        "published": "Wed, 04 Nov 2026 16:31:18 -0500",
+        "collected_at": "2026-11-05T17:32:04.274264+00:00"
+    },
+    {
+        "id": "b8bdafeefd7281914ede63a497f3ce3ca77e177012958c98a939845f2bb09caf",
+        "category": "Cybersecurity",
+        "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
+        "summary": "Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [...]",
+        "url": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
+        "published": "Wed, 04 Nov 2026 15:58:19 -0500",
+        "collected_at": "2026-11-05T17:32:04.274268+00:00"
+    },
+    {
+        "id": "622646b53531b9768bb7d08eb7c88398a9265119ce5ae455e8c130b5e82a8ea6",
+        "category": "Cybersecurity",
+        "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
+        "summary": "DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers' FTP/SFTP usernames and passwords. [...]",
+        "url": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
+        "published": "Wed, 04 Nov 2026 14:05:19 -0500",
+        "collected_at": "2026-11-05T17:32:04.274272+00:00"
+    },
+    {
+        "id": "324db880e2c47ea37c6fdd5ee24eb5f672cb93621ed14d7a50b5c798ca944254",
+        "category": "Cybersecurity",
+        "title": "Cyberattack disrupts blood storage refrigeration systems in France",
+        "summary": "France's national blood service has confirmed that a cyberattack targeting a refrigeration equipment provider raised temperature and defrost settings at three of its facilities, threatening stored blood products. [...]",
+        "url": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/",
+        "published": "Wed, 04 Nov 2026 13:02:56 -0500",
+        "collected_at": "2026-11-05T17:32:04.274275+00:00"
+    },
+    {
+        "id": "94833255da64ec919226ced6782ec75dd61c3850fbfd8ce2a94e076eac987eb4",
+        "category": "Cybersecurity",
+        "title": "NIKKE PC game launcher hacked to spread remote access, data-stealing malware",
+        "summary": "The developers of Goddess of Victory: NIKKE have confirmed that hackers tampered with the game's PC launcher scripts in a supply-chain attack, distributing malware capable of stealing credentials and cryptocurrency wallet data. [...]",
+        "url": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
+        "published": "Wed, 04 Nov 2026 11:58:46 -0500",
+        "collected_at": "2026-11-05T17:32:04.274279+00:00"
+    },
+    {
+        "id": "096e4f5225026f138bc47f88189a5b98e19397f682bb1935fe5b0be0bab231c1",
+        "category": "Cybersecurity",
+        "title": "mSecure password manager hack prompts password reset warnings",
+        "summary": "mSeven Software is warning current and former mSecure password manager customers to change passwords, reset two-factor authentication, and remove passkeys following a cyberattack that reportedly exposed an encrypted customer database. [...]",
+        "url": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/",
+        "published": "Wed, 04 Nov 2026 11:00:18 -0500",
+        "collected_at": "2026-11-05T17:32:04.274282+00:00"
+    },
+    {
+        "id": "646c23c08481b93b79dfa198f3abe24828662b7f92e29bcb0c3e632a7ab61e08",
+        "category": "Cybersecurity",
+        "title": "Google Calendar phishing campaign hijacks sessions, bypasses MFA",
+        "summary": "A phishing campaign used Google Calendar invites, trusted redirects, and fake login pages to hijack corporate Google sessions and bypass MFA protections. Material Security examines how Operation CloudFire tracked the attacks, blocked malicious messages, and helped take down nearly 900 domains used by the attackers. [...]",
+        "url": "https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/",
+        "published": "Wed, 04 Nov 2026 10:00:10 -0500",
+        "collected_at": "2026-11-05T17:32:04.274286+00:00"
+    },
+    {
+        "id": "803d0b274cc642505e68afa50dcca1e43f9d7c2432b02eee9417217197f183cb",
+        "category": "Cybersecurity",
+        "title": "SonicWall warns of unpatched flaws in end-of-life GMS software",
+        "summary": "SonicWall warned customers of two security flaws affecting end-of-life Global Management System (GMS) systems that will not be patched. [...]",
+        "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software/",
+        "published": "Wed, 04 Nov 2026 09:42:25 -0500",
+        "collected_at": "2026-11-05T17:32:04.274290+00:00"
+    },
+    {
+        "id": "d92267ddec9a3b3883c3910dadec85f7e74a0e9dd7dbfbea68af68f6f8e22004",
+        "category": "Cybersecurity",
+        "title": "US charges two Canadians accused of hacking US universities",
+        "summary": "A federal grand jury indicted two Canadians suspected of hacking multiple US universities and using the compromised systems to mine for cryptocurrency. [...]",
+        "url": "https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/",
+        "published": "Wed, 04 Nov 2026 08:13:20 -0500",
+        "collected_at": "2026-11-05T17:32:04.274294+00:00"
+    },
+    {
+        "id": "c401bb54ceffe967aab57c8897091dbfd04d02b7fd0fa08f406abbf857f8dbde",
+        "category": "Cybersecurity",
+        "title": "CISA flags WordPress RCE flaw as actively exploited in attacks",
+        "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers have started exploiting a recently patched high-severity WordPress vulnerability in the wild. [...]",
+        "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/",
+        "published": "Wed, 04 Nov 2026 07:11:05 -0500",
+        "collected_at": "2026-11-05T17:32:04.274298+00:00"
+    },
+    {
+        "id": "e3fd45fd3e304e2ff7ebdfe65f1646176a2243d66f6d6a6550887381e9b30507",
+        "category": "Cybersecurity",
+        "title": "Hackers use n-day exploits in zero-click attacks on iOS, Android devices",
+        "summary": "A large-scale watering hole attack associated with Russian hackers has been targeting iOS and Android users visiting compromised sites or fake ones impersonating legitimate portals. [...]",
+        "url": "https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/",
+        "published": "Wed, 04 Nov 2026 04:39:54 -0500",
+        "collected_at": "2026-11-05T17:32:04.274302+00:00"
+    },
+    {
+        "id": "2fd237ae4bf33b8f5adec26757b6f940c6d8e11607e9bae42032c5fd8d79bd91",
+        "category": "Technology",
+        "title": "Motorola's new Signature 27 has it all if you can stomach the $1,600 price tag",
+        "summary": "It has all the bells and whistles (and cameras).",
+        "url": "https://arstechnica.com/gadgets/2026/11/motorolas-new-signature-27-has-it-all-if-you-can-stomach-the-1600-price-tag/",
+        "published": "Thu, 05 Nov 2026 13:00:56 +0000",
+        "collected_at": "2026-11-05T17:32:04.396996+00:00"
+    },
+    {
+        "id": "9db55803402ec47c3ec5f83c6c75c8f75200284d10d4c8331b0b1e7c14a91475",
+        "category": "Technology",
+        "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
+        "summary": "US leader in deploying humanoid robots goes public on the Nasdaq stock exchange.",
+        "url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
+        "published": "Thu, 05 Nov 2026 12:00:41 +0000",
+        "collected_at": "2026-11-05T17:32:04.397008+00:00"
+    },
+    {
+        "id": "07e0ef8d48b748b308fb7f68c1255f3bb232ce2a1d0141c5e79a0596a4b4a93b",
+        "category": "Technology",
+        "title": "2026 iPad mini review: Maximizing the mini",
+        "summary": "It's more compelling than ever, but also more expensive.",
+        "url": "https://arstechnica.com/gadgets/2026/11/ipad-mini-2026-review-maximizing-the-mini/",
+        "published": "Thu, 05 Nov 2026 12:00:01 +0000",
+        "collected_at": "2026-11-05T17:32:04.397013+00:00"
+    },
+    {
+        "id": "71935939aaf2bd4f1dfb8926546978b782a1809a64dba1731451bf90953e2f4b",
+        "category": "Technology",
+        "title": "Mercedes-AMG GT 4-Door Coupe first drive: Where tech and fun collide",
+        "summary": "The spirit of AMG is alive via three axial flux electric motors.",
+        "url": "https://arstechnica.com/cars/2026/11/mercedes-amg-gt-4-door-coupe-first-drive-where-tech-and-fun-collide/",
+        "published": "Thu, 05 Nov 2026 09:00:13 +0000",
+        "collected_at": "2026-11-05T17:32:04.397016+00:00"
+    },
+    {
+        "id": "7d01c5c4ee294cff992ac5c0febf8c9f14639ede54004b949b15140df38acbae",
+        "category": "Technology",
+        "title": "Nintendo's biggest ROM chip supplier is bowing out of the business",
+        "summary": "And what that could mean for physical Switch game costs.",
+        "url": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
+        "published": "Wed, 04 Nov 2026 22:47:51 +0000",
+        "collected_at": "2026-11-05T17:32:04.397020+00:00"
+    },
+    {
+        "id": "cea25fc8180f8064dbaa6fc578a1f16e44c4357596c9b209c301cba25ebc05d8",
+        "category": "Technology",
+        "title": "Hackers exploited iOS and Android flaws to infect phones",
+        "summary": "Researchers say group may have been Kremlin-sponsored in search of diplomatic targets.",
+        "url": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
+        "published": "Wed, 04 Nov 2026 22:26:49 +0000",
+        "collected_at": "2026-11-05T17:32:04.397024+00:00"
+    },
+    {
+        "id": "4797f2b4d7a4ccf59b52ea800a9611867a08dde4328069f1dc0726a8c97c27b2",
+        "category": "Technology",
+        "title": "Uranium cubes reveal why the German nuclear project failed",
+        "summary": "\"Our calculations suggest Heisenberg significantly underestimated the materials required.\"",
+        "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
+        "published": "Wed, 04 Nov 2026 21:56:29 +0000",
+        "collected_at": "2026-11-05T17:32:04.397028+00:00"
+    },
+    {
+        "id": "3a44cd769451fbe44a14a109dcb107ac080cb36243c77fb71988180cd76b78bf",
+        "category": "Technology",
+        "title": "VMware releases vSphere Express for virtualization on up to 128 cores",
+        "summary": "“We started listening to a lot of our lower-end customers,\" VMware exec says.",
+        "url": "https://arstechnica.com/information-technology/2026/11/vmware-releases-vsphere-express-for-virtualization-on-up-to-128-cores/",
+        "published": "Wed, 04 Nov 2026 21:38:49 +0000",
+        "collected_at": "2026-11-05T17:32:04.397031+00:00"
+    },
+    {
+        "id": "a8da02734f0a78ddd2002c8b8910ebdd4766786d3cf4ebe0f10fff0c9014fcac",
+        "category": "Technology",
+        "title": "AMD's record quarter: Data center business doubles, while gaming craters",
+        "summary": "AMD's gaming revenue fell 40 percent in an otherwise record $13.4 billion quarter.",
+        "url": "https://arstechnica.com/gadgets/2026/11/amds-record-quarter-data-center-business-doubles-while-gaming-craters/",
+        "published": "Wed, 04 Nov 2026 21:29:46 +0000",
+        "collected_at": "2026-11-05T17:32:04.397035+00:00"
+    },
+    {
+        "id": "f3b52b53bfb0f560bf01ba714949c7dd420cb0c3e26c91534abe9e62aa1fa90f",
+        "category": "Technology",
+        "title": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
+        "summary": "Tech industry in denial as US overwhelmingly votes to restrict AI, data centers.",
+        "url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/",
+        "published": "Wed, 04 Nov 2026 20:55:50 +0000",
+        "collected_at": "2026-11-05T17:32:04.397039+00:00"
+    },
+    {
+        "id": "326a856a9314040a7447a5462bd2b06479fc05e91eca91062d8c69d005105aed",
+        "category": "Technology",
+        "title": "After Texas' blue wave, what happens to Elon Musk and SpaceX?",
+        "summary": "\"Data centers in space looking pretty appealing right now.\"",
+        "url": "https://arstechnica.com/space/2026/11/elon-musk-moved-spacex-to-red-texas-now-its-blue-what-happens-next/",
+        "published": "Wed, 04 Nov 2026 20:36:05 +0000",
+        "collected_at": "2026-11-05T17:32:04.397043+00:00"
+    },
+    {
+        "id": "86a508081fb52ca5c565f21b8e3625b03660778bf92effc3fe44fca382876af5",
+        "category": "Technology",
+        "title": "Ted Cruz aims to stack FCC with Republicans before Democrats take Senate control",
+        "summary": "Cruz and Trump seem to have no plans to fill FCC's empty Democratic seat.",
+        "url": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-aims-to-put-another-republican-on-fcc-in-senates-lame-duck-session/",
+        "published": "Wed, 04 Nov 2026 19:08:23 +0000",
+        "collected_at": "2026-11-05T17:32:04.397047+00:00"
+    },
+    {
+        "id": "068f6f4a220e4fa7ccfd1e1e16c4f5089461757ad12c6f6f3301e0c3529b0869",
+        "category": "Technology",
+        "title": "People say they want small smartphones—the Enough Phone will put that to the test",
+        "summary": "It won't win the specs race, but it will actually fit in your hand.",
+        "url": "https://arstechnica.com/gadgets/2026/11/people-say-they-want-small-smartphones-the-enough-phone-will-put-that-to-the-test/",
+        "published": "Wed, 04 Nov 2026 18:00:40 +0000",
+        "collected_at": "2026-11-05T17:32:04.397050+00:00"
+    },
+    {
+        "id": "ef01caaeb6037033e4cd38b710effc8a14f415bb34b8e4a161843ee18f4bbd61",
+        "category": "Technology",
+        "title": "Binance says hackers who stole billions in crypto spent months planning heist",
+        "summary": "Techniques included laptop infections, compromised internal tooling, and fake job interviews.",
+        "url": "https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/",
+        "published": "Wed, 04 Nov 2026 16:06:03 +0000",
+        "collected_at": "2026-11-05T17:32:04.397054+00:00"
+    },
+    {
+        "id": "ba5b4b8fec00815a1d5c4bcdce42d7b6a586807faa43fb5e626c3d98d95fd058",
+        "category": "Technology",
+        "title": "What I learned driving the Slate electric truck prototype",
+        "summary": "After 45 minutes behind the wheel, I am more optimistic about the $25,000 EV.",
+        "url": "https://arstechnica.com/cars/2026/11/what-i-learned-driving-the-slate-electric-truck-prototype/",
+        "published": "Wed, 04 Nov 2026 15:42:18 +0000",
+        "collected_at": "2026-11-05T17:32:04.397057+00:00"
+    },
+    {
+        "id": "4865b4a63ca26e02b1929b3d087d28e7c235d242a65e67debd24c81dcad8dc8c",
+        "category": "Technology",
+        "title": "Food delivery startup Wonder files for IPO as it explores its next big bite",
+        "summary": "Following years of fundraising, acquisitions, and expansion, food delivery startup Wonder is moving closer to becoming a publicly traded company.",
+        "url": "https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/",
+        "published": "Thu, 05 Nov 2026 17:11:48 +0000",
+        "collected_at": "2026-11-05T17:32:04.467709+00:00"
+    },
+    {
+        "id": "411331a1e9eef5cebb008b39ce76a395a0bc9dad1a70655254839f230a151328",
+        "category": "Technology",
+        "title": "Bluesky hit peak usage for the year on election night",
+        "summary": "Bluesky CEO Toni Schneider said posts and likes doubled during to the U.S. midterm elections on Tuesday.",
+        "url": "https://techcrunch.com/2026/11/05/bluesky-hit-peak-usage-for-the-year-on-election-night/",
+        "published": "Thu, 05 Nov 2026 15:44:58 +0000",
+        "collected_at": "2026-11-05T17:32:04.467722+00:00"
+    },
+    {
+        "id": "a838070352f315f586826f6a5e31ea375bdaa3982e8a47185196d7a65d8161ea",
+        "category": "Technology",
+        "title": "Zipline hits $21.5B valuation as Walmart expands bet on drone delivery",
+        "summary": "Zipline raised $1.5 billion and ramped up its partnership with Walmart.",
+        "url": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/",
+        "published": "Thu, 05 Nov 2026 15:40:34 +0000",
+        "collected_at": "2026-11-05T17:32:04.467726+00:00"
+    },
+    {
+        "id": "498a6689034622ac66d9e36b4225335da63992fdbae87d23a575e74a86c7f663",
+        "category": "Technology",
+        "title": "TikTok quietly launches a stand-alone TikTok Shop app",
+        "summary": "The app will offer personalized product recommendations, shopping through livestreams and short-form videos, app-exclusive deals, in-app checkout, order tracking, and customer support.",
+        "url": "https://techcrunch.com/2026/11/05/tiktok-quietly-launches-a-standalone-tiktok-shop-app/",
+        "published": "Thu, 05 Nov 2026 15:33:58 +0000",
+        "collected_at": "2026-11-05T17:32:04.467730+00:00"
+    },
+    {
+        "id": "f2bfe9ab054febe53ae6569ce9759cf8216075b1543ca3e6bb731e6887e6203f",
+        "category": "Technology",
+        "title": "Instagram brings Edits to desktop to take on CapCut",
+        "summary": "The move puts Edits in more direct competition with ByteDance's CapCut, the video-editing app Meta sought to challenge when it launched Edits last year.",
+        "url": "https://techcrunch.com/2026/11/05/instagram-brings-edits-to-desktop-to-take-on-capcut/",
+        "published": "Thu, 05 Nov 2026 15:00:00 +0000",
+        "collected_at": "2026-11-05T17:32:04.467735+00:00"
+    },
+    {
+        "id": "ce67631cbb2fe4cccd8c6281f578a24ef1b115137e2d71777cbdfc683c3be2a9",
+        "category": "Technology",
+        "title": "ElevenLabs now lets users publish AI-generated music directly on SoundCloud",
+        "summary": "ElevenLabs said more than 25 million tracks have been generated using its music models.",
+        "url": "https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/",
+        "published": "Thu, 05 Nov 2026 15:00:00 +0000",
+        "collected_at": "2026-11-05T17:32:04.467739+00:00"
+    },
+    {
+        "id": "a9ee74baaf2a5ba0ed3616dbeeab378378e35d2ea05cb11f2f54f6e0a4d75117",
+        "category": "Technology",
+        "title": "RadianX promises solar-powered devices that never need charging",
+        "summary": "Today’s portable devices are too hungry to run on traditional solar panels, but RadianX says its perovskite cells promise to make charging obsolete in some cases.",
+        "url": "https://techcrunch.com/2026/11/05/radianx-promises-solar-powered-devices-that-never-need-charging/",
+        "published": "Thu, 05 Nov 2026 14:00:00 +0000",
+        "collected_at": "2026-11-05T17:32:04.467747+00:00"
+    },
+    {
+        "id": "55dad95f516a69e3f1b4ef591d51389ab6af0c744e6209a6a2657595478b5b9d",
+        "category": "Technology",
+        "title": "Amazon ditches Grubhub, taps Uber Eats for Prime",
+        "summary": "Amazon has made Uber Eats its official restaurant delivery partner for Prime members in the United States.",
+        "url": "https://techcrunch.com/2026/11/05/amazon-ditches-grubhub-taps-uber-eats-for-prime/",
+        "published": "Thu, 05 Nov 2026 11:00:00 +0000",
+        "collected_at": "2026-11-05T17:32:04.467756+00:00"
+    }
+]
