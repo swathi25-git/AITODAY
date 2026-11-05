@@ -1,9 +1,10 @@
+
 import os
 import json
 import re
+import time
 from datetime import date
 from pathlib import Path
-import time
 
 from google import genai
 from google.genai import types
@@ -22,8 +23,16 @@ client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
 def load_json(path, default):
     if not path.exists():
         return default
+
     with open(path, "r", encoding="utf-8") as file:
         return json.load(file)
+
+
+def make_slug(title):
+    slug = re.sub(r"[^a-z0-9]+", "-", title.lower())
+    return slug.strip("-")[:70]
+
+
 def generate_with_retry(prompt):
     for attempt in range(3):
         try:
@@ -50,7 +59,9 @@ def generate_with_retry(prompt):
             return article
 
         except Exception as error:
-            print(f"Gemini attempt {attempt + 1} failed: {error}")
+            print(
+                f"Gemini attempt {attempt + 1} failed: {error}"
+            )
 
             if attempt == 2:
                 print("Skipping this article after 3 failed attempts.")
@@ -58,30 +69,25 @@ def generate_with_retry(prompt):
 
             time.sleep(10 * (attempt + 1))
 
-def make_slug(title):
-    slug = re.sub(r"[^a-z0-9]+", "-", title.lower())
-    return slug.strip("-")[:70]
-
 
 def main():
     DRAFTS_DIR.mkdir(exist_ok=True)
 
-    news_data = load_json(NEWS_FILE, [])
+    news_items = load_json(NEWS_FILE, [])
 
-    if isinstance(news_data, dict):
-        news_items = news_data.get(
-            "items", news_data.get("articles", [])
+    if isinstance(news_items, dict):
+        news_items = news_items.get(
+            "items", news_items.get("articles", [])
         )
-    else:
-        news_items = news_data
 
     processed = load_json(PROCESSED_FILE, [])
 
     categories = [
-    "Artificial Intelligence",
-    "Cybersecurity",
-    "Technology"
-]
+        "Artificial Intelligence",
+        "Cybersecurity",
+        "Technology"
+    ]
+
     today = date.today().isoformat()
     created = 0
 
@@ -125,28 +131,13 @@ Rules:
 - Do not invent additional sources.
 """
 
-        response = client.models.generate_content(
-            model=MODEL,
-            contents=prompt,
-            config=types.GenerateContentConfig(
-                system_instruction=(
-                    "You are an accurate technology journalist. "
-                    "Never fabricate facts. Write original articles "
-                    "and clearly distinguish confirmed information "
-                    "from anything that needs verification."
-                ),
-                max_output_tokens=1200,
-                temperature=0.4
-            )
-        )
+        article = generate_with_retry(prompt)
 
-        article = (response.text or "").strip()
-
-        if not article:
-            raise RuntimeError("Gemini returned an empty response.")
+        if article is None:
+            continue
 
         filename = (
-            f"{today}-{category.lower()}-"
+            f"{today}-{make_slug(category)}-"
             f"{make_slug(story.get('title', 'news'))}.md"
         )
 
