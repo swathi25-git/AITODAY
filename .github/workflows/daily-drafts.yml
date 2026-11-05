@@ -1,0 +1,46 @@
+
+name: AIToday Daily Article Drafts
+
+on:
+  schedule:
+    - cron: "30 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-drafts:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Get repository files
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install requirements
+        run: pip install -r automation/requirements.txt
+
+      - name: Collect news
+        run: python automation/collect_news.py
+
+      - name: Generate article drafts
+        run: python automation/generate_article.py
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+
+      - name: Save drafts to GitHub
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add drafts/
+          if ! git diff --cached --quiet; then
+            git commit -m "Add daily AIToday article drafts"
+            git push
+          else
+            echo "No new drafts to save"
+          fi
