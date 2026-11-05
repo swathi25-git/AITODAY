@@ -8,12 +8,16 @@
     <title>AIToday | AI, Cybersecurity & Technology</title>
 
     <meta name="description"
-          content="Explore Artificial Intelligence, Cybersecurity, cyberattacks and emerging technology with simple, informative articles from AIToday.">
+          content="AIToday explores artificial intelligence, cybersecurity, machine learning and emerging technologies through informative articles.">
 
     <meta name="robots" content="index, follow">
 
     <link rel="canonical"
           href="https://swathi25-git.github.io/AITODAY/">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family=Playfair+Display:wght@600;700;800&display=swap" rel="stylesheet">
 
     <style>
         * {
@@ -27,126 +31,343 @@
         }
 
         body {
-            font-family: Arial, sans-serif;
-            background: #f5f7fb;
-            color: #222;
+            font-family: 'DM Sans', Arial, sans-serif;
+            background: #ffffff;
+            color: #20242b;
             line-height: 1.7;
         }
 
+        a {
+            color: inherit;
+        }
+
+        /* TOP BAR */
+
+        .topbar {
+            background: #101820;
+            color: #ffffff;
+            padding: 8px 7%;
+            font-size: 12px;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+        }
+
+        .topbar-inner {
+            max-width: 1250px;
+            margin: auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        /* MASTHEAD */
+
         header {
-            background: #101d35;
-            color: white;
-            padding: 28px 8%;
+            background: #ffffff;
+            border-bottom: 1px solid #e5e7eb;
         }
 
-        header h1 {
-            font-size: 32px;
+        .masthead {
+            max-width: 1250px;
+            margin: auto;
+            padding: 25px 25px 20px;
+            text-align: center;
         }
 
-        header p {
-            color: #cbd5e1;
-            margin-top: 4px;
+        .logo {
+            font-family: 'Playfair Display', Georgia, serif;
+            font-size: 48px;
+            font-weight: 800;
+            letter-spacing: -2px;
+            color: #111827;
         }
+
+        .logo span {
+            color: #1769aa;
+        }
+
+        .tagline {
+            font-size: 12px;
+            color: #64748b;
+            letter-spacing: 3px;
+            text-transform: uppercase;
+            margin-top: 3px;
+        }
+
+        /* NAVIGATION */
 
         nav {
-            margin-top: 18px;
+            border-top: 1px solid #eeeeee;
+        }
+
+        .nav-inner {
+            max-width: 1250px;
+            margin: auto;
+            padding: 13px 25px;
+            display: flex;
+            justify-content: center;
+            gap: 38px;
+            flex-wrap: wrap;
         }
 
         nav a {
-            color: white;
             text-decoration: none;
-            margin-right: 25px;
-            font-weight: bold;
+            font-size: 13px;
+            font-weight: 700;
+            color: #263445;
+            transition: color 0.2s;
         }
 
         nav a:hover {
-            color: #60a5fa;
+            color: #1769aa;
         }
 
-        .hero {
-            text-align: center;
-            padding: 75px 20px;
-            background: linear-gradient(135deg, #172b4d, #2563a6);
-            color: white;
+        /* BREAKING / EDITORIAL STRIP */
+
+        .editorial-strip {
+            background: #f2f6fa;
+            border-bottom: 1px solid #e3e8ef;
+            padding: 10px 7%;
+            font-size: 12px;
+            color: #475569;
         }
 
-        .hero h2 {
-            font-size: 38px;
-            margin-bottom: 15px;
+        .editorial-strip strong {
+            color: #1769aa;
+            margin-right: 10px;
         }
 
-        .hero p {
-            max-width: 650px;
-            margin: auto;
-            color: #e2e8f0;
-            font-size: 17px;
-        }
+        /* MAIN CONTAINER */
 
         .container {
-            max-width: 1100px;
+            max-width: 1250px;
             margin: auto;
-            padding: 55px 20px;
+            padding: 45px 25px;
         }
 
-        .section-title {
-            font-size: 29px;
+        .section-heading {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 2px solid #172b4d;
+            padding-bottom: 12px;
             margin-bottom: 25px;
-            color: #14213d;
         }
+
+        .section-heading h2 {
+            font-family: 'Playfair Display', Georgia, serif;
+            font-size: 28px;
+            color: #172b4d;
+        }
+
+        .section-heading span {
+            font-size: 11px;
+            letter-spacing: 1.5px;
+            color: #1769aa;
+            font-weight: 800;
+            text-transform: uppercase;
+        }
+
+        /* FEATURED STORY */
+
+        .featured {
+            display: grid;
+            grid-template-columns: 1.35fr 1fr;
+            gap: 35px;
+            align-items: center;
+            margin-bottom: 65px;
+        }
+
+        .featured-image {
+            min-height: 340px;
+            background: linear-gradient(135deg, #102744, #1769aa);
+            border-radius: 3px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 35px;
+            color: white;
+            text-align: center;
+        }
+
+        .featured-image .symbol {
+            font-size: 85px;
+            display: block;
+            margin-bottom: 10px;
+        }
+
+        .featured-image h3 {
+            font-family: 'Playfair Display', Georgia, serif;
+            font-size: 25px;
+        }
+
+        .category {
+            color: #1769aa;
+            font-size: 11px;
+            font-weight: 800;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            margin-bottom: 12px;
+        }
+
+        .featured-content h2 {
+            font-family: 'Playfair Display', Georgia, serif;
+            font-size: clamp(30px, 4vw, 43px);
+            line-height: 1.2;
+            color: #111827;
+            margin-bottom: 18px;
+        }
+
+        .featured-content p {
+            color: #596579;
+            margin-bottom: 22px;
+            font-size: 15px;
+        }
+
+        .read-link {
+            display: inline-block;
+            color: #1769aa;
+            font-size: 13px;
+            font-weight: 800;
+            text-decoration: none;
+            border-bottom: 2px solid #1769aa;
+            padding-bottom: 4px;
+        }
+
+        .read-link:hover {
+            color: #0b3d69;
+        }
+
+        /* ARTICLE GRID */
 
         .articles {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
+            grid-template-columns: repeat(3, 1fr);
             gap: 25px;
         }
 
         .article {
-            background: white;
-            padding: 27px;
-            border-radius: 12px;
-            box-shadow: 0 4px 15px rgba(0,0,0,0.07);
             border: 1px solid #e5e7eb;
+            background: #ffffff;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+
+        .article:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(15, 35, 60, 0.09);
+        }
+
+        .article-visual {
+            height: 155px;
+            background: #edf3f9;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 53px;
+        }
+
+        .article-content {
+            padding: 23px;
+        }
+
+        .article-content .category {
+            margin-bottom: 9px;
         }
 
         .article h3 {
-            color: #17365d;
-            margin-bottom: 12px;
+            font-family: 'Playfair Display', Georgia, serif;
             font-size: 21px;
+            line-height: 1.35;
+            margin-bottom: 12px;
+            color: #172b4d;
         }
 
         .article p {
-            color: #555;
-            margin-bottom: 20px;
+            font-size: 13px;
+            color: #647084;
+            margin-bottom: 18px;
         }
 
-        .article a {
-            display: inline-block;
-            color: #1769aa;
-            font-weight: bold;
-            text-decoration: none;
+        /* TOPIC SECTIONS */
+
+        .topics {
+            margin-top: 70px;
         }
 
-        .article a:hover {
-            text-decoration: underline;
+        .topic {
+            padding: 28px 0;
+            border-bottom: 1px solid #e5e7eb;
+            scroll-margin-top: 25px;
         }
+
+        .topic h3 {
+            font-family: 'Playfair Display', Georgia, serif;
+            font-size: 25px;
+            color: #172b4d;
+            margin-bottom: 12px;
+        }
+
+        .topic p {
+            color: #596579;
+            font-size: 15px;
+            max-width: 950px;
+            margin-bottom: 10px;
+        }
+
+        /* ABOUT */
 
         #about {
-            background: white;
-            padding: 35px;
-            border-radius: 12px;
-            margin-top: 55px;
+            background: #f2f6fa;
+            padding: 45px;
+            margin-top: 70px;
+            border-left: 4px solid #1769aa;
         }
 
+        #about h2 {
+            font-family: 'Playfair Display', Georgia, serif;
+            font-size: 30px;
+            color: #172b4d;
+            margin-bottom: 15px;
+        }
+
+        #about p {
+            color: #596579;
+            max-width: 900px;
+            font-size: 15px;
+        }
+
+        /* FOOTER */
+
         footer {
-            background: #101d35;
+            background: #101820;
             color: white;
-            text-align: center;
-            padding: 35px 20px;
+            padding: 45px 7% 25px;
+            margin-top: 70px;
+        }
+
+        .footer-inner {
+            max-width: 1250px;
+            margin: auto;
+            display: flex;
+            justify-content: space-between;
+            gap: 30px;
+            flex-wrap: wrap;
+        }
+
+        .footer-logo {
+            font-family: 'Playfair Display', Georgia, serif;
+            font-size: 30px;
+            margin-bottom: 10px;
+        }
+
+        .footer-logo span {
+            color: #60a5fa;
         }
 
         footer p {
+            color: #b9c5d3;
+            font-size: 13px;
             margin: 7px 0;
-            color: #cbd5e1;
         }
 
         footer a {
@@ -154,119 +375,467 @@
             text-decoration: none;
         }
 
+        footer a:hover {
+            text-decoration: underline;
+        }
+
+        .footer-bottom {
+            border-top: 1px solid #344253;
+            margin-top: 30px;
+            padding-top: 20px;
+            text-align: center;
+        }
+
         .back-top {
             display: inline-block;
-            margin-top: 15px;
+            margin-top: 12px;
+        }
+
+        /* MOBILE RESPONSIVE */
+
+        @media (max-width: 850px) {
+            .featured {
+                grid-template-columns: 1fr;
+            }
+
+            .articles {
+                grid-template-columns: repeat(2, 1fr);
+            }
         }
 
         @media (max-width: 600px) {
-            header {
-                padding: 22px;
+            .topbar-inner {
+                justify-content: center;
+                text-align: center;
+            }
+
+            .masthead {
+                padding: 20px 12px;
+            }
+
+            .logo {
+                font-size: 39px;
+            }
+
+            .tagline {
+                font-size: 10px;
+                letter-spacing: 2px;
+            }
+
+            .nav-inner {
+                gap: 15px;
+                padding: 14px 10px;
             }
 
             nav a {
-                display: inline-block;
-                margin: 8px 12px 8px 0;
+                font-size: 12px;
             }
 
-            .hero h2 {
-                font-size: 29px;
+            .container {
+                padding: 30px 17px;
+            }
+
+            .featured-image {
+                min-height: 240px;
+            }
+
+            .articles {
+                grid-template-columns: 1fr;
+            }
+
+            .section-heading h2 {
+                font-size: 23px;
+            }
+
+            #about {
+                padding: 27px;
+            }
+
+            .footer-inner {
+                flex-direction: column;
             }
         }
     </style>
 </head>
 
-<body>
+<body id="home">
 
-<header id="home">
-    <h1>⚡ AIToday</h1>
-    <p>Understand Technology. Explore Tomorrow.</p>
+    <div class="topbar">
+        <div class="topbar-inner">
+            <span>AIToday | Technology & Innovation</span>
+            <span>Understand Technology. Explore Tomorrow.</span>
+        </div>
+    </div>
 
-    <nav>
-        <a href="#home">Home</a>
-        <a href="what-is-ai.html">Artificial Intelligence</a>
-        <a href="supermarket-freezers-cyberattack.html">Cybersecurity</a>
-        <a href="#about">About</a>
-    </nav>
-</header>
+    <header>
+        <div class="masthead">
+            <h1 class="logo">AI<span>Today</span></h1>
+            <p class="tagline">Understand Technology. Explore Tomorrow.</p>
+        </div>
 
-<section class="hero">
-    <h2>Explore the World of Technology</h2>
-    <p>
-        Discover Artificial Intelligence, Cybersecurity and emerging
-        technologies through simple and informative articles.
-    </p>
-</section>
+        <nav>
+            <div class="nav-inner">
+                <a href="#home">Home</a>
+                <a href="what-is-ai.html">Artificial Intelligence</a>
+                <a href="supermarket-freezers-cyberattack.html">Cybersecurity</a>
+                <a href="#latest">Latest Articles</a>
+                <a href="#topics">Explore Topics</a>
+                <a href="#about">About</a>
+            </div>
+        </nav>
+    </header>
 
-<main class="container">
+    <div class="editorial-strip">
+        <strong>WELCOME TO AITODAY</strong>
+        Independent technology articles, explanations and insights.
+    </div>
 
-    <section id="articles">
-        <h2 class="section-title">Latest Articles</h2>
+    <main class="container">
 
-        <div class="articles">
+        <!-- FEATURED STORY -->
 
-            <article class="article">
-                <h3>What Is Artificial Intelligence?</h3>
+        <section class="featured">
+
+            <div class="featured-image">
+                <div>
+                    <span class="symbol">🛡️</span>
+                    <h3>Technology. Security. The Future.</h3>
+                </div>
+            </div>
+
+            <div class="featured-content">
+                <div class="category">Featured Story · Cybersecurity</div>
+
+                <h2>When Supermarket Freezers Become Cyberattack Targets</h2>
 
                 <p>
-                    Understand how AI works, its applications
-                    and how it is transforming our world.
+                    Internet-connected refrigeration systems are becoming
+                    part of modern supermarket operations. But what happens
+                    when these everyday devices become targets of cyberattacks?
+                    Explore the risks, possible consequences and importance
+                    of securing connected infrastructure.
                 </p>
 
-                <a href="what-is-ai.html">
-                    Read Article →
+                <a class="read-link"
+                   href="supermarket-freezers-cyberattack.html">
+                    READ THE FULL STORY →
                 </a>
-            </article>
+            </div>
 
-            <article class="article">
-                <h3>Supermarket Freezers Cyberattack</h3>
+        </section>
+
+        <!-- LATEST ARTICLES -->
+
+        <section id="latest">
+
+            <div class="section-heading">
+                <h2>Latest Articles</h2>
+                <span>Explore & Learn</span>
+            </div>
+
+            <div class="articles">
+
+                <article class="article">
+                    <div class="article-visual">🤖</div>
+
+                    <div class="article-content">
+                        <div class="category">Artificial Intelligence</div>
+
+                        <h3>What Is Artificial Intelligence?</h3>
+
+                        <p>
+                            Discover what artificial intelligence means,
+                            how AI systems learn from information and
+                            how they are changing everyday life.
+                        </p>
+
+                        <a class="read-link" href="what-is-ai.html">
+                            READ ARTICLE →
+                        </a>
+                    </div>
+                </article>
+
+                <article class="article">
+                    <div class="article-visual">🛡️</div>
+
+                    <div class="article-content">
+                        <div class="category">Cybersecurity</div>
+
+                        <h3>Supermarket Freezers Cyberattack</h3>
+
+                        <p>
+                            Learn how attacks on connected refrigeration
+                            systems can create risks for businesses,
+                            food storage and digital infrastructure.
+                        </p>
+
+                        <a class="read-link"
+                           href="supermarket-freezers-cyberattack.html">
+                            READ ARTICLE →
+                        </a>
+                    </div>
+                </article>
+
+                <article class="article">
+                    <div class="article-visual">✨</div>
+
+                    <div class="article-content">
+                        <div class="category">Generative AI</div>
+
+                        <h3>How Generative AI Is Changing Creativity</h3>
+
+                        <p>
+                            From generating text and images to assisting
+                            with software development, explore how
+                            generative AI creates new possibilities.
+                        </p>
+
+                        <a class="read-link" href="#generative-ai">
+                            EXPLORE TOPIC →
+                        </a>
+                    </div>
+                </article>
+
+                <article class="article">
+                    <div class="article-visual">🧠</div>
+
+                    <div class="article-content">
+                        <div class="category">Machine Learning</div>
+
+                        <h3>Machine Learning Explained Simply</h3>
+
+                        <p>
+                            Understand how computers identify patterns
+                            in data, make predictions and improve
+                            their performance through experience.
+                        </p>
+
+                        <a class="read-link" href="#machine-learning">
+                            EXPLORE TOPIC →
+                        </a>
+                    </div>
+                </article>
+
+                <article class="article">
+                    <div class="article-visual">🎣</div>
+
+                    <div class="article-content">
+                        <div class="category">Cybersecurity</div>
+
+                        <h3>Phishing Attacks: How to Recognise Them</h3>
+
+                        <p>
+                            Learn how fraudulent emails, messages and
+                            websites trick people into revealing
+                            sensitive information.
+                        </p>
+
+                        <a class="read-link" href="#phishing">
+                            EXPLORE TOPIC →
+                        </a>
+                    </div>
+                </article>
+
+                <article class="article">
+                    <div class="article-visual">🌐</div>
+
+                    <div class="article-content">
+                        <div class="category">Emerging Technology</div>
+
+                        <h3>The Internet of Things: A Connected World</h3>
+
+                        <p>
+                            Discover how everyday devices communicate
+                            through the internet and why connected
+                            technology needs strong security.
+                        </p>
+
+                        <a class="read-link" href="#iot">
+                            EXPLORE TOPIC →
+                        </a>
+                    </div>
+                </article>
+
+            </div>
+        </section>
+
+        <!-- MORE TECHNOLOGY CONTENT -->
+
+        <section class="topics" id="topics">
+
+            <div class="section-heading">
+                <h2>Technology Explained</h2>
+                <span>Knowledge & Insights</span>
+            </div>
+
+            <article class="topic" id="generative-ai">
+                <div class="category">Artificial Intelligence</div>
+
+                <h3>How Generative AI Is Changing Creativity</h3>
 
                 <p>
-                    Discover how cyberattacks targeting supermarket
-                    refrigeration systems can affect food safety
-                    and businesses.
+                    Generative Artificial Intelligence is a branch of AI
+                    that can produce new content such as text, images,
+                    audio, video and computer code. It learns patterns
+                    from large datasets and uses those patterns to
+                    generate responses to user instructions.
                 </p>
 
-                <a href="supermarket-freezers-cyberattack.html">
-                    Read Article →
-                </a>
+                <p>
+                    Generative AI is being used in education, content
+                    creation, software development, research and business.
+                    It can help people brainstorm ideas, explain complex
+                    subjects and complete repetitive tasks. However,
+                    generated information should always be reviewed
+                    because AI systems can sometimes produce inaccurate
+                    or misleading results.
+                </p>
             </article>
+
+            <article class="topic" id="machine-learning">
+                <div class="category">Machine Learning</div>
+
+                <h3>Machine Learning Explained Simply</h3>
+
+                <p>
+                    Machine Learning is a field of Artificial Intelligence
+                    that allows computers to learn patterns from data
+                    instead of relying only on manually written rules.
+                    A model is trained using examples and then uses what
+                    it has learned to make predictions on new data.
+                </p>
+
+                <p>
+                    Machine Learning is used in recommendation systems,
+                    spam detection, fraud identification, image
+                    classification and medical research. The quality
+                    of its predictions depends on factors such as
+                    training data, model design and evaluation.
+                </p>
+            </article>
+
+            <article class="topic" id="phishing">
+                <div class="category">Cybersecurity</div>
+
+                <h3>Phishing Attacks: How to Recognise Them</h3>
+
+                <p>
+                    Phishing is a cyberattack in which criminals
+                    impersonate trusted organisations or individuals
+                    to trick people into sharing passwords, financial
+                    details or other sensitive information.
+                </p>
+
+                <p>
+                    These attacks may arrive through emails, text
+                    messages, social media or fake websites. Be cautious
+                    of unexpected messages, urgent requests, suspicious
+                    links and attachments. Always verify the sender
+                    through an official channel before sharing
+                    personal information.
+                </p>
+            </article>
+
+            <article class="topic" id="iot">
+                <div class="category">Emerging Technology</div>
+
+                <h3>The Internet of Things: A Connected World</h3>
+
+                <p>
+                    The Internet of Things (IoT) refers to physical
+                    devices connected to the internet that can collect,
+                    exchange and sometimes act on data. Examples include
+                    smart watches, connected cameras, industrial sensors
+                    and smart home appliances.
+                </p>
+
+                <p>
+                    IoT technology can improve convenience, monitoring
+                    and automation. However, poorly secured devices may
+                    expose networks to cyber threats. Strong passwords,
+                    software updates and secure network configurations
+                    are important for protecting connected devices.
+                </p>
+            </article>
+
+        </section>
+
+        <!-- ABOUT -->
+
+        <section id="about">
+
+            <h2>About AIToday</h2>
+
+            <p>
+                AIToday is a technology publication created to make
+                complex technology easier to understand. We explore
+                Artificial Intelligence, Cybersecurity, Machine Learning
+                and emerging innovations through informative articles
+                and practical explanations.
+            </p>
+
+            <p style="margin-top: 14px;">
+                Our goal is to help students, technology enthusiasts
+                and curious readers stay informed about the digital
+                world and understand how technology is shaping
+                our future.
+            </p>
+
+        </section>
+
+    </main>
+
+    <!-- FOOTER -->
+
+    <footer>
+
+        <div class="footer-inner">
+
+            <div>
+                <div class="footer-logo">AI<span>Today</span></div>
+
+                <p>Understand Technology. Explore Tomorrow.</p>
+
+                <p>
+                    Exploring AI, cybersecurity and the technologies
+                    shaping our world.
+                </p>
+            </div>
+
+            <div>
+                <p><strong>EXPLORE</strong></p>
+
+                <p><a href="#home">Home</a></p>
+                <p><a href="#latest">Latest Articles</a></p>
+                <p><a href="#topics">Technology Explained</a></p>
+                <p><a href="#about">About AIToday</a></p>
+            </div>
+
+            <div>
+                <p><strong>CONNECT</strong></p>
+
+                <p>
+                    <a href="https://github.com/swathi25-git/AITODAY"
+                       target="_blank"
+                       rel="noopener noreferrer">
+                        Visit our GitHub →
+                    </a>
+                </p>
+            </div>
 
         </div>
-    </section>
 
-    <section id="about">
-        <h2 class="section-title">About AIToday</h2>
+        <div class="footer-bottom">
 
-        <p>
-            AIToday is a technology blog created to make complex
-            technology simple and accessible.
+            <p>© 2026 AIToday. All Rights Reserved.</p>
 
-            We share informative articles, practical tutorials
-            and insights about Artificial Intelligence,
-            Cybersecurity and the technologies shaping our future.
-        </p>
-    </section>
+            <p>Independent insights into AI and technology.</p>
 
-</main>
+            <a href="#home" class="back-top">↑ Back to Top</a>
 
-<footer>
-    <p><strong>⚡ AIToday</strong></p>
+        </div>
 
-    <p>© 2026 AIToday. All Rights Reserved.</p>
-
-    <p>Understand Technology. Explore Tomorrow.</p>
-
-    <p>
-        <a href="https://github.com/swathi25-git/AITODAY"
-           target="_blank"
-           rel="noopener noreferrer">
-            Visit our GitHub →
-        </a>
-    </p>
-
-    <a href="#home" class="back-top">↑ Back to Top</a>
-</footer>
+    </footer>
 
 </body>
 </html>
