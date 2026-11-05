@@ -31,7 +31,7 @@ jobs:
       - name: Generate article drafts
         run: python automation/generate_article.py
         env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 
       - name: Save drafts to GitHub
         run: |
