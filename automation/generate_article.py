@@ -13,7 +13,7 @@ DRAFTS_DIR = BASE_DIR / "drafts"
 NEWS_FILE = DRAFTS_DIR / "collected_news.json"
 PROCESSED_FILE = DRAFTS_DIR / "processed_news.json"
 
-MODEL = os.getenv("GEMINI_MODEL", "gemini-3.8-flash")
+MODEL = os.getenv("GEMINI_MODEL", "gemini-3.5-flash-lite")
 
 client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
 
