@@ -44,7 +44,11 @@ def main():
 
     processed = load_json(PROCESSED_FILE, [])
 
-    categories = ["AI", "Cybersecurity", "Technology"]
+    categories = [
+    "Artificial Intelligence",
+    "Cybersecurity",
+    "Technology"
+]
     today = date.today().isoformat()
     created = 0
 
