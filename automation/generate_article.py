@@ -24,7 +24,39 @@ def load_json(path, default):
         return default
     with open(path, "r", encoding="utf-8") as file:
         return json.load(file)
+def generate_with_retry(prompt):
+    for attempt in range(3):
+        try:
+            response = client.models.generate_content(
+                model=MODEL,
+                contents=prompt,
+                config=types.GenerateContentConfig(
+                    system_instruction=(
+                        "You are an accurate technology journalist. "
+                        "Never fabricate facts. Write original articles "
+                        "and clearly distinguish confirmed information "
+                        "from anything that needs verification."
+                    ),
+                    max_output_tokens=1200,
+                    temperature=0.4
+                )
+            )
 
+            article = (response.text or "").strip()
+
+            if not article:
+                raise RuntimeError("Gemini returned an empty response.")
+
+            return article
+
+        except Exception as error:
+            print(f"Gemini attempt {attempt + 1} failed: {error}")
+
+            if attempt == 2:
+                print("Skipping this article after 3 failed attempts.")
+                return None
+
+            time.sleep(10 * (attempt + 1))
 
 def make_slug(title):
     slug = re.sub(r"[^a-z0-9]+", "-", title.lower())
