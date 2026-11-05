@@ -1,10 +1,11 @@
-
 import os
 import json
 import re
 from datetime import date
 from pathlib import Path
-from openai import OpenAI
+
+from google import genai
+from google.genai import types
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 DRAFTS_DIR = BASE_DIR / "drafts"
@@ -12,9 +13,9 @@ DRAFTS_DIR = BASE_DIR / "drafts"
 NEWS_FILE = DRAFTS_DIR / "collected_news.json"
 PROCESSED_FILE = DRAFTS_DIR / "processed_news.json"
 
-MODEL = os.getenv("OPENAI_MODEL", "gpt-4.1-mini")
+MODEL = os.getenv("GEMINI_MODEL", "gemini-3.8-flash")
 
-client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
+client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
 
 
 def load_json(path, default):
@@ -33,8 +34,11 @@ def main():
     DRAFTS_DIR.mkdir(exist_ok=True)
 
     news_data = load_json(NEWS_FILE, [])
+
     if isinstance(news_data, dict):
-        news_items = news_data.get("items", news_data.get("articles", []))
+        news_items = news_data.get(
+            "items", news_data.get("articles", [])
+        )
     else:
         news_items = news_data
 
@@ -84,22 +88,31 @@ Rules:
 - Do not invent additional sources.
 """
 
-        response = client.responses.create(
+        response = client.models.generate_content(
             model=MODEL,
-            instructions=(
-                "You are an accurate technology journalist. "
-                "Never fabricate facts. Write original articles "
-                "and clearly distinguish confirmed information "
-                "from anything that needs verification."
-            ),
-            input=prompt,
-            max_output_tokens=1200,
-            store=False
+            contents=prompt,
+            config=types.GenerateContentConfig(
+                system_instruction=(
+                    "You are an accurate technology journalist. "
+                    "Never fabricate facts. Write original articles "
+                    "and clearly distinguish confirmed information "
+                    "from anything that needs verification."
+                ),
+                max_output_tokens=1200,
+                temperature=0.4
+            )
         )
 
-        article = response.output_text.strip()
+        article = (response.text or "").strip()
 
-        filename = f"{today}-{category.lower()}-{make_slug(story.get('title', 'news'))}.md"
+        if not article:
+            raise RuntimeError("Gemini returned an empty response.")
+
+        filename = (
+            f"{today}-{category.lower()}-"
+            f"{make_slug(story.get('title', 'news'))}.md"
+        )
+
         output_path = DRAFTS_DIR / filename
 
         content = f"""---
@@ -130,6 +143,7 @@ source: "{story['url']}"
 """
 
         output_path.write_text(content, encoding="utf-8")
+
         processed.append(story["url"])
         created += 1
 
