@@ -1,138 +1,165 @@
 [
     {
-        "id": "7910f56b348bc37fcbcc0743f61c4a7302d6a5167e9ea88a4767a5ed8dde7f21",
+        "id": "108d95f376814446edb6b6745095e16c95ecfdbc6068fccd8f6a66fb24dc5190",
         "category": "Artificial Intelligence",
-        "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
-        "summary": "Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
-        "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
-        "published": "Wed, 18 Nov 2026 11:30:00 +0000",
-        "collected_at": "2026-11-18T12:04:23.643115+00:00"
+        "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+        "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
+        "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+        "published": "Thu, 19 Nov 2026 00:42:56 +0000",
+        "collected_at": "2026-11-19T11:59:38.192906+00:00"
     },
     {
-        "id": "b330164a6f0ccccf334136f67174b40831e080d51e54e47249c7b1f17a1488a0",
+        "id": "afb1f8fc849417dafc40566fabd0e231ea554d6fee6fc1399a052b6531318eb4",
         "category": "Artificial Intelligence",
-        "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
-        "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
-        "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
-        "published": "Wed, 18 Nov 2026 01:44:21 +0000",
-        "collected_at": "2026-11-18T12:04:23.643132+00:00"
+        "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+        "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+        "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+        "published": "Wed, 18 Nov 2026 23:45:00 +0000",
+        "collected_at": "2026-11-19T11:59:38.192920+00:00"
     },
     {
-        "id": "ceeb5bf897d71eb6e293937758b80a6a2d4edac99d0cc453fbe2a03b0ba364d4",
+        "id": "e78487095dd3723203c4a982f969e3240c9d1fbf5bf1eeee60109c5cf94c862c",
         "category": "Artificial Intelligence",
-        "title": "Nvidia promises that revenue will keep soaring — for now",
-        "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
-        "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
-        "published": "Wed, 18 Nov 2026 00:16:50 +0000",
-        "collected_at": "2026-11-18T12:04:23.643136+00:00"
+        "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+        "summary": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
+        "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+        "published": "Wed, 18 Nov 2026 23:25:17 +0000",
+        "collected_at": "2026-11-19T11:59:38.192925+00:00"
     },
     {
-        "id": "9818d892a2fa57697d36b1292043119a49fe3e3d0973f02730952b62280958ee",
+        "id": "d442346cc5e57a2674036e929b3d363e753635a57938a58b74a46f585b0159b2",
         "category": "Artificial Intelligence",
-        "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
-        "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
-        "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
-        "published": "Tue, 17 Nov 2026 23:37:48 +0000",
-        "collected_at": "2026-11-18T12:04:23.643142+00:00"
+        "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+        "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
+        "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+        "published": "Wed, 18 Nov 2026 23:17:28 +0000",
+        "collected_at": "2026-11-19T11:59:38.192929+00:00"
     },
     {
-        "id": "8339a30c8d70bc4c3f5ca833790613236a4c12044514023be686af6313861d3d",
+        "id": "49ff21afd78ef9de5ec7b048a8ba40e5045464372abb46355df3020f7076a7e9",
         "category": "Artificial Intelligence",
-        "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
-        "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
-        "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
-        "published": "Tue, 17 Nov 2026 23:04:35 +0000",
-        "collected_at": "2026-11-18T12:04:23.643145+00:00"
+        "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+        "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
+        "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+        "published": "Wed, 18 Nov 2026 22:58:11 +0000",
+        "collected_at": "2026-11-19T11:59:38.192933+00:00"
     },
     {
-        "id": "8a256ad53f34b968604e8a9a519dd1b9001c7ca32c5f3cba48e2f1d05b536e85",
+        "id": "aed3ea0dfc61854d1cd692e627f59a1a6c50c9bb8c13b916924d2d3fe029bf41",
         "category": "Artificial Intelligence",
-        "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
-        "summary": "The former CEO offered to return to his top role at the company after his resignation last week.",
-        "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
-        "published": "Tue, 17 Nov 2026 22:42:27 +0000",
-        "collected_at": "2026-11-18T12:04:23.643148+00:00"
+        "title": "Anthropic prices IPO at $83 a share, above projected range",
+        "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
+        "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+        "published": "Wed, 18 Nov 2026 22:11:15 +0000",
+        "collected_at": "2026-11-19T11:59:38.192937+00:00"
     },
     {
-        "id": "c55f92969fc4ef13b604f4b7f263c907cd9df006c432b5808fecac753b6eb553",
+        "id": "80bdab190c6dbdb4d3d938737d976bce1cd68acb77cbc322e9b8ee56b74a1ae9",
         "category": "Artificial Intelligence",
-        "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
-        "summary": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
-        "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
-        "published": "Tue, 17 Nov 2026 22:29:05 +0000",
-        "collected_at": "2026-11-18T12:04:23.643151+00:00"
+        "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
+        "summary": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.",
+        "url": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
+        "published": "Wed, 18 Nov 2026 21:57:40 +0000",
+        "collected_at": "2026-11-19T11:59:38.192941+00:00"
     },
     {
-        "id": "b16a598086e446c0e216f599f92b624d5d232dfc83e0e80b0a463c2c024b97ae",
+        "id": "734339654a32d098c3aef7f5ec0711b0a311813e3d6fc5ab445b113ee0d7076f",
         "category": "Artificial Intelligence",
-        "title": "SEC reportedly investigating Nvidia amid Huang exit",
-        "summary": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
-        "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
-        "published": "Tue, 17 Nov 2026 21:48:07 +0000",
-        "collected_at": "2026-11-18T12:04:23.643157+00:00"
+        "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
+        "summary": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
+        "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
+        "published": "Wed, 18 Nov 2026 21:34:13 +0000",
+        "collected_at": "2026-11-19T11:59:38.192952+00:00"
     },
     {
-        "id": "1961d923c37034d580d5860414cd7568de97be0891bb4c2f0e7db3c2ed04ed62",
+        "id": "4546d2f009c0f33e9f2b93d947b1ba01ee3fcb6d75b0fe329cb1bc30f6bdc772",
         "category": "Artificial Intelligence",
-        "title": "Google joins the tech outage trend by announcing it’s not having one",
-        "summary": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually.",
-        "url": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
-        "published": "Tue, 17 Nov 2026 21:34:50 +0000",
-        "collected_at": "2026-11-18T12:04:23.643161+00:00"
+        "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
+        "summary": "\"It makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang.",
+        "url": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
+        "published": "Wed, 18 Nov 2026 21:31:21 +0000",
+        "collected_at": "2026-11-19T11:59:38.192957+00:00"
     },
     {
-        "id": "372bb734ba1d0b31e5295704b7d6f66bdde10dbda519688f046ffba9a58e3eed",
+        "id": "388adedcc584c5bf9c69ea701312e37e9937ffdc5ba5edc2d4ce42cef24a639e",
         "category": "Artificial Intelligence",
-        "title": "Model ML raises $250M to automate investment banking grunt work",
-        "summary": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
-        "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
-        "published": "Tue, 17 Nov 2026 19:32:11 +0000",
-        "collected_at": "2026-11-18T12:04:23.643164+00:00"
+        "title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
+        "summary": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
+        "url": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/",
+        "published": "Wed, 18 Nov 2026 20:07:01 +0000",
+        "collected_at": "2026-11-19T11:59:38.192961+00:00"
     },
     {
-        "id": "534361927951e2d99a3b21f1fd874679b39b443e803d243affd53e6d4439b4b9",
+        "id": "53453b71f99b11c73bbdda073c4b11a0284ca2b0a1af040d2a9721e7901b5dcd",
         "category": "Artificial Intelligence",
-        "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
-        "summary": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
-        "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
-        "published": "Tue, 17 Nov 2026 19:02:20 +0000",
-        "collected_at": "2026-11-18T12:04:23.643167+00:00"
+        "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+        "summary": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.",
+        "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+        "published": "Wed, 18 Nov 2026 19:56:39 +0000",
+        "collected_at": "2026-11-19T11:59:38.192965+00:00"
     },
     {
-        "id": "f6980f92e029130a7b2cffb5f0e3fb11c24946dcb30a56e3da439b64ab9951f8",
+        "id": "13feb5a0d5b21e6a122bd1fc6ce8fa841f626b2eda0ab5ba89eb83ad406a2165",
         "category": "Artificial Intelligence",
-        "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
-        "summary": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
-        "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
-        "published": "Tue, 17 Nov 2026 18:48:23 +0000",
-        "collected_at": "2026-11-18T12:04:23.643169+00:00"
+        "title": "Google’s AI feature in Search gets its own incognito mode",
+        "summary": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations.",
+        "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+        "published": "Wed, 18 Nov 2026 18:04:05 +0000",
+        "collected_at": "2026-11-19T11:59:38.192968+00:00"
     },
     {
-        "id": "ecf8c81cb5048aa02c0809f46c70f5b49fd42b6b6f87c2bbe4aa7e88373eb303",
+        "id": "663072a237570232a4eced6e1fc97572bb148f34f644301aa363d15875869f2c",
         "category": "Artificial Intelligence",
-        "title": "As decision model use skyrockets, is customization the next frontier?",
-        "summary": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.",
-        "url": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
-        "published": "Tue, 17 Nov 2026 18:10:00 +0000",
-        "collected_at": "2026-11-18T12:04:23.643172+00:00"
+        "title": "More banks say customers using AI agents are on their own — even if they get hacked",
+        "summary": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
+        "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+        "published": "Wed, 18 Nov 2026 17:32:10 +0000",
+        "collected_at": "2026-11-19T11:59:38.192972+00:00"
     },
     {
-        "id": "837c136c3245c58a015e735592f4ee3c231d5c69ab3db7508c48ec82bc4e2db7",
+        "id": "d83fee4011ac317b0a62c64c96083938bd016ba4cbd2a187097d527427c7fcb1",
         "category": "Artificial Intelligence",
-        "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
-        "summary": "The company uses agentic AI to make supply chains faster and more reliable.",
-        "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
-        "published": "Tue, 17 Nov 2026 18:04:16 +0000",
-        "collected_at": "2026-11-18T12:04:23.643174+00:00"
+        "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
+        "summary": "Sam Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control.",
+        "url": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
+        "published": "Wed, 18 Nov 2026 16:59:00 +0000",
+        "collected_at": "2026-11-19T11:59:38.192975+00:00"
     },
     {
-        "id": "e17e376e57102864b346f6cf3d1c58e66cd61a225519d16563bf9fdcac1b62b4",
+        "id": "eaeb1e564c509a5a9ad387a491cd9933b3d360019cf9f04868ec8cf6431d0ede",
         "category": "Artificial Intelligence",
-        "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
-        "summary": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
-        "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
-        "published": "Tue, 17 Nov 2026 17:32:25 +0000",
-        "collected_at": "2026-11-18T12:04:23.643177+00:00"
+        "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+        "summary": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
+        "url": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
+        "published": "Wed, 18 Nov 2026 16:14:09 +0000",
+        "collected_at": "2026-11-19T11:59:38.192979+00:00"
+    },
+    {
+        "id": "1c5087d4a04ce5e368064c69b2384d6fc9d7f57609688f0d3b7d6a8079de0a6d",
+        "category": "Artificial Intelligence",
+        "title": "What a billion-dollar deal says about the US battery market",
+        "summary": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to supply silicon-carbon anode material, a possible key to smaller, lighter batteries. It’s a deal that Sila says could be worth more than&#8230;",
+        "url": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
+        "published": "Thu, 19 Nov 2026 11:00:00 +0000",
+        "collected_at": "2026-11-19T11:59:38.284326+00:00"
+    },
+    {
+        "id": "76a160b2736ec6d054a32164c2d6026036082cb93da0f7ea5dd29095e43cc3c3",
+        "category": "Artificial Intelligence",
+        "title": "The AI Hype Index: AI is everywhere",
+        "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go to the supermarket, and&#8230;",
+        "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+        "published": "Wed, 18 Nov 2026 14:42:44 +0000",
+        "collected_at": "2026-11-19T11:59:38.284338+00:00"
+    },
+    {
+        "id": "34287111874105b85b502305ebc4e96d83df5938cc1961f18a79afee852a9aac",
+        "category": "Artificial Intelligence",
+        "title": "The Download: AI learns to smell and hydropower struggles",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This smell startup says its AI nose is as good as a human’s In a New Jersey lab, researchers are trying to sniff every odor on Earth. Their careful notes—“nutty,” “peachy,”&#8230;",
+        "url": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/",
+        "published": "Wed, 18 Nov 2026 13:10:00 +0000",
+        "collected_at": "2026-11-19T11:59:38.284342+00:00"
     },
     {
         "id": "0443a0c6c8ceb7b93dc594a7a1b8e897785e3d7b8ac205f1dee4b09232693e93",
@@ -141,7 +168,7 @@
         "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup Osmo calls the world’s first foundation&#8230;",
         "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
         "published": "Wed, 18 Nov 2026 10:20:30 +0000",
-        "collected_at": "2026-11-18T12:04:23.814394+00:00"
+        "collected_at": "2026-11-19T11:59:38.284347+00:00"
     },
     {
         "id": "665d8227159904d75c3893256129e3e48c6c12a215700949e24c0889eac71220",
@@ -150,7 +177,7 @@
         "summary": "Listen to the session or watch below In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado explore possible paths to keep your mind going, including gradual brain&#8230;",
         "url": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
         "published": "Tue, 17 Nov 2026 18:46:47 +0000",
-        "collected_at": "2026-11-18T12:04:23.814409+00:00"
+        "collected_at": "2026-11-19T11:59:38.284351+00:00"
     },
     {
         "id": "11e12ce775565920ccb2672e0c21e9c3fa185cdc62d470240f9fb2757050cb4a",
@@ -159,7 +186,7 @@
         "summary": "The US Southwest generated 28% less electricity via hydropower between April and August than the 10-year average, according to new data from the US Energy Information Administration. Most hydropower plants in the US rely on dams to hold back water, creating reservoirs. The water can be released through turbines, generating electricity on demand. But an&#8230;",
         "url": "https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river/",
         "published": "Tue, 17 Nov 2026 17:52:10 +0000",
-        "collected_at": "2026-11-18T12:04:23.814413+00:00"
+        "collected_at": "2026-11-19T11:59:38.284354+00:00"
     },
     {
         "id": "a598c269f36b65423ddaf3f1b3ebc3f711ebf3285e43fa258754e6ebfaab8c3f",
@@ -168,7 +195,7 @@
         "summary": "To access a report, click on the corresponding image below.",
         "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
         "published": "Tue, 17 Nov 2026 14:39:46 +0000",
-        "collected_at": "2026-11-18T12:04:23.814417+00:00"
+        "collected_at": "2026-11-19T11:59:38.284358+00:00"
     },
     {
         "id": "b8dbef498ec857d05a0657cac6c801fe244c2e0fe4aeb32be43fef13d9c97984",
@@ -177,7 +204,7 @@
         "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The open-source movement wants Jensen Huang back A petition to reinstate Jensen Huang as Nvidia CEO has attracted more than 115,000 signatures, including Elon Musk, but comb through the names, and&#8230;",
         "url": "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/",
         "published": "Tue, 17 Nov 2026 13:10:00 +0000",
-        "collected_at": "2026-11-18T12:04:23.814421+00:00"
+        "collected_at": "2026-11-19T11:59:38.284361+00:00"
     },
     {
         "id": "4b894a843f326fdad9a922c0e884fa19449039cd725abf575b255bb5427d7ff1",
@@ -186,7 +213,7 @@
         "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including Elon Musk and several influential Nvidia&#8230;",
         "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
         "published": "Mon, 16 Nov 2026 18:38:47 +0000",
-        "collected_at": "2026-11-18T12:04:23.814423+00:00"
+        "collected_at": "2026-11-19T11:59:38.284364+00:00"
     },
     {
         "id": "7f5c627298368a7eb8db5d2f863eec792dc6c6f632f4fb66badcb6973008bfba",
@@ -195,34 +222,124 @@
         "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had told the agents to do&#8230;",
         "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
         "published": "Mon, 16 Nov 2026 16:04:28 +0000",
-        "collected_at": "2026-11-18T12:04:23.814426+00:00"
+        "collected_at": "2026-11-19T11:59:38.284368+00:00"
     },
     {
-        "id": "3bba039add8ac1ba47d8097a5cbb2c6ff17b35f04fc5e9f9e887f491ddb58519",
-        "category": "Artificial Intelligence",
-        "title": "The Download: testing tech promises and searching for cognitive immortality",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? Six technologies that promised to change the world How do you measure progress towards the future? In the Impossible issue of MIT Technology Review, our series “Are&#8230;",
-        "url": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/",
-        "published": "Mon, 16 Nov 2026 13:10:00 +0000",
-        "collected_at": "2026-11-18T12:04:23.814429+00:00"
+        "id": "6ebe391a8b41bbc0d12fc6b0adda6fb5b6d345f2beee9a61929827d186a2d687",
+        "category": "Cybersecurity",
+        "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
+        "summary": "N-able on Wednesday disclosed that unknown threat actors gained unauthorized access to one of the servers in the Mail Assure and Spam Experts Hosted Cloud, causing it to disable management interfaces and APIs.\n\n\"We have taken steps to mitigate the threat and are continuing to harden our services to reduce the risk of recurrence,\" N-able said.\n\n\"The investigation is ongoing, but at this time we",
+        "url": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html",
+        "published": "Thu, 19 Nov 2026 15:01:26 +0530",
+        "collected_at": "2026-11-19T11:59:38.450626+00:00"
     },
     {
-        "id": "3f40ae984dddf975f9fde3ee1b885baa61f19b8216a9ac89ec921cc0a9725893",
-        "category": "Artificial Intelligence",
-        "title": "Building AI that can work across the enterprise",
-        "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a deeper challenge: rethinking how data, business processes, governance,&#8230;",
-        "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
-        "published": "Mon, 16 Nov 2026 13:00:00 +0000",
-        "collected_at": "2026-11-18T12:04:23.814431+00:00"
+        "id": "29eb33240b0fe5717515a5b0fa724d76dc4bcd82149007bd86c49e61ecc87c44",
+        "category": "Cybersecurity",
+        "title": "Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE",
+        "summary": "Ruby contains seven memory-safety flaws in its regular expression engine and its string case-conversion code. For five of them, its maintainers say, proof-of-concept exploits, or PoCs, have shown that crafted input can run code on the machine.\n\n\"We are aware of PoCs that prove some of them can be used to trigger remote code execution,\" the maintainers said.\n\nThe project released fixed versions",
+        "url": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html",
+        "published": "Thu, 19 Nov 2026 14:12:11 +0530",
+        "collected_at": "2026-11-19T11:59:38.450638+00:00"
     },
     {
-        "id": "136644a5b7dab6b2906e1e239b7d4937e796a72dea32b675e60c2ddec7cf64ec",
-        "category": "Artificial Intelligence",
-        "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? —Aaron Zamost, a tech communications consultant and a former executive at Square The self-styled visionaries&#8230;",
-        "url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
-        "published": "Fri, 13 Nov 2026 13:10:00 +0000",
-        "collected_at": "2026-11-18T12:04:23.814434+00:00"
+        "id": "3914c4d93285bf9341fb41eae6e914bfe6b9431ae6bf539dc3683f4716e4786f",
+        "category": "Cybersecurity",
+        "title": "Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle",
+        "summary": "Low-privilege database accounts that cannot read a single application table can still be used to run code on the database server itself, a researcher has shown, by reaching memory-corruption bugs in the engine code behind ordinary SQL.\n\nThe exploits, published yesterday, are the researcher's proofs of concept against PostgreSQL, MySQL and ClickHouse, plus a separate Oracle chain that needs no",
+        "url": "https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html",
+        "published": "Thu, 19 Nov 2026 13:44:00 +0530",
+        "collected_at": "2026-11-19T11:59:38.450642+00:00"
+    },
+    {
+        "id": "dd71654a2f478334a00f723034869d525c8f294f52144f6d773788e3ec775e30",
+        "category": "Cybersecurity",
+        "title": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks",
+        "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added four vulnerabilities impacting Synology DiskStation Manager (DSM), BerriAI LiteLLM, Apache Axis, and Vanderbilt University Research Electronic Data Capture (REDCap) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\n\nThe vulnerabilities are listed below -",
+        "url": "https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html",
+        "published": "Thu, 19 Nov 2026 13:30:00 +0530",
+        "collected_at": "2026-11-19T11:59:38.450646+00:00"
+    },
+    {
+        "id": "75b5f95941280ec24fc1cc156dcc25c290b29bbe238a86037e0e0b33dbb9fb27",
+        "category": "Cybersecurity",
+        "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
+        "summary": "The maintainers of the PHP programming language on Wednesday issued an advisory announcing an upcoming security release that addresses critical flaws.\n\nThe release is scheduled for November 19, 2026, between 2 and 2:30 p.m. UTC.\n\n\"These releases are part of PHP's regular four-week release cycle and will address security vulnerabilities affecting all supported PHP versions,\" the maintainers said.",
+        "url": "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html",
+        "published": "Thu, 19 Nov 2026 10:03:46 +0530",
+        "collected_at": "2026-11-19T11:59:38.450650+00:00"
+    },
+    {
+        "id": "04e49dcbdb74573337afa5ecc35cbbbeba68aa7e36a9fce9c51b4d9485c13293",
+        "category": "Cybersecurity",
+        "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
+        "summary": "A flaw in NGINX's HTTP/2 support can allow an attacker to run code on servers with HTTP/2 enabled, without needing to log in.\n\nThe decade-old flaw, CVE-2026-123007, dubbed \"nginx2root,\" has been present in NGINX's open-source code since version 1.9.5, released on September 22, 2015. Fixed versions 1.31.9 and 1.30.7 came out today.\n\nF5, the company behind NGINX, says attackers can run code where",
+        "url": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
+        "published": "Thu, 19 Nov 2026 00:01:17 +0530",
+        "collected_at": "2026-11-19T11:59:38.450653+00:00"
+    },
+    {
+        "id": "4ab4f5e03685767a0a27b7d9fc27b733513f92ea8211c6d54bcdbb0ff2caeee9",
+        "category": "Cybersecurity",
+        "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
+        "summary": "Six critical vulnerabilities in F5 BIG-IP allow an attacker to crash the Traffic Management Microkernel (TMM) without logging in, disrupting traffic until the TMM restarts.\n\nEach flaw needs a specific setup on a virtual server: an iRule that uses a particular command, or an APM policy that includes two particular kinds of agent.\n\nF5, which makes BIG-IP, disclosed the flaws today and says they",
+        "url": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html",
+        "published": "Wed, 18 Nov 2026 23:45:39 +0530",
+        "collected_at": "2026-11-19T11:59:38.450657+00:00"
+    },
+    {
+        "id": "6ec0dce548ff06fef1684d29c17304a8f76b7440dcceb43742a6c4c0623b83b9",
+        "category": "Cybersecurity",
+        "title": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
+        "summary": "A critical security flaw in Apache Roller, an open-source, Java-based blogging platform, has come under active exploitation in the wild, according to the Apache Software Foundation (ASF)\n\nThe vulnerability, tracked as CVE-2026-129448 (CVSS score: 9.8), is a case of unauthenticated deserialization in the XML-RPC endpoint that could lead to remote code execution.\n\n\"Deserialization of Untrusted",
+        "url": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html",
+        "published": "Wed, 18 Nov 2026 22:40:45 +0530",
+        "collected_at": "2026-11-19T11:59:38.450660+00:00"
+    },
+    {
+        "id": "16d1e418da7ea1b76c1da0a8c2ed408b55a89e5c36435283c9a09c14095531e6",
+        "category": "Cybersecurity",
+        "title": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks",
+        "summary": "The suspected Chinese advanced persistent threat (APT) group behind the sophisticated EggStreme malware has rebuilt its toolkit as it continues to target government organizations in the Philippines.\n\n\"When attackers are exposed, the cheap response is to rotate,\" Bitdefender said in a technical report shared with The Hacker News. \"A file hash changes with every recompile, a domain costs a few",
+        "url": "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html",
+        "published": "Wed, 18 Nov 2026 19:41:28 +0530",
+        "collected_at": "2026-11-19T11:59:38.450664+00:00"
+    },
+    {
+        "id": "90f84e48047fe43a9ea12d1e451e4063a37d6656d789ad7e4f15f5fbc81c89d2",
+        "category": "Cybersecurity",
+        "title": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years",
+        "summary": "On AMD-based PCs and some Intel PCs, the TPM lockout for Windows Hello and BitLocker PINs can be reset by someone who opens the PC's case, researchers at Technische Universität Berlin say.\n\nThat leaves short PINs open to guessing. In lab tests, the researchers found a four-digit Hello PIN on an AMD laptop and a 6-digit BitLocker PIN on an Intel laptop this way.\n\nBoth PINs were set by the",
+        "url": "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html",
+        "published": "Wed, 18 Nov 2026 17:58:30 +0530",
+        "collected_at": "2026-11-19T11:59:38.450668+00:00"
+    },
+    {
+        "id": "e3f6e444c8dea91200fa2fa5d907b5cc185fb7f96cc15ea247949b34d3913fd4",
+        "category": "Cybersecurity",
+        "title": "AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor",
+        "summary": "TL;DR\n\n\n  Attackers move first. On average, exploitation now starts before a patch exists (Mandiant M-Trends 2026). In 1H 2026, 23% of vulnerabilities VulnCheck added to its exploited list were hit on or before disclosure day.\n  AI pentesting vendors aren't interchangeable. Most look convincing in a demo. The gaps show up in your logged-in flows, your coverage, and your production safety.\n  Make",
+        "url": "https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html",
+        "published": "Wed, 18 Nov 2026 17:45:00 +0530",
+        "collected_at": "2026-11-19T11:59:38.450671+00:00"
+    },
+    {
+        "id": "5966ac56e61b79d55a1dfb8eb6cbaa68575d2db5b8e296af4960ef8de6aef4da",
+        "category": "Cybersecurity",
+        "title": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
+        "summary": "A Java flaw called Java4Shell can let attackers without an account run their own code on Jira, Jenkins, Keycloak, and three other widely used applications, says Calif, the security research firm that disclosed it this week.\n\nThe flaw is present in Java 17.0.6 and later, and the vulnerable code runs only on x86-64 Intel and AMD chips that support the AVX-512 VBMI feature.\n\nTracked as",
+        "url": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
+        "published": "Wed, 18 Nov 2026 17:25:49 +0530",
+        "collected_at": "2026-11-19T11:59:38.450675+00:00"
+    },
+    {
+        "id": "1df2f3726abcb8b78e693c26cc2e609b1955e5ec05c896d7a6e124a7b8546a5d",
+        "category": "Cybersecurity",
+        "title": "Quality Isn’t The Main Worry About AI Pentesting — Data Privacy and Production Safety Are",
+        "summary": "AI is speeding up how software is built, which means more code, more changes, and more chances for vulnerabilities to reach production. It's speeding up how attackers find and exploit them too, with time-to-exploit now down to a single day. Security testing has to keep up with both.\n\nAI pentesting has emerged as a way to run in-depth tests whenever teams need them, instead of waiting for the",
+        "url": "https://thehackernews.com/2026/11/quality-isnt-main-worry-about-ai.html",
+        "published": "Wed, 18 Nov 2026 16:33:57 +0530",
+        "collected_at": "2026-11-19T11:59:38.450678+00:00"
     },
     {
         "id": "eeab189c347513181f34ff4f3eeace5dc417447761b145a6a5dfbcbac39fe6d3",
@@ -231,7 +348,7 @@
         "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting Perforce Puppet, an enterprise infrastructure-as-code (IaC) and configuration management platform, to its Known Exploited Vulnerabilities (KEV) catalog, citing reports of active exploitation.\n\nThe vulnerability, tracked as CVE-2026-115731 (CVSS score: 9.4), is a case of",
         "url": "https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html",
         "published": "Wed, 18 Nov 2026 13:54:31 +0530",
-        "collected_at": "2026-11-18T12:04:24.056199+00:00"
+        "collected_at": "2026-11-19T11:59:38.450682+00:00"
     },
     {
         "id": "e739030404770d0d4734e00be73f695e38c7719fd3dc1c398d0f2e8ba9fc53d0",
@@ -240,124 +357,79 @@
         "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged organizations to immediately patch a newly disclosed critical security flaw impacting Oracle Java.\n\nThe flaw, tracked as CVE-2026-114938 (CVSS score: 8.1), refers to a case of out-of-bounds write that can lead to denial-of-service (DoS) or remote code execution under certain conditions.\n\n\"This critical memory-corruption",
         "url": "https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html",
         "published": "Wed, 18 Nov 2026 13:54:23 +0530",
-        "collected_at": "2026-11-18T12:04:24.056213+00:00"
+        "collected_at": "2026-11-19T11:59:38.450685+00:00"
     },
     {
-        "id": "533b590042a015080bb5ceb318949a4db906b41c1a62e336003cbb72fb077463",
+        "id": "abfd462e0ed18e9c8bcf3b6f57e16d87c6c5da36ae62028603ace8f3b6da77f4",
         "category": "Cybersecurity",
-        "title": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials",
-        "summary": "Threat actors have compromised Microsoft's agent-framework package to push a credential stealer, according to reports from Aikido, Chainguard, Endor Labs, OX Security, SafeDep, Socket, StepSecurity, and Google-owned Wiz.\n\nThe malicious versions, 1.26.1 and 1.26.2, were published 33 minutes apart on November 17, 2026, and are designed to run a credential stealer on every Python start. As of",
-        "url": "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html",
-        "published": "Wed, 18 Nov 2026 12:15:26 +0530",
-        "collected_at": "2026-11-18T12:04:24.056217+00:00"
+        "title": "Microsoft tests new Edge Lockdown Mode that disables GPU APIs",
+        "summary": "Microsoft is developing a new Edge security feature to reduce the attack surface by disabling the WebGL, WebGL2, and WebGPU APIs. [...]",
+        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/",
+        "published": "Thu, 19 Nov 2026 06:46:00 -0500",
+        "collected_at": "2026-11-19T11:59:38.539623+00:00"
     },
     {
-        "id": "4816a5c313d508c2d8b0724398a9adac9161458ad29490ae2b7e06fdbe6904fc",
+        "id": "b737cfc44cd60b706a6729f47f71a83c6ccf78c3d267b1cc9c46f7ca030e1a25",
         "category": "Cybersecurity",
-        "title": "Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization",
-        "summary": "The Russia-linked cyber espionage group known as Cold Relic (formerly COLDRIVER and UNC4057) has been observed weaponizing a single cloud compromise into a launchpad for a series of linked intrusions resulting in third-party compromise.\n\nGoogle's Mandiant and Threat Intelligence Group (GTIG) said it investigated a 2026 compromise at a U.S.-based organization in which the adversary leveraged",
-        "url": "https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html",
-        "published": "Wed, 18 Nov 2026 11:28:04 +0530",
-        "collected_at": "2026-11-18T12:04:24.056220+00:00"
+        "title": "Microsoft confirms app installation, launch issues after hotpatch",
+        "summary": "Microsoft has shared a workaround for installation and launch issues affecting Office and third-party applications after installing this month's Windows 11 hotpatch. [...]",
+        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-app-installation-launch-issues-after-hotpatch/",
+        "published": "Thu, 19 Nov 2026 05:35:05 -0500",
+        "collected_at": "2026-11-19T11:59:38.539634+00:00"
     },
     {
-        "id": "5966ac56e61b79d55a1dfb8eb6cbaa68575d2db5b8e296af4960ef8de6aef4da",
+        "id": "dc1081452c88c713a0ebb1919eb848569dd203a39b56e381f49f85f61d6846b1",
         "category": "Cybersecurity",
-        "title": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
-        "summary": "A Java flaw called Java4Shell can let attackers without an account run their own code on Jira, Jenkins, Keycloak, and three other widely used applications, says Calif, the security research firm that disclosed it this week.\n\nThe flaw is present in Java 17.0.6 and later, and the vulnerable code runs only on x86-64 Intel and AMD chips that support the AVX-512 VBMI feature.\n\nTracked as",
-        "url": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
-        "published": "Wed, 18 Nov 2026 09:57:41 +0530",
-        "collected_at": "2026-11-18T12:04:24.056223+00:00"
+        "title": "NVIDIA investigating Gentlemen ransomware breach claims",
+        "summary": "NVIDIA is investigating claims of a security breach after the Gentlemen ransomware group has added the company to its dark web data leak site. [...]",
+        "url": "https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/",
+        "published": "Thu, 19 Nov 2026 04:23:21 -0500",
+        "collected_at": "2026-11-19T11:59:38.539639+00:00"
     },
     {
-        "id": "6bab39afba048d48cb977b3c7ea49658ba95d039105dff5cdeec3fff2f1cde5f",
+        "id": "98624c3d23ee283ff3bce8bec3aff2dc8f7577fdd376b089052eb9da7a1bda6c",
         "category": "Cybersecurity",
-        "title": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses",
-        "summary": "A malicious widget can bypass the security filter that Telegram added to its Android app last week and run code outside it, according to NebuSec, a security company.\n\nWidgets are small interactive blocks that bots send inside chat messages, and their JavaScript runs on the user's phone. The researchers ran their demonstration on a Telegram test server, because only approved bots can send",
-        "url": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
-        "published": "Wed, 18 Nov 2026 01:04:20 +0530",
-        "collected_at": "2026-11-18T12:04:24.056226+00:00"
+        "title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
+        "summary": "Ukrainian authorities, working with the FBI, have arrested four suspected members of an international ransomware organization linked to more than $40.5 million in ransom payments from at least 28 companies worldwide. [...]",
+        "url": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
+        "published": "Wed, 18 Nov 2026 18:08:33 -0500",
+        "collected_at": "2026-11-19T11:59:38.539643+00:00"
     },
     {
-        "id": "e5492f9867506c1763a92226a47c0040d7bbb2c6a01e7ebc7f704d255be77f82",
+        "id": "3208f46dd169033595b049d6940d07e6df0b7b129d252f8f8c1fb820f4172ca0",
         "category": "Cybersecurity",
-        "title": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
-        "summary": "Oracle is preparing to release security patches for 11 vulnerabilities in Java SE on Tuesday, November 17, 2026, all of which may be exploited remotely without authentication, as separate reports warn of a potentially critical remote code execution (RCE) flaw affecting OpenJDK.\n\nThe 11 vulnerabilities carry a maximum CVSS 3.1 severity score of 8.1, according to Oracle's advance security notice.",
-        "url": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
-        "published": "Tue, 17 Nov 2026 20:47:36 +0530",
-        "collected_at": "2026-11-18T12:04:24.056229+00:00"
+        "title": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam",
+        "summary": "Coinbase says it blocked $4.7 million in cryptocurrency transfers to scammers promoting a fake giveaway using an AI-generated deepfake of Elon Musk during a Tesla livestream that attracted more than 500,000 viewers. [...]",
+        "url": "https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/",
+        "published": "Wed, 18 Nov 2026 15:49:32 -0500",
+        "collected_at": "2026-11-19T11:59:38.539647+00:00"
     },
     {
-        "id": "4f9516b8f5d72d7aacdd2019c89a70ba5b7d120f880fe9df41ffddb86f861d17",
+        "id": "c3f1d9d987e86306defcb0a65fde3e36907f743e6de8d575958be46f68d9f704",
         "category": "Cybersecurity",
-        "title": "Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers",
-        "summary": "Artificial intelligence (AI), blockchain, and logistics sectors across Europe and the U.S. have emerged as the target of a large-scale, industrialized campaign dubbed Trigram.\n\n\"Trigram is a large-scale campaign that impersonates about 50 brands in the blockchain and AI sectors, to trick developers into executing an infostealer themselves,\" Stormshield said in a deep-dive technical report",
-        "url": "https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html",
-        "published": "Tue, 17 Nov 2026 20:47:28 +0530",
-        "collected_at": "2026-11-18T12:04:24.056232+00:00"
+        "title": "Data breach impacts 40 Irish credit unions in reported IT provider hack",
+        "summary": "A reported cyberattack on Wellington IT has exposed sensitive information belonging to members of 50 credit unions, the majority of which are located in Ireland. [...]",
+        "url": "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/",
+        "published": "Wed, 18 Nov 2026 14:39:33 -0500",
+        "collected_at": "2026-11-19T11:59:38.539651+00:00"
     },
     {
-        "id": "88d6d55f0b06ce11ebd6ca5cbacdb3f63a8bbb35535198355b69323ae482a09e",
+        "id": "97ef079b76eaf6ad0d5ceb7c22d6098b99ce6dbf28e13d300758046911a3e8fc",
         "category": "Cybersecurity",
-        "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
-        "summary": "Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around it.\n\nIn March 2026, the hackers who hijacked Trivy, a widely used open-source security scanner, planted malicious code that looked like it came from GitHub's official checkout tool. They even labeled it a",
-        "url": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
-        "published": "Tue, 17 Nov 2026 17:55:06 +0530",
-        "collected_at": "2026-11-18T12:04:24.056238+00:00"
+        "title": "Microsoft’s Agent Framework PyPI package compromised to steal credentials",
+        "summary": "Hackers compromised Microsoft's official Agent Framework Python package on PyPI, publishing two malicious versions designed to steal cloud credentials and other sensitive information from developers' systems. [...]",
+        "url": "https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/",
+        "published": "Wed, 18 Nov 2026 11:58:42 -0500",
+        "collected_at": "2026-11-19T11:59:38.539654+00:00"
     },
     {
-        "id": "1d648e0700680ba42d5ea61ffc70fa29f3fa53baf06ebd6e630064411988055c",
+        "id": "993f9d718221ef41a1106209344b131e8836245fc27f6704b54079b23d266e1e",
         "category": "Cybersecurity",
-        "title": "Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission",
-        "summary": "A now-patched flaw in Apple's audio service let apps on iPhones and iPads record audio even after the user tapped \"Don't Allow\" on the microphone prompt.\n\nThe first security updates with the fix came out on August 17. Neither Apple nor the two researchers who found the flaw report that it was used in attacks.\n\nNik Tsytsarkin of Meta Red Team X published the technical details last week. Mustafa",
-        "url": "https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html",
-        "published": "Tue, 17 Nov 2026 17:44:36 +0530",
-        "collected_at": "2026-11-18T12:04:24.056241+00:00"
-    },
-    {
-        "id": "1f9af5fe35a30d1284da3fb258133904b0886a4ceea87a58c052a375d0e609ae",
-        "category": "Cybersecurity",
-        "title": "New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels",
-        "summary": "Government sectors in Asia and Africa have been targeted by an active cyber intrusion campaign that delivers to previously undocumented backdoors that leverage legitimate services like Microsoft SharePoint and GitHub for command‑and‑control (C2).\n\nThe activity has been codenamed Operation ShadowCloud by Kaspersky. The Russian cybersecurity company said it identified the campaign in early 2026.",
-        "url": "https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html",
-        "published": "Tue, 17 Nov 2026 16:50:18 +0530",
-        "collected_at": "2026-11-18T12:04:24.056244+00:00"
-    },
-    {
-        "id": "c37508e4b828623c3822b8da16a459f1dc012a353af0e1ab9740a1734a927464",
-        "category": "Cybersecurity",
-        "title": "Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks",
-        "summary": "Apple on Monday introduced new controls that allow Mac users to give more granular access to data they give to apps, including those that use artificial intelligence (AI) agents.\n\nThe changes, currently previewed in macOS 27.3 beta 2, relate to increased transparency and more options for two of its APIs: Device Control and Data Access, and Full Disk Access.\n\n\"Before granting an app such",
-        "url": "https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html",
-        "published": "Tue, 17 Nov 2026 16:37:31 +0530",
-        "collected_at": "2026-11-18T12:04:24.056247+00:00"
-    },
-    {
-        "id": "64d59e5e3ac8caa011479b109b3f63b6273bd0f6e77f7a66cd16658dddf3bf07",
-        "category": "Cybersecurity",
-        "title": "Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors",
-        "summary": "An attacker exploited a flaw in Optimizely Web Experimentation to plant malicious code in some of the scripts that customers' websites load from the service, Optimizely said early today.\n\nVisitors to sites run by at least 178 organizations, including CNN, the BBC and Zoom, received the code yesterday, according to Report URI, a firm that monitors the scripts websites run.\n\nThe code was built to",
-        "url": "https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html",
-        "published": "Tue, 17 Nov 2026 12:42:13 +0530",
-        "collected_at": "2026-11-18T12:04:24.056250+00:00"
-    },
-    {
-        "id": "dd31e5151870eabc50362f7a3e58260b1e0081dc3804e5825b81e82b83b2288f",
-        "category": "Cybersecurity",
-        "title": "ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems",
-        "summary": "ConnectWise on Monday said it completed its investigation into unauthorized access targeting partner ScreenConnect environments, and recommended customers to ensure that the technician client is running version 26.6.5 or later.\n\nThe company said additional activity targeting on-premises environments continues to be reported where the identified third-party extensions remain enabled and",
-        "url": "https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html",
-        "published": "Tue, 17 Nov 2026 11:59:27 +0530",
-        "collected_at": "2026-11-18T12:04:24.056253+00:00"
-    },
-    {
-        "id": "7d8a94de5f64d8dd628d4dd4be859a1254f8fc4848345d3fe581be40559e31d1",
-        "category": "Cybersecurity",
-        "title": "N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners",
-        "summary": "N-able has released a new security update to address additional critical security flaws impacting N-central.\n\nDescribing N-central 2026.4 Hotfix 3 as a critical security update, the company said it includes a number of security patches and fixes that enhance the security of the Remote Monitoring and Management (RMM) and Unified Endpoint Management (UEM) platform.\n\n\"HF3 builds on the",
-        "url": "https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html",
-        "published": "Tue, 17 Nov 2026 10:30:34 +0530",
-        "collected_at": "2026-11-18T12:04:24.056256+00:00"
+        "title": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters",
+        "summary": "Attackers are using deepfakes, helpdesk impersonation, and fake IT support requests to deceive employees and gain unauthorized access to corporate systems. Specops Software examines real-world attacks and explains how stronger identity verification can help organizations prevent social engineering threats. [...]",
+        "url": "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/",
+        "published": "Wed, 18 Nov 2026 10:00:10 -0500",
+        "collected_at": "2026-11-19T11:59:38.539658+00:00"
     },
     {
         "id": "75d2be14123c2f646106bc23abba98ac93b564b8989554644c25f3681a8dab77",
@@ -366,7 +438,7 @@
         "summary": "The Alliance for Creativity and Entertainment (ACE) has announced the shutdown of Dizigom, one of Turkey's largest piracy sites, after a settlement agreement with the site's operators. [...]",
         "url": "https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/",
         "published": "Wed, 18 Nov 2026 06:50:25 -0500",
-        "collected_at": "2026-11-18T12:04:24.153586+00:00"
+        "collected_at": "2026-11-19T11:59:38.539662+00:00"
     },
     {
         "id": "4d4692262fd008a52dd7f0b39d781200bd090d3d88b7da9f030a8631a566b0da",
@@ -375,7 +447,7 @@
         "summary": "Apache has released security updates to address a critical Roller flaw that threat actors are exploiting to gain code execution on vulnerable servers. [...]",
         "url": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/",
         "published": "Wed, 18 Nov 2026 05:35:05 -0500",
-        "collected_at": "2026-11-18T12:04:24.153600+00:00"
+        "collected_at": "2026-11-19T11:59:38.539665+00:00"
     },
     {
         "id": "3cc7c52171142a720117a1ae7b8a9d878f70260acd88ce4edb4a5cdae18e8876",
@@ -384,7 +456,7 @@
         "summary": "Microsoft has announced Windows Server 2028, the next major release of its server operating system, at the Ignite 2026 conference on Tuesday. [...]",
         "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/",
         "published": "Wed, 18 Nov 2026 04:24:31 -0500",
-        "collected_at": "2026-11-18T12:04:24.153604+00:00"
+        "collected_at": "2026-11-19T11:59:38.539668+00:00"
     },
     {
         "id": "9f8e9c27a393774d87dacb6af17339712ea4d525a7f30fd7dd265223ba821b42",
@@ -393,7 +465,7 @@
         "summary": "A leader of the Scattered Spider cybercrime collective has been sentenced to six years in prison in the United States for stealing millions in cryptocurrency and conspiring to hack a dozen companies. [...]",
         "url": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/",
         "published": "Wed, 18 Nov 2026 03:24:18 -0500",
-        "collected_at": "2026-11-18T12:04:24.153607+00:00"
+        "collected_at": "2026-11-19T11:59:38.539672+00:00"
     },
     {
         "id": "fca3dc2fb77689c74c126f3134f3c8bb6edce29d1c049c2bb1353a2e03b9b0d2",
@@ -402,7 +474,7 @@
         "summary": "A critical vulnerability dubbed Java4Shell in OpenJDK, the open-source implementation of Java, can allow unauthenticated attackers to remotely execute code on popular enterprise applications, including Jenkins, Atlassian Jira, Confluence, and Keycloak. [...]",
         "url": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
         "published": "Tue, 17 Nov 2026 18:04:21 -0500",
-        "collected_at": "2026-11-18T12:04:24.153610+00:00"
+        "collected_at": "2026-11-19T11:59:38.539675+00:00"
     },
     {
         "id": "2cac7202a964b936fe17a115c7422d93a838bc2c77b38bd0f7a41cc387feb148",
@@ -411,7 +483,7 @@
         "summary": "Credentials and access secrets exposed in public Docker Hub images are being extracted and exploited by attackers within as little as eight seconds of publication. [...]",
         "url": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
         "published": "Tue, 17 Nov 2026 16:27:17 -0500",
-        "collected_at": "2026-11-18T12:04:24.153613+00:00"
+        "collected_at": "2026-11-19T11:59:38.539679+00:00"
     },
     {
         "id": "b578b4efad12031a1ea352704e6d63fadd415765182ce29dbfa91997ca81befa",
@@ -420,249 +492,168 @@
         "summary": "The Fugaku supercomputer operated by Japan's RIKEN Center for Computational Science has been taken offline following a security breach. [...]",
         "url": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
         "published": "Tue, 17 Nov 2026 15:51:21 -0500",
-        "collected_at": "2026-11-18T12:04:24.153616+00:00"
+        "collected_at": "2026-11-19T11:59:38.539682+00:00"
     },
     {
-        "id": "d82820a08fcb4635dc322ad89b586a78b9426d81277bc4255a6e78c8490b13fd",
-        "category": "Cybersecurity",
-        "title": "Apple reports outages affecting iCloud Mail, AppleCare and more",
-        "summary": "Apple is reporting service disruptions affecting several of its services, including iCloud Mail, iCloud Account & Sign In, Apple School Manager, and Schoolwork. [...]",
-        "url": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
-        "published": "Tue, 17 Nov 2026 14:24:07 -0500",
-        "collected_at": "2026-11-18T12:04:24.153618+00:00"
-    },
-    {
-        "id": "a5a96cf48fc1d6fb62cf6086c75fbde8b9e14878b80be321fdeef4841fbc98ec",
-        "category": "Cybersecurity",
-        "title": "Researchers hijack Hugging Face account for popular Kokoro AI model",
-        "summary": "A Lack of ownership verification on the Hugging Face platform allowed researchers to take control of Kokoro, a text-to-speech model used in projects from Google, NVIDIA, AMD, Intel, and Amazon Web Services. [...]",
-        "url": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/",
-        "published": "Tue, 17 Nov 2026 13:21:24 -0500",
-        "collected_at": "2026-11-18T12:04:24.153621+00:00"
-    },
-    {
-        "id": "6ab6f9140451038c2a4e76d9a6c6936509eb64ff1246688eac8b17627f8ba526",
-        "category": "Cybersecurity",
-        "title": "Tor releases emergency update amid ongoing DDoS attack",
-        "summary": "The Tor Project has released a security update for its network relay software to increase defenses against an ongoing distributed denial-of-service attack that it says has overwhelmed relays and affected most operators. [...]",
-        "url": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
-        "published": "Tue, 17 Nov 2026 13:04:15 -0500",
-        "collected_at": "2026-11-18T12:04:24.153624+00:00"
-    },
-    {
-        "id": "c05daafd452340b7c56a282b0921f02728c956b1cc6ccf05aa9b9c63c39dc5f7",
-        "category": "Cybersecurity",
-        "title": "Flipper Devices launches $399 ‘Flipper One’ Linux-based multi-tool",
-        "summary": "Flipper Devices, the company behind the popular Flipper Zero pentesting device, has launched a crowdfunding campaign for Flipper One, a portable Linux computer and networking multi-tool. [...]",
-        "url": "https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/",
-        "published": "Tue, 17 Nov 2026 11:00:00 -0500",
-        "collected_at": "2026-11-18T12:04:24.153627+00:00"
-    },
-    {
-        "id": "54e4290953ac1ddd134375d2af2adde41b2450dcdb1a98c0d3147ab488b3bb03",
-        "category": "Cybersecurity",
-        "title": "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions",
-        "summary": "Huntress researchers break down how EvilTokens, Knight Office, and Kali365 capture and replay M365 tokens, plus how defenders can detect and contain them.  [...]",
-        "url": "https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/",
-        "published": "Tue, 17 Nov 2026 10:01:11 -0500",
-        "collected_at": "2026-11-18T12:04:24.153630+00:00"
-    },
-    {
-        "id": "405d067acd3fc3c8b532e90cee036cf91cc36baeb10bee567b4145084bf61b18",
-        "category": "Cybersecurity",
-        "title": "Microsoft testing Remote Lock for lost or stolen Windows devices",
-        "summary": "Microsoft is testing a new feature that lets enterprise IT administrators remotely lock stolen or lost Windows devices without wiping them. [...]",
-        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/",
-        "published": "Tue, 17 Nov 2026 06:19:51 -0500",
-        "collected_at": "2026-11-18T12:04:24.153633+00:00"
-    },
-    {
-        "id": "e6b22b6e2d3bbb64d29d787abcdd91da6866ee89e24d595f94641cd8cab6af14",
-        "category": "Cybersecurity",
-        "title": "Court clears brothers of $25 million Ethereum crypto heist charges",
-        "summary": "US District Judge Jessica Clarke has acquitted two brothers accused of stealing $25 million in cryptocurrency in about 12 seconds through a scheme that exploited a bug in the Ethereum blockchain. [...]",
-        "url": "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/",
-        "published": "Tue, 17 Nov 2026 04:44:22 -0500",
-        "collected_at": "2026-11-18T12:04:24.153636+00:00"
-    },
-    {
-        "id": "6279c3ce26f4a58698b1389f63fd6234e7969c15b5268507095af27cc0a89ed8",
-        "category": "Cybersecurity",
-        "title": "Uber notifies drivers of data breach affecting nearly 150,000 people",
-        "summary": "Ride-hailing company Uber is notifying nearly 150,000 drivers that attackers stole their data after breaching AI infrastructure provider Fireworks in early October. [...]",
-        "url": "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/",
-        "published": "Tue, 17 Nov 2026 03:35:42 -0500",
-        "collected_at": "2026-11-18T12:04:24.153638+00:00"
-    },
-    {
-        "id": "a5b5fadce5f65fb8cd9fc436a27c87e818b6201d382c2c0fc26bbc45d49d916c",
+        "id": "c03674636ed4a8f1e3300f45b85010d5eb68b991ab9acbb7054a94bd3be0b92a",
         "category": "Technology",
-        "title": "Grand Theft Auto VI: The Ars Technica review",
-        "summary": "Jason and Lucia's crime-heavy love story fuels a wonder of digital urban simulation.",
-        "url": "https://arstechnica.com/gaming/2026/11/grand-theft-auto-vi-the-ars-technica-review/",
-        "published": "Wed, 18 Nov 2026 11:00:27 +0000",
-        "collected_at": "2026-11-18T12:04:24.263190+00:00"
+        "title": "How to tell a cyberattack from a plain old outage",
+        "summary": "When everything goes down, don’t assume it’s a cyberattack.",
+        "url": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/",
+        "published": "Thu, 19 Nov 2026 11:13:01 +0000",
+        "collected_at": "2026-11-19T11:59:38.687628+00:00"
     },
     {
-        "id": "26a444a0aabf92a2fc3e5bbbb05a15030e1c21cbab5212ac3fb4b66836232883",
+        "id": "db088048514cc80c7fa790cd49474899e6e8f32bf35e72ed6f492aa5d8fb6eb7",
         "category": "Technology",
-        "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
-        "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
-        "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
-        "published": "Wed, 18 Nov 2026 00:27:29 +0000",
-        "collected_at": "2026-11-18T12:04:24.263204+00:00"
+        "title": "Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote",
+        "summary": "Democrats try to prevent quorum, say Thumann lied about not working on media issues.",
+        "url": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-led-committee-approves-trump-fcc-nominee-15-0-as-democrats-boycott-vote/",
+        "published": "Wed, 18 Nov 2026 23:25:04 +0000",
+        "collected_at": "2026-11-19T11:59:38.687640+00:00"
     },
     {
-        "id": "0f5ca25987761314ede7a60112da9b2ef05d8203a38da40f1518558d0eb78c04",
+        "id": "9b116527054fca2a1be84b05f0b451fb1dc1dc69eedc997bdf880e6487889c20",
         "category": "Technology",
-        "title": "San Diego dumps both Flock cameras and smart streetlights",
-        "summary": "500+ cameras will go dark just 3 years after mayor urged approval.",
-        "url": "https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/",
-        "published": "Tue, 17 Nov 2026 23:09:09 +0000",
-        "collected_at": "2026-11-18T12:04:24.263208+00:00"
+        "title": "Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits",
+        "summary": "Ukraine's strike used homegrown tech while adapting battlefield lessons from its adversary.",
+        "url": "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/",
+        "published": "Wed, 18 Nov 2026 23:10:39 +0000",
+        "collected_at": "2026-11-19T11:59:38.687645+00:00"
     },
     {
-        "id": "e111eb43bb66e040e7b564aa272dd945b26cac5b3b5ff03ef5fede6102067f69",
+        "id": "796de02486a1d6a9b6febdff358d9f6e0c7bdf6d377a8cb105b9f532c47eb4bf",
         "category": "Technology",
-        "title": "Yet another satellite company is jockeying for a rocket—but this one makes sense",
-        "summary": "\"Governments need control of their critical space infrastructure, and Europe needs it most.\"",
-        "url": "https://arstechnica.com/space/2026/11/yet-another-satellite-company-is-jockeying-for-a-rocket-but-this-one-makes-sense/",
-        "published": "Tue, 17 Nov 2026 22:44:46 +0000",
-        "collected_at": "2026-11-18T12:04:24.263212+00:00"
+        "title": "Trump abandons his FDA nominee, and Senate scraps vote on his NSF pick",
+        "summary": "\"This time requires leadership and fortitude,\" Senator Bill Cassidy said.",
+        "url": "https://arstechnica.com/health/2026/11/trump-abandons-his-fda-nominee-and-senate-scraps-vote-on-his-nsf-pick/",
+        "published": "Wed, 18 Nov 2026 22:08:57 +0000",
+        "collected_at": "2026-11-19T11:59:38.687649+00:00"
     },
     {
-        "id": "a8bf5e8980db205af0842ce9688880c237f1fe7ccc394613d457e0ae398bd4d5",
+        "id": "1e970c62dff0b514fe25550414d822b55ef67eb38263b9765343e79affac4b4d",
         "category": "Technology",
-        "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
-        "summary": "Malware cocktail delivers cryptocurrency theft payloads and iOS exploits, among other things.",
-        "url": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
-        "published": "Tue, 17 Nov 2026 22:32:16 +0000",
-        "collected_at": "2026-11-18T12:04:24.263215+00:00"
+        "title": "Netflix CEO admits app may bury stuff you want to watch under stuff you don’t",
+        "summary": "CEO Ted Sarandos discusses gaps in making hit shows that streamers can find.",
+        "url": "https://arstechnica.com/gadgets/2026/11/netflix-ceo-admits-app-may-bury-stuff-you-want-to-watch-under-stuff-you-dont/",
+        "published": "Wed, 18 Nov 2026 21:29:24 +0000",
+        "collected_at": "2026-11-19T11:59:38.687653+00:00"
     },
     {
-        "id": "04b0c59a769f86d3166d381dbc411de88a99a667e8175f1ebf5002cc0ffedf1b",
+        "id": "5a73299e3f4f96d22c4a158607f528917e40e2e20f9b6832ebb217ae9c818968",
         "category": "Technology",
-        "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
-        "summary": "“I love our country”: Jensen Huang’s apology comes amid escalating Nvidia probes.",
-        "url": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
-        "published": "Tue, 17 Nov 2026 20:32:55 +0000",
-        "collected_at": "2026-11-18T12:04:24.263218+00:00"
+        "title": "Windows Server 2028 trades compatibility for out-of-the-box security",
+        "summary": "Hardened defaults align with DoD standards, but there may be growing pains.",
+        "url": "https://arstechnica.com/gadgets/2026/11/windows-server-2028-public-preview-bets-on-a-security-first-approach/",
+        "published": "Wed, 18 Nov 2026 20:41:12 +0000",
+        "collected_at": "2026-11-19T11:59:38.687657+00:00"
     },
     {
-        "id": "faab22c8dc80b5ff61090f60155a2d377ef7af6c32b53456947e3139cf5ba4e5",
+        "id": "4c88cec5c836926e3a7698f70c1f44106ec6218e7913493a029eb20e9c407931",
         "category": "Technology",
-        "title": "Civilization studio Firaxis Games lays off a third of staff",
-        "summary": "Studio head Heather Hazen is among those departing.",
-        "url": "https://arstechnica.com/gaming/2026/11/civilization-studio-firaxis-games-lays-off-a-third-of-staff/",
-        "published": "Tue, 17 Nov 2026 19:45:25 +0000",
-        "collected_at": "2026-11-18T12:04:24.263221+00:00"
+        "title": "Best Buy sells Blu-rays online and in-store again",
+        "summary": "Popular titles like <em>The Odyssey</em> are being “sold &#038; shipped by Best Buy.\"",
+        "url": "https://arstechnica.com/gadgets/2026/11/best-buy-sells-blu-rays-again-after-quitting-the-business-in-2024/",
+        "published": "Wed, 18 Nov 2026 19:31:17 +0000",
+        "collected_at": "2026-11-19T11:59:38.687661+00:00"
     },
     {
-        "id": "313cc1cdf80efa6888a0df44f9f20d26119cc80087a594a4ca6c38e0552140db",
+        "id": "77b871659814b03471b271247a7fc44c9ac19fe07cdc771c6b5e961c2eef05e8",
         "category": "Technology",
-        "title": "Humanity braces for an alien invasion in 3 Body Problem S2 teaser",
-        "summary": "“Wake up! They haven’t come 24 trillion miles to negotiate. They are coming to exterminate us.”",
-        "url": "https://arstechnica.com/culture/2026/11/humanity-braces-for-an-alien-invasion-in-3-body-problem-s2-teaser/",
-        "published": "Tue, 17 Nov 2026 18:26:26 +0000",
-        "collected_at": "2026-11-18T12:04:24.263224+00:00"
+        "title": "Muse privacy invasions are freaking out Meta staffers, internal chats show",
+        "summary": "Erratic Muse outputs sharing random bank, bitcoin balances aren’t real, Meta says.",
+        "url": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/",
+        "published": "Wed, 18 Nov 2026 19:19:33 +0000",
+        "collected_at": "2026-11-19T11:59:38.687665+00:00"
     },
     {
-        "id": "22ef49cb99a0bcf04834210550d2114c3008eca040b82b000bdd709402bf7180",
+        "id": "e5783290f07783e6c210bdc7ec4c85e11757124fc00c4221efe8755c0052807a",
         "category": "Technology",
-        "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
-        "summary": "AG: OpenAI tested dangerous AI without proper oversight and misled public about it.",
-        "url": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/",
-        "published": "Tue, 17 Nov 2026 18:13:34 +0000",
-        "collected_at": "2026-11-18T12:04:24.263227+00:00"
+        "title": "Trump admin orders Kalshi to halt wagers on what words Trump will say",
+        "summary": "CFTC: Kalshi bets may violate US ban on contracts that can be easily manipulated.",
+        "url": "https://arstechnica.com/tech-policy/2026/11/trump-admin-orders-kalshi-to-halt-wagers-on-what-words-trump-will-say/",
+        "published": "Wed, 18 Nov 2026 18:46:08 +0000",
+        "collected_at": "2026-11-19T11:59:38.687668+00:00"
     },
     {
-        "id": "e4193279e2147efd6841dec5fe7c0f1f5777bebaae0a1e5a09d6fd7130b03450",
+        "id": "f5445eec6c3e2750aff14cacb5b0381349a508d1241a616db2da6fa841a43e8b",
         "category": "Technology",
-        "title": "The data is very preliminary, but Vulcan failure may not be due to BE-4 engines",
-        "summary": "Information about the Vulcan failure is being closely held by ULA and Blue Origin.",
-        "url": "https://arstechnica.com/features/2026/11/sources-vulcan-launch-anomaly-investigation-is-complex/",
-        "published": "Tue, 17 Nov 2026 18:00:51 +0000",
-        "collected_at": "2026-11-18T12:04:24.263230+00:00"
+        "title": "The \"shameful\" measles data that lost the US its elimination status",
+        "summary": "Measles became endemic in the US months ago—and it's only accelerating.",
+        "url": "https://arstechnica.com/health/2026/11/the-shameful-measles-data-that-lost-the-us-its-elimination-status/",
+        "published": "Wed, 18 Nov 2026 18:30:23 +0000",
+        "collected_at": "2026-11-19T11:59:38.687673+00:00"
     },
     {
-        "id": "7fbdbfd5cb782bea370085a0fed7e16888d92cdc6deb3d826396575a5ef81a38",
+        "id": "d25de4f029966643c107c9f568babe7c30c0d3ee27b4b00c34aac016304b609f",
         "category": "Technology",
-        "title": "Google makes it easier to use Gemini without training AI on your data",
-        "summary": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
-        "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
-        "published": "Tue, 17 Nov 2026 16:50:10 +0000",
-        "collected_at": "2026-11-18T12:04:24.263233+00:00"
+        "title": "Will Wright's next simulation will use AI to mine content from your memories",
+        "summary": "With <em>MyMems</em>, Wright says he wants to \"turn the simulation inward.\"",
+        "url": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/",
+        "published": "Wed, 18 Nov 2026 18:10:33 +0000",
+        "collected_at": "2026-11-19T11:59:38.687677+00:00"
     },
     {
-        "id": "04f5872f54d9cc0ac72b810a5fbdd7240f6b8477cc6e58ec27617a489358bea0",
+        "id": "8ae8cc950dbe1bb7fed39eca8ae7367f468deb2648bb6ec3cef2895574b8b774",
         "category": "Technology",
-        "title": "House Democrats promise a US return to global climate talks",
-        "summary": "A new House majority can push climate policy, but a full US return remains uncertain.",
-        "url": "https://arstechnica.com/tech-policy/2026/11/house-democrats-promise-a-us-return-to-global-climate-talks/",
-        "published": "Tue, 17 Nov 2026 15:32:43 +0000",
-        "collected_at": "2026-11-18T12:04:24.263236+00:00"
+        "title": "It shouldn’t be this easy to pedal 25 mph: Specialized’s Turbo Vado 3 Evo",
+        "summary": "This commuter bike will have you blazing through streets without any range anxiety.",
+        "url": "https://arstechnica.com/gadgets/2026/11/it-shouldnt-be-this-easy-to-pedal-25-mph-specializeds-turbo-vado-3-evo/",
+        "published": "Wed, 18 Nov 2026 17:53:59 +0000",
+        "collected_at": "2026-11-19T11:59:38.687680+00:00"
     },
     {
-        "id": "d4774d28d264a29f63d79d92f92261fd8f5df88ef317db71090f6407be925681",
+        "id": "7e951cdca9bc19bccc53da0373d3a22128f3d3c8cc1496b33262e65cde51b235",
         "category": "Technology",
-        "title": "Ars Live: What do drone strikes on data centers mean for the future? Talk at 1 pm EST today",
-        "summary": "Ars Live discussion is happening today, November 17, at 1 pm Eastern Time.",
-        "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
-        "published": "Tue, 17 Nov 2026 15:28:59 +0000",
-        "collected_at": "2026-11-18T12:04:24.263239+00:00"
+        "title": "Vulcan failure caused by inadequate fuel supply to engines, ULA says",
+        "summary": "\"ULA is a valued partner, and we look forward to Vulcan's return to flight.\"",
+        "url": "https://arstechnica.com/space/2026/11/vulcan-failure-caused-by-inadequate-fuel-supply-to-engines-ula-says/",
+        "published": "Wed, 18 Nov 2026 16:58:32 +0000",
+        "collected_at": "2026-11-19T11:59:38.687684+00:00"
     },
     {
-        "id": "0de6aadc71dab2031f923336fd8d87e11b9e44e4c4e81afd07d42122eccb28be",
+        "id": "eabe4f8cd0327c79654d2b0eaa683ffc81960c33345abb7a015ddd131cf0e9cc",
         "category": "Technology",
-        "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
-        "summary": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
-        "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
-        "published": "Tue, 17 Nov 2026 14:00:29 +0000",
-        "collected_at": "2026-11-18T12:04:24.263242+00:00"
+        "title": "Waymo has stopped its robotaxis from driving on the freeway—here’s why",
+        "summary": "Robotaxis already had to be recalled in May after they entered highway construction zones.",
+        "url": "https://arstechnica.com/cars/2026/11/waymo-suspends-freeway-driving-after-california-construction-zone-complaint/",
+        "published": "Wed, 18 Nov 2026 16:24:34 +0000",
+        "collected_at": "2026-11-19T11:59:38.687688+00:00"
     },
     {
-        "id": "619719b3299c0cc03f0a5c167cd98cdb0da184a4ab9ee6a49508331a8c3e88e3",
+        "id": "6cfc94ddb254b0cdb07fbdbb78d5757a55e7da8e5a712b2021ab191397f14b1d",
         "category": "Technology",
-        "title": "Artist brings old Space Shuttle tank back to life",
-        "summary": "\"It's definitely the largest art project I've ever worked on.\"",
-        "url": "https://arstechnica.com/space/2026/11/how-an-artist-gave-shape-to-a-space-shuttles-new-towering-exhibit/",
-        "published": "Tue, 17 Nov 2026 12:15:54 +0000",
-        "collected_at": "2026-11-18T12:04:24.263245+00:00"
+        "title": "Tesla’s $30,000 Cybercab comes with a $299 monthly catch",
+        "summary": "Tesla can restrict where Cybercabs drive and even block owners from reselling them.",
+        "url": "https://arstechnica.com/cars/2026/11/tesla-will-sell-you-a-cybercab-for-30000-then-charge-299-a-month-to-use-it/",
+        "published": "Wed, 18 Nov 2026 14:01:45 +0000",
+        "collected_at": "2026-11-19T11:59:38.687691+00:00"
     },
     {
-        "id": "00b7a83010aaeca9a87572c33127525fa69850ce2649fa54a3c26fa3a96f8687",
+        "id": "6a21dab5c79c6557bd661b97e97945bee9c378304b5624eef517b9d64d449493",
         "category": "Technology",
-        "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
-        "summary": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
-        "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
-        "published": "Wed, 18 Nov 2026 12:00:00 +0000",
-        "collected_at": "2026-11-18T12:04:24.332940+00:00"
+        "title": "Elon Musk says: ‘I’m not MAGA’",
+        "summary": "During his appearance Wednesday at The New York Times' DealBook Summit, Elon Musk said that he wasn't sure what the term \"MAGA\" meant and also commented that he felt \"pretty foolish\" for having spent so much money during the U.S. midterms.",
+        "url": "https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/",
+        "published": "Thu, 19 Nov 2026 00:40:49 +0000",
+        "collected_at": "2026-11-19T11:59:38.736465+00:00"
     },
     {
-        "id": "551152797b9c25189507d56f48e6aa8d2c56f3b93164c5a33bcfbabe20a047b7",
+        "id": "46c96709919cd6ae50ce0d5baebcc98b4cd042d5a7101f86ed4a77363df52424",
         "category": "Technology",
-        "title": "China dominates battery graphite, but this startup could break the monopoly",
-        "summary": "Chinese companies maintain near total dominance of the graphite industry, but Molten Industries says its new factory in Oakland could spell the end of the monopoly.",
-        "url": "https://techcrunch.com/2026/11/18/china-dominates-battery-graphite-but-this-startup-could-break-the-monopoly/",
-        "published": "Wed, 18 Nov 2026 11:00:00 +0000",
-        "collected_at": "2026-11-18T12:04:24.332955+00:00"
+        "title": "Palmer Luckey doesn’t deny that he’s a prepper",
+        "summary": "The Anduril founder said Wednesday that Americans should always have three days of food, water, and medicine — just in case.",
+        "url": "https://techcrunch.com/2026/11/18/palmer-luckey-doesnt-deny-that-hes-a-prepper/",
+        "published": "Wed, 18 Nov 2026 22:04:03 +0000",
+        "collected_at": "2026-11-19T11:59:38.736484+00:00"
     },
     {
-        "id": "284390abf0d2b0e5a8dcb85da7bc2887f6b8f833445cf021b0dee99367636f57",
+        "id": "438473f71f92c10efbf04e098b1dcc559102fc8afed1659c4a29978a011a0fe0",
         "category": "Technology",
-        "title": "Stripe backer Atomico calls for Europe to own its success stories",
-        "summary": "Europe is home to many of the world's fastest growing companies of all time, veteran VC firm Atomico highlighted in its latest annual State of European Tech report.",
-        "url": "https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories/",
-        "published": "Wed, 18 Nov 2026 00:01:00 +0000",
-        "collected_at": "2026-11-18T12:04:24.332961+00:00"
-    },
-    {
-        "id": "21204aa3ca915fe63c440b8a256f1114ab59e5f779c4be5a8046d4594f70bae9",
-        "category": "Technology",
-        "title": "Waymo suspends freeway rides nationwide after California DMV order",
-        "summary": "The DMV said Waymo's freeway operations pose an imminent hazard to public safety.  Restrictions will remain in place until Waymo can demonstrate that it has taken \"effective corrective actions\" to address the deficiencies.",
-        "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/",
-        "published": "Tue, 17 Nov 2026 19:49:41 +0000",
-        "collected_at": "2026-11-18T12:04:24.332971+00:00"
+        "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
+        "summary": "Founded in 2018, Payhawk is an enterprise financial management platform that helps companies track and manage expenses and procurement using AI agents.",
+        "url": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
+        "published": "Wed, 18 Nov 2026 19:29:41 +0000",
+        "collected_at": "2026-11-19T11:59:38.736496+00:00"
     }
 ]
