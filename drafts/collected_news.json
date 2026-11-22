@@ -1,12 +1,48 @@
 [
     {
+        "id": "7289e21f33e265e97a89457e8874498959fdf3c193ec812177245344db63d11e",
+        "category": "Artificial Intelligence",
+        "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+        "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+        "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+        "published": "Sat, 21 Nov 2026 21:37:10 +0000",
+        "collected_at": "2026-11-22T11:50:18.324677+00:00"
+    },
+    {
+        "id": "8ed913cfa76c678b6975203881a5d4c289b146fa226093db58ea135d113533af",
+        "category": "Artificial Intelligence",
+        "title": "A tale of two Nvidias",
+        "summary": "We got two very different pictures of Nvidia —  the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+        "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+        "published": "Sat, 21 Nov 2026 21:07:42 +0000",
+        "collected_at": "2026-11-22T11:50:18.324695+00:00"
+    },
+    {
+        "id": "d15566b2aef3b460300ba5fc8eaad18544e50a671035648b1fa1cb014bf7609f",
+        "category": "Artificial Intelligence",
+        "title": "Here are the top AI agents that can live in your text messages",
+        "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+        "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+        "published": "Sat, 21 Nov 2026 17:00:00 +0000",
+        "collected_at": "2026-11-22T11:50:18.324702+00:00"
+    },
+    {
+        "id": "53e893a48ca02ab2292951b3421a66907c423a2d7425fb40073a816475e92a31",
+        "category": "Artificial Intelligence",
+        "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+        "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+        "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+        "published": "Sat, 21 Nov 2026 16:00:00 +0000",
+        "collected_at": "2026-11-22T11:50:18.324707+00:00"
+    },
+    {
         "id": "05d06a2ae37185a1550dd73a3abd6c04f6f98d5ceeef9152d246307752b82f12",
         "category": "Artificial Intelligence",
         "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
         "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
         "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
         "published": "Fri, 20 Nov 2026 19:53:41 +0000",
-        "collected_at": "2026-11-21T11:35:52.130537+00:00"
+        "collected_at": "2026-11-22T11:50:18.324713+00:00"
     },
     {
         "id": "81e856d23e6ca9408619d45198d754d1b5b2622c3be523fe660ae5f03d7161a5",
@@ -15,7 +51,7 @@
         "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
         "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
         "published": "Fri, 20 Nov 2026 19:32:08 +0000",
-        "collected_at": "2026-11-21T11:35:52.130550+00:00"
+        "collected_at": "2026-11-22T11:50:18.324718+00:00"
     },
     {
         "id": "fc059eec5b023eb85950a1f73a262d5b73cc561d5073c1159d33aec3760c7d84",
@@ -24,7 +60,7 @@
         "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
         "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
         "published": "Fri, 20 Nov 2026 17:40:01 +0000",
-        "collected_at": "2026-11-21T11:35:52.130554+00:00"
+        "collected_at": "2026-11-22T11:50:18.324724+00:00"
     },
     {
         "id": "bbcc1ed9f7950c3b2e2b14fa7c9123362f792965a085584fba55720eda716ebf",
@@ -33,7 +69,7 @@
         "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in China, and it dismissed calls to [&#8230;]",
         "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
         "published": "Fri, 20 Nov 2026 14:55:44 +0000",
-        "collected_at": "2026-11-21T11:35:52.130557+00:00"
+        "collected_at": "2026-11-22T11:50:18.324734+00:00"
     },
     {
         "id": "4d2d20d171989c2fb3d05f8732243107efa027df8d6136eb7f39d3619a99a221",
@@ -42,7 +78,7 @@
         "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
         "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
         "published": "Fri, 20 Nov 2026 14:00:00 +0000",
-        "collected_at": "2026-11-21T11:35:52.130561+00:00"
+        "collected_at": "2026-11-22T11:50:18.324740+00:00"
     },
     {
         "id": "8288c457eabd2464774e38576c72d62d04ad1399f95d59d32b27b77c36ea8034",
@@ -51,7 +87,7 @@
         "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
         "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
         "published": "Fri, 20 Nov 2026 00:56:01 +0000",
-        "collected_at": "2026-11-21T11:35:52.130564+00:00"
+        "collected_at": "2026-11-22T11:50:18.324745+00:00"
     },
     {
         "id": "327354b7a28e2854b8fde8dfdf06a3f4197a65ce6b95b71eb07970674fd22fd0",
@@ -60,7 +96,7 @@
         "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
         "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
         "published": "Fri, 20 Nov 2026 00:43:50 +0000",
-        "collected_at": "2026-11-21T11:35:52.130567+00:00"
+        "collected_at": "2026-11-22T11:50:18.324750+00:00"
     },
     {
         "id": "094a4dd2aa9bf45ff9eca9b6f017cbb7c83ad9c7924ccda43d45f70ae2bc7cf9",
@@ -69,7 +105,7 @@
         "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
         "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
         "published": "Thu, 19 Nov 2026 21:58:06 +0000",
-        "collected_at": "2026-11-21T11:35:52.130574+00:00"
+        "collected_at": "2026-11-22T11:50:18.324755+00:00"
     },
     {
         "id": "80283102200146719cd0e93f42854a2f00da74b926088417003f34aa57da149e",
@@ -78,7 +114,7 @@
         "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
         "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
         "published": "Thu, 19 Nov 2026 21:42:31 +0000",
-        "collected_at": "2026-11-21T11:35:52.130578+00:00"
+        "collected_at": "2026-11-22T11:50:18.324759+00:00"
     },
     {
         "id": "1fbaae0c3ffb18e8c78aacd87b2c0beea414426c9bc0f704d9fe6d43cd4ae1cb",
@@ -87,7 +123,7 @@
         "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
         "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
         "published": "Thu, 19 Nov 2026 20:18:49 +0000",
-        "collected_at": "2026-11-21T11:35:52.130581+00:00"
+        "collected_at": "2026-11-22T11:50:18.324764+00:00"
     },
     {
         "id": "0027e4a1d292e51621fcf4dbccb9599f77667c3c00106c620ca948a5b42c79d5",
@@ -96,43 +132,7 @@
         "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
         "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
         "published": "Thu, 19 Nov 2026 19:10:45 +0000",
-        "collected_at": "2026-11-21T11:35:52.130584+00:00"
-    },
-    {
-        "id": "3a850c903b02169f2b985d19f0a04c8c841e8f1a46d60968e2038de74f5eff50",
-        "category": "Artificial Intelligence",
-        "title": "Google gives Gemini the ability to use your Mac for you",
-        "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
-        "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-        "published": "Thu, 19 Nov 2026 18:09:11 +0000",
-        "collected_at": "2026-11-21T11:35:52.130587+00:00"
-    },
-    {
-        "id": "ee20d352f0da08b76e7e3c023f828c83cee1f174045bfe387cdc98bdc8d0bcd2",
-        "category": "Artificial Intelligence",
-        "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-        "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
-        "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
-        "published": "Thu, 19 Nov 2026 17:38:40 +0000",
-        "collected_at": "2026-11-21T11:35:52.130590+00:00"
-    },
-    {
-        "id": "8bc2fdc1aef603b8f8028b99faa059c0c5eeaa372a012340e18a62dc4c305f02",
-        "category": "Artificial Intelligence",
-        "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
-        "summary": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
-        "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
-        "published": "Thu, 19 Nov 2026 17:00:00 +0000",
-        "collected_at": "2026-11-21T11:35:52.130593+00:00"
-    },
-    {
-        "id": "c12b546d5a71cb458f54fcb83d199fee1a8307e58f02c4e08891d537659e3aa5",
-        "category": "Artificial Intelligence",
-        "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-        "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
-        "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
-        "published": "Thu, 19 Nov 2026 16:59:23 +0000",
-        "collected_at": "2026-11-21T11:35:52.130595+00:00"
+        "collected_at": "2026-11-22T11:50:18.324768+00:00"
     },
     {
         "id": "001e6b6e613bbaaf52f6be9e7b3eacac27c91c02d812cd2a8752ca7086850cef",
@@ -141,7 +141,7 @@
         "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding.  The report is an update to the organization’s time horizon plot, which was widely&#8230;",
         "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
         "published": "Fri, 20 Nov 2026 18:15:15 +0000",
-        "collected_at": "2026-11-21T11:35:52.211796+00:00"
+        "collected_at": "2026-11-22T11:50:18.435429+00:00"
     },
     {
         "id": "e94e07951c191203e70d157722528eafd4bb80902272d49a117c58a799e55ab6",
@@ -150,7 +150,7 @@
         "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal To preserve our sense of self, some scientists are working on ways to keep our brains going—even beyond&#8230;",
         "url": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
         "published": "Fri, 20 Nov 2026 13:10:00 +0000",
-        "collected_at": "2026-11-21T11:35:52.211807+00:00"
+        "collected_at": "2026-11-22T11:50:18.435441+00:00"
     },
     {
         "id": "cab673f80ff9839867c734fae2c2bbb87fb153279d0bce4729ee732109e83c85",
@@ -159,7 +159,7 @@
         "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A human liver has been kept alive outside the body for a record seven weeks Researchers in Australia claim they’ve kept a human liver alive on life support outside the body&#8230;",
         "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
         "published": "Thu, 19 Nov 2026 13:10:00 +0000",
-        "collected_at": "2026-11-21T11:35:52.211811+00:00"
+        "collected_at": "2026-11-22T11:50:18.435447+00:00"
     },
     {
         "id": "6167b632613f12dd3b6477ef1f21eb2668c1a8f31fc7dd45646614a5510317fd",
@@ -168,7 +168,7 @@
         "summary": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering. The feat, whose details are pending publication, was carried out in Sydney after a team led by surgeon and inventor Carlo Pulitano connected a donated liver to a&#8230;",
         "url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
         "published": "Thu, 19 Nov 2026 12:00:00 +0000",
-        "collected_at": "2026-11-21T11:35:52.211816+00:00"
+        "collected_at": "2026-11-22T11:50:18.435454+00:00"
     },
     {
         "id": "1c5087d4a04ce5e368064c69b2384d6fc9d7f57609688f0d3b7d6a8079de0a6d",
@@ -177,7 +177,7 @@
         "summary": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to supply silicon-carbon anode material, a possible key to smaller, lighter batteries. It’s a deal that Sila says could be worth more than&#8230;",
         "url": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
         "published": "Thu, 19 Nov 2026 11:00:00 +0000",
-        "collected_at": "2026-11-21T11:35:52.211820+00:00"
+        "collected_at": "2026-11-22T11:50:18.435459+00:00"
     },
     {
         "id": "76a160b2736ec6d054a32164c2d6026036082cb93da0f7ea5dd29095e43cc3c3",
@@ -186,7 +186,7 @@
         "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go to the supermarket, and&#8230;",
         "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
         "published": "Wed, 18 Nov 2026 14:42:44 +0000",
-        "collected_at": "2026-11-21T11:35:52.211823+00:00"
+        "collected_at": "2026-11-22T11:50:18.435463+00:00"
     },
     {
         "id": "34287111874105b85b502305ebc4e96d83df5938cc1961f18a79afee852a9aac",
@@ -195,7 +195,7 @@
         "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This smell startup says its AI nose is as good as a human’s In a New Jersey lab, researchers are trying to sniff every odor on Earth. Their careful notes—“nutty,” “peachy,”&#8230;",
         "url": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/",
         "published": "Wed, 18 Nov 2026 13:10:00 +0000",
-        "collected_at": "2026-11-21T11:35:52.211826+00:00"
+        "collected_at": "2026-11-22T11:50:18.435468+00:00"
     },
     {
         "id": "0443a0c6c8ceb7b93dc594a7a1b8e897785e3d7b8ac205f1dee4b09232693e93",
@@ -204,7 +204,7 @@
         "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup Osmo calls the world’s first foundation&#8230;",
         "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
         "published": "Wed, 18 Nov 2026 10:20:30 +0000",
-        "collected_at": "2026-11-21T11:35:52.211829+00:00"
+        "collected_at": "2026-11-22T11:50:18.435472+00:00"
     },
     {
         "id": "665d8227159904d75c3893256129e3e48c6c12a215700949e24c0889eac71220",
@@ -213,7 +213,7 @@
         "summary": "Listen to the session or watch below In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado explore possible paths to keep your mind going, including gradual brain&#8230;",
         "url": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
         "published": "Tue, 17 Nov 2026 18:46:47 +0000",
-        "collected_at": "2026-11-21T11:35:52.211832+00:00"
+        "collected_at": "2026-11-22T11:50:18.435477+00:00"
     },
     {
         "id": "11e12ce775565920ccb2672e0c21e9c3fa185cdc62d470240f9fb2757050cb4a",
@@ -222,7 +222,34 @@
         "summary": "The US Southwest generated 28% less electricity via hydropower between April and August than the 10-year average, according to new data from the US Energy Information Administration. Most hydropower plants in the US rely on dams to hold back water, creating reservoirs. The water can be released through turbines, generating electricity on demand. But an&#8230;",
         "url": "https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river/",
         "published": "Tue, 17 Nov 2026 17:52:10 +0000",
-        "collected_at": "2026-11-21T11:35:52.211835+00:00"
+        "collected_at": "2026-11-22T11:50:18.435482+00:00"
+    },
+    {
+        "id": "6d087c898942cc0c2503082abebf929ab7e0d4a3ca4293f9919606c8fd9cc88c",
+        "category": "Cybersecurity",
+        "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
+        "summary": "Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week.\n\nSome of the stolen requests were flagged as Zero Data Retention, the setting that is supposed to mean a prompt is never stored.\n\nOpenRouter, a gateway that routes customers' AI requests to a pool of",
+        "url": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
+        "published": "Sun, 22 Nov 2026 10:36:55 +0530",
+        "collected_at": "2026-11-22T11:50:18.659034+00:00"
+    },
+    {
+        "id": "a3c63e958cb92eef3df0aa513c9e2bcc89f1a4d836647a4f3bac9eefc4d8cd48",
+        "category": "Cybersecurity",
+        "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
+        "summary": "A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it.\n\nGhostscript is the interpreter that many Linux servers use to convert uploaded PDFs, PostScript files, and images into other formats, often without the application calling it directly.\n\nSecurity firm pwn.ai showed this week that ordinary upload,",
+        "url": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
+        "published": "Sun, 22 Nov 2026 10:33:41 +0530",
+        "collected_at": "2026-11-22T11:50:18.659046+00:00"
+    },
+    {
+        "id": "059e30cfca7341a0e49dcdcb5397bfc10af4e87b6788314fd1b62c6d1344d4d7",
+        "category": "Cybersecurity",
+        "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
+        "summary": "A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown.\n\nThe same attack could be extended to reach the credentials Muse stores for the user's connected accounts.\n\nThe work was a laboratory demonstration, not an attack on real users, and it stayed inside the individual user's",
+        "url": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
+        "published": "Sat, 21 Nov 2026 17:23:07 +0530",
+        "collected_at": "2026-11-22T11:50:18.659053+00:00"
     },
     {
         "id": "3b426a1ae4872b68d25bbba331a65da5910e737396686526cdd4f211ec3c5161",
@@ -231,7 +258,7 @@
         "summary": "A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG.\n\nThe GnuPG project warned yesterday that the flaw could be used to steal data from affected applications and has released fixed versions.\n\nThe bug, tracked as CVE-2026-129975, affects all software that uses GPGME before version 2.3.0,",
         "url": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html",
         "published": "Sat, 21 Nov 2026 16:35:53 +0530",
-        "collected_at": "2026-11-21T11:35:52.442774+00:00"
+        "collected_at": "2026-11-22T11:50:18.659058+00:00"
     },
     {
         "id": "31de93106fde76af067132c2074f35816b81b1994667613fd946e222261ea799",
@@ -240,7 +267,7 @@
         "summary": "Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Threat Intelligence said this week.\n\nThe flaw allows an attacker with no account to write files outside the server's storage folder, and it affects MONAI Label 0.8.5 and earlier in the default setup,",
         "url": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
         "published": "Sat, 21 Nov 2026 16:33:17 +0530",
-        "collected_at": "2026-11-21T11:35:52.442787+00:00"
+        "collected_at": "2026-11-22T11:50:18.659062+00:00"
     },
     {
         "id": "c5410e0ea07b3ca77631ea9dbbc4f5f3908f5d89951bfeb141c0770791455f94",
@@ -249,7 +276,7 @@
         "summary": "Signal has announced that it will restrict screenshots by default to stop artificial intelligence (AI) agents from reading private chats on Android and iOS devices, but conceded that the protection is \"incomplete.\"\n\nThe feature applies to agentic systems built into iOS 27 and on Android versions where the encrypted messaging platform can detect an AI assistant attempting to read the Signal",
         "url": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html",
         "published": "Sat, 21 Nov 2026 14:19:20 +0530",
-        "collected_at": "2026-11-21T11:35:52.442790+00:00"
+        "collected_at": "2026-11-22T11:50:18.659067+00:00"
     },
     {
         "id": "552b60cb29a0722aae4ac33a120683a38e43ab0877860e0b1d05f566e283f830",
@@ -258,7 +285,7 @@
         "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitation.\n\nThe vulnerabilities are listed below -\n\n\n  CVE-2026-129448 (CVSS score: 9.8) - A deserialization of untrusted data vulnerability in",
         "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
         "published": "Sat, 21 Nov 2026 14:19:13 +0530",
-        "collected_at": "2026-11-21T11:35:52.442794+00:00"
+        "collected_at": "2026-11-22T11:50:18.659072+00:00"
     },
     {
         "id": "b44c0a854e15b1852d0ece8a64e0acd1db9eb19271c34c1eeef276701d27db06",
@@ -267,7 +294,7 @@
         "summary": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages.\n\nThe vulnerability, tracked as CVE-2026-23871 (CVSS score: 3.5), has been described as a case of incomplete validation of external ad-reply URLs in WhatsApp for Android and WhatsApp Business for Android before 2.26.17.4.",
         "url": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
         "published": "Fri, 20 Nov 2026 23:27:20 +0530",
-        "collected_at": "2026-11-21T11:35:52.442797+00:00"
+        "collected_at": "2026-11-22T11:50:18.659077+00:00"
     },
     {
         "id": "0b4042589720c6043be8f15212c3ff02caceb4eb28c9f2695b0c55d4e8beacbc",
@@ -276,7 +303,7 @@
         "summary": "Cybersecurity researchers have disclosed details of a previously unknown Android malware framework called Bazuka that offers large language model (LLM) integration for victim management and control at scale.\n\nDutch mobile security company ThreatFabric said it discovered the threat in late October 2026 during an investigation into an NFC-relay banking Trojan.\n\n\"Bazuka is a full malware framework,",
         "url": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html",
         "published": "Fri, 20 Nov 2026 22:28:16 +0530",
-        "collected_at": "2026-11-21T11:35:52.442800+00:00"
+        "collected_at": "2026-11-22T11:50:18.659082+00:00"
     },
     {
         "id": "c7b209f2aed89407eb0e30e59fe706dfcf15164ad089b4177ac11b5e2ba6ddd0",
@@ -285,7 +312,7 @@
         "summary": "A flaw in KVM, the hypervisor built into the Linux kernel, let researchers read about 127 GB of a cloud server's memory from inside a virtual machine of their own on DigitalOcean.\n\nOn a shared server, that memory can include other customers' virtual machines. The flaw, tracked as CVE-2026-99312, affects only hosts with AMD processors and nested virtualization enabled.\n\nFixed kernels shipped",
         "url": "https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html",
         "published": "Fri, 20 Nov 2026 17:50:00 +0530",
-        "collected_at": "2026-11-21T11:35:52.442804+00:00"
+        "collected_at": "2026-11-22T11:50:18.659103+00:00"
     },
     {
         "id": "b18719ed382d67da6c3ac6e666d30daad3b77d50caff6fd8eff3acabc5052312",
@@ -294,7 +321,7 @@
         "summary": "Security leaders are about to hand AI agents a lot more authority. In a recent a16z survey of CISOs at organizations with more than 1,000 employees, 36% said they are comfortable today letting AI agents act autonomously on low-risk security actions. In 12 months from now, 60% expect to be comfortable at that level. Overall, AI SOC was the highest ranking initiative for 2027.\n\nThe pressure",
         "url": "https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html",
         "published": "Fri, 20 Nov 2026 17:30:00 +0530",
-        "collected_at": "2026-11-21T11:35:52.442807+00:00"
+        "collected_at": "2026-11-22T11:50:18.659108+00:00"
     },
     {
         "id": "823ccfebdf7ab435a089b021ac132d119d229a228734cd2854f6bbf65dbf5945",
@@ -303,7 +330,7 @@
         "summary": "SonicWall has urged all customers still running Generation 6 firewalls to retire and replace them immediately and stop exposing the devices on the internet edge, citing security risks fueled by AI-assisted attacks.\n\n\"Attackers now use automation and AI to find and exploit unsupported edge devices faster than ever,\" SonicWall said. \"We expect internet-facing Gen 6 firewalls to be actively",
         "url": "https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html",
         "published": "Fri, 20 Nov 2026 16:08:22 +0530",
-        "collected_at": "2026-11-21T11:35:52.442810+00:00"
+        "collected_at": "2026-11-22T11:50:18.659112+00:00"
     },
     {
         "id": "c99f552cbbef77a02904205c80d2b25fb655679f47a756e545a2bb4d820d35fe",
@@ -312,7 +339,7 @@
         "summary": "Threat actors have been observed exploiting a recently disclosed critical security flaw in Cisco Expressway to breach a Russian organization shortly after the public release of a proof-of-concept (PoC) exploit.\n\nThe activity involves the exploitation of CVE-2026-76466 (CVSS score: 9.8), a vulnerability that could allow an unauthenticated, remote attacker with network access to a Cisco Expressway",
         "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html",
         "published": "Fri, 20 Nov 2026 16:02:50 +0530",
-        "collected_at": "2026-11-21T11:35:52.442813+00:00"
+        "collected_at": "2026-11-22T11:50:18.659117+00:00"
     },
     {
         "id": "209921156d987de0e7b7534560abbecb91d36e543ed3ff9fe127ad174e180c04",
@@ -321,7 +348,7 @@
         "summary": "The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September 2026.\n\nThe vulnerability, tracked as CVE-2026-123890 (CVSS score: 9.8), is a case of authentication bypass in the VMware Directory Service that could be exploited to gain unauthorized",
         "url": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
         "published": "Fri, 20 Nov 2026 15:08:15 +0530",
-        "collected_at": "2026-11-21T11:35:52.442817+00:00"
+        "collected_at": "2026-11-22T11:50:18.659122+00:00"
     },
     {
         "id": "e40617893cabf092a419255ae36022015317a5fc469ec227aec29b8e1902d5dd",
@@ -330,34 +357,43 @@
         "summary": "Threat actors have been observed using the ROMULUS ClickFix malware delivery platform to deliver a previously undocumented remote access trojan (RAT) that shares similarities with CNCMachineRMS.\n\n\"ROMULUS likely operates as a delivery service, distributing CNCMachineRMS and Legion Loader through separate chains while retaining ClickFix and signed binary sideloading techniques,\" Blackpoint",
         "url": "https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html",
         "published": "Fri, 20 Nov 2026 12:41:39 +0530",
-        "collected_at": "2026-11-21T11:35:52.442820+00:00"
+        "collected_at": "2026-11-22T11:50:18.659129+00:00"
     },
     {
-        "id": "4b0033536e5760bb8ffda6cde2cc4d786994e6e616c2e75633df9544b95e6a89",
+        "id": "1fa3870c33e20a339984d0d1b6a03d521147eaf5e299fc67f8c45536e2d0872c",
         "category": "Cybersecurity",
-        "title": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It",
-        "summary": "A newly disclosed unpatched zero-day technique called FastUnlock lets someone with physical access to a locked Windows computer start programs without signing in. Whoever uses it gets only a limited account, not administrator control of the machine.\n\nThe method was posted yesterday by a researcher who uses the handles MSNightmare and Nightmare Eclipse, and the endpoint-security firm ThreatLocker",
-        "url": "https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html",
-        "published": "Fri, 20 Nov 2026 11:00:01 +0530",
-        "collected_at": "2026-11-21T11:35:52.442823+00:00"
+        "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
+        "summary": "Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters. [...]",
+        "url": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
+        "published": "Sat, 21 Nov 2026 17:59:58 -0500",
+        "collected_at": "2026-11-22T11:50:18.848829+00:00"
     },
     {
-        "id": "cc7a5715391457a2474f1dad0012251c9585ac7b4704d92ad465acd473d4704f",
+        "id": "cd00c38abb0c60dda61dae2986c6ca6f07137a0c374203ab06fbf07f697dcd14",
         "category": "Cybersecurity",
-        "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
-        "summary": "The easiest way to fool someone is to give them something they already expect. A job offer. A message about a service outage. A familiar app. Nothing looks strange at first. And that's the problem. This week's stories show how ordinary things are being used to steal data, spread malware, and get people to hand over access.\n\nThere's another shift worth watching. AI is making some attacks easier",
-        "url": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
-        "published": "Fri, 20 Nov 2026 00:17:58 +0530",
-        "collected_at": "2026-11-21T11:35:52.442825+00:00"
+        "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
+        "summary": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant configuration information. [...]",
+        "url": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
+        "published": "Sat, 21 Nov 2026 13:01:58 -0500",
+        "collected_at": "2026-11-22T11:50:18.848842+00:00"
     },
     {
-        "id": "ea8cebf5d32bea67ec9b45b3a9488b797cb92985bc8d0d0052450b1cd7b841d3",
+        "id": "9c3f2473640f00b5e047f57f4171d9e6e875e178ba7ae69bf506c835aadb8c04",
         "category": "Cybersecurity",
-        "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
-        "summary": "PHP's default file-based session storage can be made to return objects an attacker chose, by cutting off a session write at the right moment. When combined with a second weakness, such as a suitable gadget chain in the app, those objects can allow the attacker to run code on the server.\n\nToday's PHP releases fix the flaw, called phpAfterShell.\n\nThe flaw is tracked as CVE-2026-126714 and rated",
-        "url": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
-        "published": "Thu, 19 Nov 2026 22:29:56 +0530",
-        "collected_at": "2026-11-21T11:35:52.442828+00:00"
+        "title": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
+        "summary": "The BADBOX malware found in a broad range of generic Android TV boxes has returned to large-scale ad-fraud operations following last year's disruptions. [...]",
+        "url": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
+        "published": "Sat, 21 Nov 2026 10:17:27 -0500",
+        "collected_at": "2026-11-22T11:50:18.848848+00:00"
+    },
+    {
+        "id": "6eaabec128466878a46e05aec2130e954e5b081d9426930cc2aab18de7851c14",
+        "category": "Cybersecurity",
+        "title": "FBI reportedly hacked again, this time targeting nationwide police database",
+        "summary": "FBI systems have reportedly been breached for the second time in two months, this time targeting the agency's National Crime Information Center (NCIC), which is used to share information between local, state, and federal law enforcement agencies. [...]",
+        "url": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
+        "published": "Sat, 21 Nov 2026 09:26:04 -0500",
+        "collected_at": "2026-11-22T11:50:18.848853+00:00"
     },
     {
         "id": "a1277bddeebe52e04d12e6a8f046995e1b409f8a97e3ac46581d8761e5d17b72",
@@ -366,7 +402,7 @@
         "summary": "Bell Canada has confirmed that an \"agentic\" threat actor breached its systems on November 17, 2026, and stole enterprise customer data, including information from a system used to order and provision telecommunications circuits. [...]",
         "url": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
         "published": "Fri, 20 Nov 2026 13:51:43 -0500",
-        "collected_at": "2026-11-21T11:35:52.485486+00:00"
+        "collected_at": "2026-11-22T11:50:18.848857+00:00"
     },
     {
         "id": "209648e572bdea41ada38593006e998270ee29f095cf3bdd0c0ac685c1e05043",
@@ -375,7 +411,7 @@
         "summary": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]",
         "url": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
         "published": "Fri, 20 Nov 2026 12:30:00 -0500",
-        "collected_at": "2026-11-21T11:35:52.485497+00:00"
+        "collected_at": "2026-11-22T11:50:18.848862+00:00"
     },
     {
         "id": "c3a9fb72b6dce4b4d92c93bc734efc1c58c13b55800a254807791e11e827b994",
@@ -384,7 +420,7 @@
         "summary": "J.P. Morgan Chase warned it suffered a data breach after a cyberattack at a third-party service provider exposed customers' personal information and marketing data. [...]",
         "url": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
         "published": "Fri, 20 Nov 2026 10:58:06 -0500",
-        "collected_at": "2026-11-21T11:35:52.485500+00:00"
+        "collected_at": "2026-11-22T11:50:18.848866+00:00"
     },
     {
         "id": "8991c2c279cde04d23c46e3f5e967230a1aa1413bc7bc9d0bdbc51fca7a9cfa4",
@@ -393,7 +429,7 @@
         "summary": "Tracking company passwords in spreadsheets can leave IT administrators unaware of weak, reused, or compromised credentials stored and shared outside approved systems. NordPass explains how centralized password management can improve credential visibility, identify security risks, and simplify secure password sharing. [...]",
         "url": "https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/",
         "published": "Fri, 20 Nov 2026 10:00:10 -0500",
-        "collected_at": "2026-11-21T11:35:52.485503+00:00"
+        "collected_at": "2026-11-22T11:50:18.848871+00:00"
     },
     {
         "id": "63176744cc4b38aa2228749003f8879715bafc181b40c23bcbb2a55577ff1553",
@@ -402,7 +438,7 @@
         "summary": "N-able says attackers who breached one of its servers have caused a major outage affecting Mail Assure and SpamExperts Hosted Cloud services worldwide. [...]",
         "url": "https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/",
         "published": "Fri, 20 Nov 2026 08:18:36 -0500",
-        "collected_at": "2026-11-21T11:35:52.485507+00:00"
+        "collected_at": "2026-11-22T11:50:18.848875+00:00"
     },
     {
         "id": "0736dd63e3ff1a0389ce0d72537bc7406eac2b157adb64b29e3edae5cdd50381",
@@ -411,7 +447,7 @@
         "summary": "Starting this week, Microsoft has begun automatically upgrading eligible devices that aren't managed by an IT department to Windows 11 26H2. [...]",
         "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-automatically-installs-windows-11-26h2-on-personal-and-unmanaged-pcs/",
         "published": "Fri, 20 Nov 2026 07:14:28 -0500",
-        "collected_at": "2026-11-21T11:35:52.485510+00:00"
+        "collected_at": "2026-11-22T11:50:18.848880+00:00"
     },
     {
         "id": "6008bba5a1273aa9ecbcd613288c0c8e85d877829bde30d3256f1808aeb91995",
@@ -420,7 +456,7 @@
         "summary": "US cybersecurity company F5 warned customers to patch five critical BIG-IP vulnerabilities that attackers can exploit to trigger denial-of-service (DoS) or gain remote code execution. [...]",
         "url": "https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/",
         "published": "Fri, 20 Nov 2026 05:57:43 -0500",
-        "collected_at": "2026-11-21T11:35:52.485513+00:00"
+        "collected_at": "2026-11-22T11:50:18.848884+00:00"
     },
     {
         "id": "60993c5d14ea68abca9bc30032ba579b3a26aaaead9deec958f7a9afb4aaa675",
@@ -429,7 +465,7 @@
         "summary": "Microsoft released the KB5132057 November Windows 11 preview update, which comes with 28 changes, including improvements to Windows Search, Windows Hello, and the Run dialog. [...]",
         "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/",
         "published": "Fri, 20 Nov 2026 04:25:35 -0500",
-        "collected_at": "2026-11-21T11:35:52.485516+00:00"
+        "collected_at": "2026-11-22T11:50:18.848888+00:00"
     },
     {
         "id": "15f220796a18084d9a07baad05991a6df81ecbe2f6831adea792ae1d40d80c41",
@@ -438,7 +474,7 @@
         "summary": "Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. [...]",
         "url": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
         "published": "Thu, 19 Nov 2026 19:26:25 -0500",
-        "collected_at": "2026-11-21T11:35:52.485519+00:00"
+        "collected_at": "2026-11-22T11:50:18.848893+00:00"
     },
     {
         "id": "f234841cd5e8d0a97c8abf34817ea55cf6464000d0c2be98afb556b22aa3e850",
@@ -447,7 +483,7 @@
         "summary": "SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including personal data belonging to 1.6 million people. [...]",
         "url": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/",
         "published": "Thu, 19 Nov 2026 17:25:42 -0500",
-        "collected_at": "2026-11-21T11:35:52.485522+00:00"
+        "collected_at": "2026-11-22T11:50:18.848897+00:00"
     },
     {
         "id": "8ea9e80818a4bc392e09ee059818d17b1e752fbfafc2d660b5b816bef36fb27f",
@@ -456,43 +492,25 @@
         "summary": "ASUS released Control Center Express v1.7.29 to fix three critical vulnerabilities that could let remote attackers gain administrative control of the management console and the devices it manages. [...]",
         "url": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/",
         "published": "Thu, 19 Nov 2026 16:15:59 -0500",
-        "collected_at": "2026-11-21T11:35:52.485524+00:00"
+        "collected_at": "2026-11-22T11:50:18.848902+00:00"
     },
     {
-        "id": "37781c126ada26176a3e879513c251fda4bacbaafcf7dd34414ea9576bfc8de5",
-        "category": "Cybersecurity",
-        "title": "Transport for London breach exposes 265,000 Oyster card users' data",
-        "summary": "Transport for London (TfL) has announced that around 265,000 Oyster photocard customers may have had their account details exposed in a data breach. [...]",
-        "url": "https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/",
-        "published": "Thu, 19 Nov 2026 13:20:01 -0500",
-        "collected_at": "2026-11-21T11:35:52.485527+00:00"
+        "id": "080f5b44a05a8e4afe067f515d35d706bdf0004a771ee97491128d853cd12d1a",
+        "category": "Technology",
+        "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
+        "summary": "Director Takashi Yamazaki ups the ante by pitting Godzilla against one of the monster's greatest foes",
+        "url": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
+        "published": "Sat, 21 Nov 2026 22:12:41 +0000",
+        "collected_at": "2026-11-22T11:50:18.955381+00:00"
     },
     {
-        "id": "8e443c2964ac625708f2e93b14283c0905a867afb3a7b4a5912759b6b02e59d3",
-        "category": "Cybersecurity",
-        "title": "PHP security updates fix 18 flaws, including critical RCE bugs",
-        "summary": "The PHP development team released security updates addressing 18 vulnerabilities, including critical flaws that could allow unauthenticated attackers to remotely execute code on vulnerable servers. [...]",
-        "url": "https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/",
-        "published": "Thu, 19 Nov 2026 11:28:23 -0500",
-        "collected_at": "2026-11-21T11:35:52.485531+00:00"
-    },
-    {
-        "id": "eb38241a0eaffa222fca6e705c871d41fcd430c8c121bff935e39b82e2b821e2",
-        "category": "Cybersecurity",
-        "title": "Five warning signs of ransomware breach before encryption or data theft",
-        "summary": "Ransomware attacks often involve credential theft, lateral movement, and attempts to disable security controls long before encryption begins. Acronis examines five warning signs that can help defenders detect intrusions earlier, contain malicious activity, and protect critical systems and backups. [...]",
-        "url": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
-        "published": "Thu, 19 Nov 2026 10:00:10 -0500",
-        "collected_at": "2026-11-21T11:35:52.485534+00:00"
-    },
-    {
-        "id": "03c656aa7f6268581691b1b59c240ddb9910cbe11a4249d75b125d40ed49d083",
-        "category": "Cybersecurity",
-        "title": "Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers",
-        "summary": "Two critical NGINX vulnerabilities dubbed \"nginx2root\" allow unauthenticated attackers to execute code remotely on vulnerable web servers, with researchers demonstrating how the flaws can be chained with a Linux kernel bug to gain root access. [...]",
-        "url": "https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/",
-        "published": "Thu, 19 Nov 2026 09:57:24 -0500",
-        "collected_at": "2026-11-21T11:35:52.485537+00:00"
+        "id": "248395301e19c16d8d708f6d77164c31a82698457ed85557d17d7a08e2ba7327",
+        "category": "Technology",
+        "title": "“Race realism” isn’t realistic—and it isn’t good science",
+        "summary": "Modern genetics does not support claims of innate racial differences in intelligence.",
+        "url": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/",
+        "published": "Sat, 21 Nov 2026 12:01:13 +0000",
+        "collected_at": "2026-11-22T11:50:18.955392+00:00"
     },
     {
         "id": "d1a52d7504aa62549ed86042b75b70b7a5b255e9b1b636d49e7cb7d984124956",
@@ -501,7 +519,7 @@
         "summary": "FCC preempts state rules that require AT&#038;T to keep offering home phone service.",
         "url": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
         "published": "Fri, 20 Nov 2026 22:28:24 +0000",
-        "collected_at": "2026-11-21T11:35:52.551593+00:00"
+        "collected_at": "2026-11-22T11:50:18.955398+00:00"
     },
     {
         "id": "9cc228f9e09fc4158be661ecf320909fe4b928ef8e9140122315524dbf13cc57",
@@ -510,7 +528,7 @@
         "summary": "\"Explain the changes that were made to the Starshield service in October 2026.\"",
         "url": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
         "published": "Fri, 20 Nov 2026 22:16:51 +0000",
-        "collected_at": "2026-11-21T11:35:52.551604+00:00"
+        "collected_at": "2026-11-22T11:50:18.955403+00:00"
     },
     {
         "id": "ae5a204aaba705d52a51cab4c8ea3f00c112eb84d62ed47eb892d583982f0628",
@@ -519,7 +537,7 @@
         "summary": "Google search is making it even easier to access AI tools on the search page.",
         "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
         "published": "Fri, 20 Nov 2026 21:58:29 +0000",
-        "collected_at": "2026-11-21T11:35:52.551608+00:00"
+        "collected_at": "2026-11-22T11:50:18.955408+00:00"
     },
     {
         "id": "85d0c5a4a983edfbbc049dc7fd6c4a2d71e417a0892edc8dec7f004b7c3f04ec",
@@ -528,7 +546,7 @@
         "summary": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?",
         "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
         "published": "Fri, 20 Nov 2026 21:47:10 +0000",
-        "collected_at": "2026-11-21T11:35:52.551611+00:00"
+        "collected_at": "2026-11-22T11:50:18.955412+00:00"
     },
     {
         "id": "cc88c546d1214b6505b473909ffcb4c692b17e419947bb2361ba4ad8b102ea1d",
@@ -537,7 +555,7 @@
         "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
         "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
         "published": "Fri, 20 Nov 2026 20:59:08 +0000",
-        "collected_at": "2026-11-21T11:35:52.551615+00:00"
+        "collected_at": "2026-11-22T11:50:18.955417+00:00"
     },
     {
         "id": "fe2d58aadc7c226193f074445099dbb82a6327dcbbc5bb9b0bf4be134134463b",
@@ -546,7 +564,7 @@
         "summary": "A recent brightening turned out to be from a star orbiting inside another.",
         "url": "https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/",
         "published": "Fri, 20 Nov 2026 20:41:17 +0000",
-        "collected_at": "2026-11-21T11:35:52.551618+00:00"
+        "collected_at": "2026-11-22T11:50:18.955422+00:00"
     },
     {
         "id": "da3aafb18139140ed8e7da247828c1aa3b09780b8dc222385620863daca80690",
@@ -555,7 +573,7 @@
         "summary": "\"We tend to have a lot of technical discussion and debate. That point will continue to be debated.\"",
         "url": "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/",
         "published": "Fri, 20 Nov 2026 20:26:33 +0000",
-        "collected_at": "2026-11-21T11:35:52.551621+00:00"
+        "collected_at": "2026-11-22T11:50:18.955426+00:00"
     },
     {
         "id": "7393f8d24cf3fb1a779ae5d761be933e0730d80a3ff24a797612b0a0208cd4fd",
@@ -564,7 +582,7 @@
         "summary": "CTIA said jamming test showed \"interference... up to two and a half miles away.\"",
         "url": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/",
         "published": "Fri, 20 Nov 2026 19:52:59 +0000",
-        "collected_at": "2026-11-21T11:35:52.551624+00:00"
+        "collected_at": "2026-11-22T11:50:18.955431+00:00"
     },
     {
         "id": "3d2e8ae68cb17a84dad8287a7310c54f0ec0d8945872d0c958f0b8318665e338",
@@ -573,7 +591,7 @@
         "summary": "Modeling predicts plume of neurotoxic lead could reach up to 100 miles away.",
         "url": "https://arstechnica.com/science/2026/11/outrage-questions-swirl-as-army-delays-blowing-up-stockpile-of-toxic-lead-azide/",
         "published": "Fri, 20 Nov 2026 19:21:50 +0000",
-        "collected_at": "2026-11-21T11:35:52.551627+00:00"
+        "collected_at": "2026-11-22T11:50:18.955436+00:00"
     },
     {
         "id": "c014b32dbc57e19cde51f0a399d9828207865575ac065d06f30196b80853d334",
@@ -582,7 +600,7 @@
         "summary": "\"We don't yet know the number we are able to make, and at what price...\"",
         "url": "https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/",
         "published": "Fri, 20 Nov 2026 16:11:21 +0000",
-        "collected_at": "2026-11-21T11:35:52.551631+00:00"
+        "collected_at": "2026-11-22T11:50:18.955441+00:00"
     },
     {
         "id": "b17f9c57d6b944dd9b12cef8384b48e109a9d1f490366db16a68a9ca1241354d",
@@ -591,7 +609,7 @@
         "summary": "Former FAA insider on reducing the risks of upgrading a decades-old network.",
         "url": "https://arstechnica.com/gadgets/2026/11/how-faa-can-modernize-us-national-airspace-system-without-emergency-ground-stops/",
         "published": "Fri, 20 Nov 2026 14:52:51 +0000",
-        "collected_at": "2026-11-21T11:35:52.551634+00:00"
+        "collected_at": "2026-11-22T11:50:18.955445+00:00"
     },
     {
         "id": "490e0e485391ca171ef6293814c0bd677305b36af12499e3f9c68be4965f89fa",
@@ -600,7 +618,7 @@
         "summary": "Bondholders want SpaceX’s valuable chip collateral kept on Earth and within reach.",
         "url": "https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/",
         "published": "Fri, 20 Nov 2026 14:15:21 +0000",
-        "collected_at": "2026-11-21T11:35:52.551637+00:00"
+        "collected_at": "2026-11-22T11:50:18.955450+00:00"
     },
     {
         "id": "5f7d0ca01fa2eb175b68249d31aef0e69109d27ad1396e14f113cacb09c20560",
@@ -609,25 +627,25 @@
         "summary": "Russia launched a Soyuz rocket with satellites to help enable drone attacks over Ukraine.",
         "url": "https://arstechnica.com/space/2026/11/rocket-report-a-weekend-of-ups-and-downs-stoke-celebrates-engine-milestone/",
         "published": "Fri, 20 Nov 2026 13:35:45 +0000",
-        "collected_at": "2026-11-21T11:35:52.551640+00:00"
+        "collected_at": "2026-11-22T11:50:18.955454+00:00"
     },
     {
-        "id": "8211625ad39f4f6f9926d26bf6fa2959fd3f563def4844264dbad4da1497b4d2",
+        "id": "e41fc8a711e07250969b08b1428064ec130e6d74e10fc759d901736e56d475f7",
         "category": "Technology",
-        "title": "Only the Seminole Tribe can offer online gambling in Florida—and they're furious at DraftKings",
-        "summary": "Gambling? We're just swapping contracts!",
-        "url": "https://arstechnica.com/tech-policy/2026/11/seminole-tribe-tries-to-stop-draftkings-illegal-gambling-in-florida/",
-        "published": "Fri, 20 Nov 2026 12:30:29 +0000",
-        "collected_at": "2026-11-21T11:35:52.551643+00:00"
+        "title": "Trump says reported FBI database hack is ‘not good’",
+        "summary": "The FBI is reportedly investigating a hack of the National Crime Information Center.",
+        "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
+        "published": "Sat, 21 Nov 2026 18:44:53 +0000",
+        "collected_at": "2026-11-22T11:50:19.015816+00:00"
     },
     {
-        "id": "0d74ac30d7a5e2cfa99ab6d79c2a047a0aa44c44ef675405eb9732ed4adcfc7f",
+        "id": "7e38a968ec4d4e65c4b7e7636ad1e1e869ce33d42c8635e7f3371f7da90078b3",
         "category": "Technology",
-        "title": "Science has a home here at Ars—please help keep it that way",
-        "summary": "Your support for Ars matters more now than ever.",
-        "url": "https://arstechnica.com/staff/2026/11/science-has-a-home-here-at-ars-please-help-keep-it-that-way/",
-        "published": "Fri, 20 Nov 2026 12:15:36 +0000",
-        "collected_at": "2026-11-21T11:35:52.551646+00:00"
+        "title": "Alaska, your next governor is a Wikipedia nerd",
+        "summary": "Jonathan Kreiss-Tomkins, Alaska's governor-elect, has made more than 13,000 WIkipedia edits.",
+        "url": "https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/",
+        "published": "Sat, 21 Nov 2026 15:18:29 +0000",
+        "collected_at": "2026-11-22T11:50:19.015831+00:00"
     },
     {
         "id": "728117660118c50c2b189fd6dffaa40b33e5732d6c87b72265d856ea5cee4dfb",
@@ -636,7 +654,7 @@
         "summary": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.",
         "url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
         "published": "Sat, 21 Nov 2026 04:00:00 +0000",
-        "collected_at": "2026-11-21T11:35:52.594457+00:00"
+        "collected_at": "2026-11-22T11:50:19.015838+00:00"
     },
     {
         "id": "d9d43296365478917c08e42df52e580ebcd317fe35e8ee32811d1ad677e46681",
@@ -645,7 +663,7 @@
         "summary": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit.",
         "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
         "published": "Fri, 20 Nov 2026 20:58:29 +0000",
-        "collected_at": "2026-11-21T11:35:52.594476+00:00"
+        "collected_at": "2026-11-22T11:50:19.015843+00:00"
     },
     {
         "id": "e39af07f160c8ff7bf34429205f49b4396d22f4ea670f91e6b16a3aa311bcb58",
@@ -654,7 +672,7 @@
         "summary": "New geothermal startups are betting that they can leapfrog today's leaders to deliver terawatts of electricity nearly anywhere.",
         "url": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/",
         "published": "Fri, 20 Nov 2026 18:34:00 +0000",
-        "collected_at": "2026-11-21T11:35:52.594485+00:00"
+        "collected_at": "2026-11-22T11:50:19.015852+00:00"
     },
     {
         "id": "e3e5304b33344b3f52b1c383d7e4bd49ca4406b921303ab7449e2b0732b75f8c",
@@ -663,7 +681,7 @@
         "summary": "Intuit acquired the company in 2021 for roughly $12 billion, so it looks like Bending Spoons is getting quite a bargain.",
         "url": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
         "published": "Fri, 20 Nov 2026 16:16:06 +0000",
-        "collected_at": "2026-11-21T11:35:52.594490+00:00"
+        "collected_at": "2026-11-22T11:50:19.015858+00:00"
     },
     {
         "id": "439932c18a544a527a432f5302adce8a2204cedf2c463bc5e0ee1fd31db2f95b",
@@ -672,42 +690,6 @@
         "summary": "Exclusive: A simple security lapse exposed transcriptions of police interviews and bodycam footage on a cloud server without a password.",
         "url": "https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/",
         "published": "Fri, 20 Nov 2026 15:46:07 +0000",
-        "collected_at": "2026-11-21T11:35:52.594493+00:00"
-    },
-    {
-        "id": "32bf0c9eaa390a9327db532ed229290849b1807ee32be6956b3e77d2e753e0fb",
-        "category": "Technology",
-        "title": "Behind Jensen Huang’s exit, questions about a management style reportedly built on fear",
-        "summary": "Elon Musk may have been overstating it when he said Nvidia’s employees “love” the ousted Jensen Huang.",
-        "url": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/",
-        "published": "Fri, 20 Nov 2026 13:25:00 +0000",
-        "collected_at": "2026-11-21T11:35:52.594498+00:00"
-    },
-    {
-        "id": "4e46532b436dcbac74f8ddb264501bb80a4b7db1506cd6bcc820e5bbf7c5cc11",
-        "category": "Technology",
-        "title": "California AG subpoenas Nvidia over worries about Huang’s ties with China",
-        "summary": "\"The conduct of Nvidia and its former CEO raises bright red flags, including about the ways in which the company may have misled investors,\" California AG Rob Bonta said.",
-        "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
-        "published": "Fri, 20 Nov 2026 13:21:11 +0000",
-        "collected_at": "2026-11-21T11:35:52.594505+00:00"
-    },
-    {
-        "id": "88264271f833195f59cac64f98803ba706c933e4b5f283d4d2e8cd4f24be3295",
-        "category": "Technology",
-        "title": "The US national cyber director is stepping down",
-        "summary": "The news comes as businesses across the country report a flurry of technical outages, the causes of which are still unknown.",
-        "url": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/",
-        "published": "Fri, 20 Nov 2026 09:14:19 +0000",
-        "collected_at": "2026-11-21T11:35:52.594508+00:00"
-    },
-    {
-        "id": "126a1d2c7faef337fba6a2e08d8f0cfbd2def548cd4f52f130823cc77cadb653",
-        "category": "Technology",
-        "title": "Anthropic rival says companies can (mostly) skip the pricey models",
-        "summary": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust.",
-        "url": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
-        "published": "Fri, 20 Nov 2026 00:26:03 +0000",
-        "collected_at": "2026-11-21T11:35:52.594513+00:00"
+        "collected_at": "2026-11-22T11:50:19.015866+00:00"
     }
 ]
