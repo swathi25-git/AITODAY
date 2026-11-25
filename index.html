@@ -19,64 +19,6 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family=Playfair+Display:wght@600;700;800&display=swap" rel="stylesheet">
 
-/* TRENDING TOPICS */
-
-.trending {
-    margin-top: 65px;
-    padding: 35px;
-    background: #f2f6fa;
-    border-top: 3px solid #1769aa;
-}
-
-.trending-grid {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 20px;
-}
-
-.trending-card {
-    background: #ffffff;
-    padding: 24px;
-    border: 1px solid #e5e7eb;
-    transition: transform 0.2s;
-}
-
-.trending-card:hover {
-    transform: translateY(-4px);
-}
-
-.trending-card h3 {
-    font-family: 'Playfair Display', Georgia, serif;
-    color: #172b4d;
-    font-size: 19px;
-    margin: 10px 0;
-}
-
-.trending-card p {
-    color: #647084;
-    font-size: 13px;
-}
-
-.trending-card a {
-    display: inline-block;
-    margin-top: 12px;
-    color: #1769aa;
-    font-size: 12px;
-    font-weight: 800;
-    text-decoration: none;
-}
-
-@media (max-width: 850px) {
-    .trending-grid {
-        grid-template-columns: 1fr;
-    }
-}
-
-@media (max-width: 600px) {
-    .trending {
-        padding: 22px;
-    }
-}
 
     <style>
         * {
@@ -346,7 +288,63 @@
             color: #647084;
             margin-bottom: 18px;
         }
+/* TRENDING TOPICS */
+.trending {
+    margin-top: 65px;
+    padding: 35px;
+    background: #f2f6fa;
+    border-top: 3px solid #1769aa;
+}
 
+.trending-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+.trending-card {
+    background: #ffffff;
+    padding: 24px;
+    border: 1px solid #e5e7eb;
+    transition: transform 0.2s;
+}
+
+.trending-card:hover {
+    transform: translateY(-4px);
+}
+
+.trending-card h3 {
+    font-family: 'Playfair Display', Georgia, serif;
+    color: #172b4d;
+    font-size: 19px;
+    margin: 10px 0;
+}
+
+.trending-card p {
+    color: #647084;
+    font-size: 13px;
+}
+
+.trending-card a {
+    display: inline-block;
+    margin-top: 12px;
+    color: #1769aa;
+    font-size: 12px;
+    font-weight: 800;
+    text-decoration: none;
+}
+
+@media (max-width: 850px) {
+    .trending-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media (max-width: 600px) {
+    .trending {
+        padding: 22px;
+    }
+}
         /* TOPIC SECTIONS */
 
         .topics {
