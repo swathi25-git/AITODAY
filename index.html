@@ -19,6 +19,65 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family=Playfair+Display:wght@600;700;800&display=swap" rel="stylesheet">
 
+/* TRENDING TOPICS */
+
+.trending {
+    margin-top: 65px;
+    padding: 35px;
+    background: #f2f6fa;
+    border-top: 3px solid #1769aa;
+}
+
+.trending-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+.trending-card {
+    background: #ffffff;
+    padding: 24px;
+    border: 1px solid #e5e7eb;
+    transition: transform 0.2s;
+}
+
+.trending-card:hover {
+    transform: translateY(-4px);
+}
+
+.trending-card h3 {
+    font-family: 'Playfair Display', Georgia, serif;
+    color: #172b4d;
+    font-size: 19px;
+    margin: 10px 0;
+}
+
+.trending-card p {
+    color: #647084;
+    font-size: 13px;
+}
+
+.trending-card a {
+    display: inline-block;
+    margin-top: 12px;
+    color: #1769aa;
+    font-size: 12px;
+    font-weight: 800;
+    text-decoration: none;
+}
+
+@media (max-width: 850px) {
+    .trending-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media (max-width: 600px) {
+    .trending {
+        padding: 22px;
+    }
+}
+
     <style>
         * {
             margin: 0;
@@ -481,6 +540,8 @@
                 <a href="#latest">Latest Articles</a>
                 <a href="#topics">Explore Topics</a>
                 <a href="#about">About</a>
+               <a href="#trending">Trending Topics</a>
+
             </div>
         </nav>
     </header>
@@ -658,6 +719,51 @@
 
             </div>
         </section>
+
+<!-- TRENDING TOPICS -->
+
+<section class="trending" id="trending">
+
+    <div class="section-heading">
+        <h2>Trending Topics</h2>
+        <span>Explore Technology</span>
+    </div>
+
+    <div class="trending-grid">
+
+        <article class="trending-card">
+            <div class="category">Artificial Intelligence</div>
+            <h3>Generative AI</h3>
+            <p>
+                Explore how AI creates text, images,
+                videos and computer code.
+            </p>
+            <a href="#generative-ai">EXPLORE TOPIC →</a>
+        </article>
+
+        <article class="trending-card">
+            <div class="category">Machine Learning</div>
+            <h3>Machine Learning</h3>
+            <p>
+                Understand how computers learn
+                patterns from data.
+            </p>
+            <a href="#machine-learning">EXPLORE TOPIC →</a>
+        </article>
+
+        <article class="trending-card">
+            <div class="category">Cybersecurity</div>
+            <h3>Online Security</h3>
+            <p>
+                Learn about phishing, cyber threats
+                and digital protection.
+            </p>
+            <a href="#phishing">EXPLORE TOPIC →</a>
+        </article>
+
+    </div>
+
+</section>
 
         <!-- MORE TECHNOLOGY CONTENT -->
 
