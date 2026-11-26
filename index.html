@@ -871,5 +871,75 @@
 
     </footer>
 
+<script>
+async function loadApprovedArticles() {
+    const container = document.getElementById("approved-article-list");
+
+    if (!container) return;
+
+    try {
+        const response = await fetch(
+            "https://api.github.com/repos/swathi25-git/AITODAY/contents/articles"
+        );
+
+        if (!response.ok) {
+            throw new Error("Could not load articles");
+        }
+
+        const files = await response.json();
+
+        const articles = files.filter(file =>
+            file.type === "file" &&
+            /\.(md|html)$/i.test(file.name)
+        );
+
+        if (articles.length === 0) {
+            container.textContent = "No approved articles published yet.";
+            return;
+        }
+
+        container.replaceChildren();
+
+        articles.sort((a, b) => b.name.localeCompare(a.name));
+
+        articles.forEach(file => {
+            const card = document.createElement("article");
+            card.className = "markdown-card";
+
+            const heading = document.createElement("h3");
+            heading.textContent = file.name
+                .replace(/\.(md|html)$/i, "")
+                .replace(/^\d{4}-\d{2}-\d{2}-/, "")
+                .replace(/-/g, " ");
+
+            const link = document.createElement("a");
+
+            if (file.name.toLowerCase().endsWith(".md")) {
+                link.href = "read-article.html?file=" +
+                    encodeURIComponent(file.name);
+            } else {
+                link.href = "articles/" +
+                    encodeURIComponent(file.name);
+            }
+
+            link.textContent = "Read article →";
+
+            card.appendChild(heading);
+            card.appendChild(link);
+            container.appendChild(card);
+        });
+
+    } catch (error) {
+        container.textContent =
+            "Unable to load articles. Please try again later.";
+        console.error(error);
+    }
+}
+
+loadApprovedArticles();
+</script>
+
+
+
 </body>
 </html>
